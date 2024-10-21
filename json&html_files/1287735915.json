@@ -1,0 +1,41 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "PocketDoc by Perlman Clinic 17+",
+  "subtitle": "Virtual Care For Your Family",
+  "seller": "Perlman Clinic",
+  "stars": "4.9",
+  "rating": "10K Ratings",
+  "price": "Free",
+  "appDescription": "The easy and convenient doctor's office. No waiting rooms. No hassles. Talk to one of our trusted healthcare providers in minutes. We’ll do our best to treat your conditions and, if necessary, prescribe directly to your pharmacy. PocketDoc also integrates with Apple Health on your phone allowing you to sync your exercise minutes, step count, heart rate, and more. Your provider can then view this data and make individualized recommendations and help you achieve your health goals. Thank you for considering us as your healthcare provider. We hope you give us a try. For questions, please call (858) 617-0528 or email help@pocketdocapp.com. more",
+  "reviews": [
+    {
+      "user": "GalHealthy",
+      "date": "05/22/2020",
+      "title": "Less waiting!",
+      "review": "I prefer to see my doctor in person; however, this app allows you to check-in and then instead of waiting, it sends you a text letting you know when your doctor is ready. So you can work or do other things instead of sitting in a waiting room or exam room. Plus, the doctors are more adamant about staying on schedule. And it holds all your insurance and pharmacy info. Highly recommend if short on time or just need a referral or have something that doesn’t require a physical exam. more"
+    },
+    {
+      "user": "Eye_duh",
+      "date": "09/11/2021",
+      "title": "Wow!!!!!",
+      "review": "I feel really bad for all other healthcare providers because this app is ALLLLLL YOU NEED !!!!! What have I been doing all my life !!!? This is the most user friendly app, such nice doctors. There is a doctor for every need I have and more. I just am so happy I found this network!!!! I can be anywhere and use this app to talk to my trusted doctors. Thank you PocketDoc!!!!!!! more"
+    },
+    {
+      "user": "Teacup-Tempest",
+      "date": "12/03/2020",
+      "title": "Serious voiceover Accessibility Issues",
+      "review": "To say that I am disappointed in the level of inaccessibility I found in this app would be an understatement. From the signup screen alone it was clear that blind users were not considered. Before text is entered into the fields voiceover reads the labels, but as soon as text is entered voiceover does not read it or the accompanying label. The gender selection options, the button to agree to the terms of service and the button to register are not clickable. There are other problems once an account has been created, and I haven’t even attempted the video appointment yet. This isn’t a silly game, this is a telehealth app in the middle of a pandemic. These access issues need to be fixed. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "60.1 MB",
+  "category": "Health & Fitness",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English"
+}

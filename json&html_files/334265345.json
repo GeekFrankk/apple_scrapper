@@ -1,0 +1,39 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "UpToDate 17+",
+  "subtitle": "",
+  "seller": "UpToDate, Inc.",
+  "stars": "3.8",
+  "rating": "439 Ratings",
+  "price": "Free",
+  "appDescription": "INDIVIDUAL OR INSTITUTIONAL SUBSCRIPTION REQUIRED. UpToDate® registrants and individual subscribers can answer their clinical questions anytime, anywhere by downloading this App for iOS onto their iPad®, iPhone®, or iPod touch®. UpToDate is the leading clinical decision support resource with evidence-based clinical information – including drug topics and recommendations that clinicians rely on at the point of care. UpToDate has been the subject of over 30 research studies confirming that widespread usage of UpToDate is associated with improved patient care and hospital performance. UpToDate App for iOS Features: • Persistent login • Easy search with auto-completion • Earn and track free CME/CE/CPD credit • Bookmarks and history • Mobile-optimized medical calculators • Print and email topics or graphics to patients and colleagues We would love to hear your feedback. Please remember, we cannot reply to your comments in the App Store. If you have a question, please contact us at customerservice@uptodate.com. Thank you! iPad, iPhone and iPod touch are trademarks of Apple Inc, registered in the US and other countries. more",
+  "reviews": [
+    {
+      "user": "Greek Moose",
+      "date": "02/04/2018",
+      "title": "Overall great, but lacking simple features",
+      "review": "UpToDate is an excellent resource for healthcare providers to access current information relevant to clinical practice. The app allows for easy mobile access to UpToDate’s exceptional content from well regarded authors. In order to the improve the mobile experience it would very beneficial to have features to allow users to highlight text and add notations for future reference. UpToDate please add highlighting capabilities! more"
+    },
+    {
+      "user": "AZ_Doc",
+      "date": "09/16/2023",
+      "title": "Not connecting to server problem",
+      "review": "I’ve been using this app especially for its offline content for years with my (expensive) personal subscription. Recently any action generates numerous error popups indicating a connection or network problem. I deleted the app and reinstalled the latest version from the App Store but now even trying to login generates a connection or server error. Fortunately I am able to access the UTD web site, but there have been several circumstances where I have been in areas without WiFi or cell service under emergency conditions and unable to access the offline content due to need to update the offline content. Certainly if one cannot login or access information, especially under urgent medical situations, the app is not useful so I can’t justify more than one star if the app doesn’t work. My advice to many others out there who also have this problem is don’t buy individual subscriptions and just use institutional accounts when connected to a work machine and look to other reliable apps that offer offline content when in need of urgent medical information ( and there are many). Our practice and affiliated hospitals no longer use UTD because of unreliable access issues. The quality of medical care in the USA has deteriorated due to problems with technology and this is another example of a chronic technology problem afflicting many that UTD does not appear capable of repairing. Stay away from this app! more"
+    },
+    {
+      "user": "blackboard #sucks2suck",
+      "date": "01/01/2022",
+      "title": "Amazing but broken with recent update",
+      "review": "Amazing app with high quality reliable medical knowledge at your fingertips, but unfortunately what was a nearly perfect app was broken with the most recent update. The skip to section of the table of contents of articles works properly as it always has, but the drug information pages no longer skip to the right section, it is always wrong and several sections down resulting in having to scroll through huge amounts of information to get to section needed. I ended up using pediatric renal dosing of a medication instead of adult renal dosing because it jumped to the wrong section and the table didn’t have a title to identify that it was for pediatric instead of adults. Please fix this immediately! It makes looking up drugs on the app useless and have to rely on desktop for web browser version more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "Apple Vision"
+  ],
+  "size": "37.9 MB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English, Dutch, French, German, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese, Turkish, Vietnamese"
+}

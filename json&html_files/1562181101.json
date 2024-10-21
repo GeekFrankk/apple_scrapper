@@ -1,0 +1,33 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Patient Connect by AiCure 4+",
+  "subtitle": "",
+  "seller": "AiCure, LLC",
+  "stars": "4.6",
+  "rating": "8 Ratings",
+  "price": "Free",
+  "appDescription": "Patient Connect is designed to support patients and volunteers as they participate in treatment, clinical trials and research activities. Benefits include: **Guidance and Support** Patient Connect provides helpful reminders for essential activities such as taking medication, answering questionnaires and upcoming visits. When it is time to take a dose, the app includes step-by-step guidance to ensure medication is taken as directed. **Convenient Assessments** The application enables participants to complete surveys and assessments about their health and treatment quickly and easily on their phone, allowing remote evaluation of progress between in-person visits. **Engagement and Connection** Patient Connect enables closer, simpler connections between participants and their care team, allowing healthcare providers to offer proactive communication and support between visits. AiCure thanks all who contribute to the development of safe, effective treatments. ---- Please Note: This application is specifically designed for iPhones and is not yet validated for tablet devices such as iPads. more",
+  "reviews": [
+    {
+      "user": "quinnjaron",
+      "date": "06/22/2023",
+      "title": "Amazing tool for clinical trials",
+      "review": "Big improvement on the patient experience using AiCure with this new app platform. Check out the release/update notes—this app has a lot of useful updates that regularly fix issues and add much-needed new features. more"
+    },
+    {
+      "user": "Jason-23(^_^)",
+      "date": "03/12/2022",
+      "title": "Awesome app",
+      "review": "I wrote some code of this app before and I am happy to see it released in the App Store, good luck on everything!"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPod touch",
+    "Apple Vision"
+  ],
+  "size": "94.4 MB",
+  "category": "Medical",
+  "ageRating": "4+",
+  "languages": "English, Arabic, Bulgarian, Cebuano, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hiligaynon, Hungarian, Italian, Japanese, Korean, Lithuanian, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Russian, Serbian, Simplified Chinese, Slovak, Spanish, Swedish, Tamil, Traditional Chinese, Turkish, Ukrainian"
+}

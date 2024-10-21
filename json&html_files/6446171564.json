@@ -1,0 +1,34 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "DrCam 4+",
+  "subtitle": "Security Monitoring",
+  "seller": "TANGE TECHNOLOGY (SINGAPORE) PTE. LTD.",
+  "stars": "5.0",
+  "rating": "2 Ratings",
+  "price": "Free",
+  "appDescription": "DrCam network camera management terminal to help connect and manage network cameras",
+  "reviews": [
+    {
+      "user": "Minmin8386",
+      "date": "09/08/2024",
+      "title": "Ổn nhưng cần có thêm bản web và tính năng xem nhiều cam",
+      "review": "Ổn nhưng cần có thêm bản web và tính năng xem nhiều cam mong dev update sớm"
+    },
+    {
+      "user": "Chàng trai review",
+      "date": "06/07/2024",
+      "title": "App VietNam",
+      "review": "Ủng hộ thương hiệu việt, cải thiện một số tính năng AI là tuyệt vời"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac"
+  ],
+  "size": "71.5 MB",
+  "category": "Utilities",
+  "ageRating": "4+",
+  "languages": "English, Simplified Chinese, Vietnamese"
+}

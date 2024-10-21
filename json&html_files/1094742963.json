@@ -1,0 +1,32 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "PedsGuide 12+",
+  "subtitle": "Pediatric Decision Support",
+  "seller": "Children's Mercy Hospital",
+  "stars": "5.0",
+  "rating": "7 Ratings",
+  "price": "Free",
+  "appDescription": "In our commitment to creating a world of well-being for all children, Children’s Mercy Kansas City has created PedsGuide as a means for evidence-based pediatric clinical support guidelines to be available to health care providers. PedsGuide is a multi-module pediatric clinical decision support tool intended for use only by professional health care providers and emergency personnel for informational and educational purposes. *Each module provides users with a step-by-step interactive clinical decision support process, including reference material and/or contextually relevant information based on evidence-based practice and expert opinion routinely used in clinical practice, to assist in management of various acute illnesses in children. The modules have been designed and optimized by an interdisciplinary team of clinicians, pharmacists, medical librarians, Human Factors scientists, and innovations professionals. Human Factors methodology was leveraged to guide interfaces that provide rapid access to information and assessment tools, which facilitate an efficient aid for care management while decreasing cognitive load for the user. Additionally, for users who seek care for patients at The Children’s Mercy Hospital, PedsGuide features a quick-call feature to contact the Children’s Mercy Contact Center and Critical Care Transport Team in our service area. *While PedsGuide is a helpful tool, it is not intended to replace the independent judgment and evaluation of health care providers and emergency personnel. Healthcare providers and emergency personnel should not rely primarily on the tool to make a clinical diagnosis or treatment decision. Children's Mercy is not responsible for the correctness of any action you take based upon your use of PedsGuide. Resuscitation features: -Interactive flow algorithms to support advanced pediatric emergencies -Weight and age-based tools for pediatric resuscitation, emergent medication dosing, cardiovascular drip calculation, rapid sequence intubation, acute burn assessment and fluid resuscitation guidelines, Glascow scoring, and much more! Febrile Infant features: -Evaluation and recommendation algorithms based on research and expert opinion for managing febrile infants less than 90 days old -Easy-to-use checklists for entering basic clinical and medical history information to assess a patient’s risk of severe illness -Visual aids that provide users an estimation of risk for severe illness Asthma features: -Management tools to assist health care providers providing care for acute asthma exacerbation for children 2 years and older -Nationally recognized scoring systems -Hour by hour, easy to follow decision support Diabetes and DKA features: -DKA diagnosis and initial management recommendations -Weight and age-based tools for IVF and insulin drip titration using a two-bag system during DKA management -Routine (non-DKA) diabetes management algorithms and insulin dose calculation guidelines BRUE features: -Transformed algorithm for Brief Resolved Unexplained Event assessment and treatment guidelines Atopic Dermatitis and Infected Atopic Dermatitis Coming Soon -Assessment and treatment guidelines Stay tuned as we have multiple new modules in development! more",
+  "reviews": [
+    {
+      "user": "mamadocped",
+      "date": "01/24/2019",
+      "title": "Excellent app for anyone who provides medical care to children",
+      "review": "Every provider (physicians and APPs) who take care of infants in an acute care setting should download this app and use it!"
+    },
+    {
+      "user": "Russem",
+      "date": "12/03/2016",
+      "title": "Love it",
+      "review": "Like the pictographs too."
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPod touch"
+  ],
+  "size": "21.4 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

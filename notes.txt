@@ -1,0 +1,1 @@
+canonical - for locating the url links to the apk/apps

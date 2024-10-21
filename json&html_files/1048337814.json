@@ -1,0 +1,40 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Mole Mapper Melanoma Study 17+",
+  "subtitle": "",
+  "seller": "Oregon Health & Science University Apps",
+  "stars": "2.9",
+  "rating": "24 Ratings",
+  "price": "Free",
+  "appDescription": "MoleMapper™ is a personalized tool to help you map, measure, and monitor the moles on your skin. Using a familiar Maps-like interface, you can measure the size of a mole using the camera and a reference coin. Keeping track of the size, shape and color of your moles is one of the best ways to catch potential skin cancers like melanoma in their early stages. Whether you use MoleMapper™ to keep track of a single suspicious mole over time or construct a full-body map, we hope this app will make being vigilant about your health a bit more enjoyable. Happy Mapping! more",
+  "reviews": [
+    {
+      "user": "Beer_zaygy",
+      "date": "03/03/2024",
+      "title": "Upload photos",
+      "review": "Please add a way to upload a photo from the camera roll. I use the camera magnifier, which takes the clearest photos (rather than the camera), but there is no way to add the photo."
+    },
+    {
+      "user": "BELudke",
+      "date": "08/25/2018",
+      "title": "App crashes",
+      "review": "The app keeps crashing when I try to open my pictures! Having a severely atypical mole excised in two weeks - would be nice to compare to old data."
+    },
+    {
+      "user": "singergurl1125",
+      "date": "12/07/2022",
+      "title": "Cool concept, but…",
+      "review": "Doesn’t seem to be a way to transfer my old data to a new phone. No “account” to log into. Defeats the purpose of longitudinal monitoring"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "33.1 MB",
+  "category": "Health & Fitness",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English"
+}

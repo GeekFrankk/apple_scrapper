@@ -1,0 +1,40 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Doctolib - Your health partner 4+",
+  "subtitle": "Manage medical appointments",
+  "seller": "Doctolib",
+  "stars": "4.7",
+  "rating": "704 Ratings",
+  "price": "Free",
+  "appDescription": "Easily keep track of your health with the Doctolib app: • Access the availabilities of thousands of healthcare professionals from all specialities • Find and book medical appointments 24/7 online for in-person or video consultations • Send messages to doctors and therapists for follow up prescriptions, test results and more • Add relatives to your account to easily manage their appointments • Look after your child's appointments and documents together with another parent • Get automatic reminders for appointments in the app so you never miss one • Share prescriptions and other medical documents securely with your practitioner and pharmacy for seamless care • Store your appointment history and medical documents Doctolib - one of Europe's leading e-health companies: • 80 million patients • 900,000 healthcare professionals in France, Germany, and Italy Your health. Your data. Protecting your personal data is our absolute priority and influences everything we do at Doctolib. The Doctolib app is available in English, French, German, and Italian. more",
+  "reviews": [
+    {
+      "user": "SpiderCS1",
+      "date": "08/15/2023",
+      "title": "Useful App",
+      "review": "I rarely if not at all write more than two words for a review. But I honestly have to say. This App is not perfect and it could have a few more useful features like being able to message your provider through the App. I know there must be a perfectly logic and logistical issue with making that work. But regardless, the App is simplistic and that’s why it works well in my opinion. more"
+    },
+    {
+      "user": "strikec0re",
+      "date": "05/01/2024",
+      "title": "allows misleading information",
+      "review": "I was able to find a therapist off this app, hence the two stars. But it’s a frustrating experience. Doctors are allowed to falsely state themselves in search filters as taking public health insurance when they only take private. Despite this being reported multiple times, Doctolib claims it’s not their responsibility for wrong information being posted on their app/website despite being the only booking place for several doctors. They also allow doctors with shady qualifications. The offerings listed for appointments is always too small/too little and there seems to be no quality monitoring or proper reporting system, leading to some practioners trying to scam new patients (usually immigrants) while Doctolib looks the other way. Book through your health insurance instead, it will save you the time and drama more"
+    },
+    {
+      "user": "Lucy19375027",
+      "date": "05/02/2021",
+      "title": "Fantastic app - language option be great!",
+      "review": "This is a fantastic app. Easy to use, so easy to book an appointment (just booked the osteo at 9am on a Sunday!). I also appreciate that it keeps my history so I can easily find the doctor I need and book. I would appreciate a language option but that is really the only area of improvement that I see. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Apple Vision"
+  ],
+  "size": "60.6 MB",
+  "category": "Medical",
+  "ageRating": "4+",
+  "languages": "French, German, Italian"
+}
