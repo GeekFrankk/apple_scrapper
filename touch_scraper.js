@@ -10,8 +10,8 @@ const api = new CrawlingAPI({ token: crawlbaseToken });
 const appStoreUrls = [
   'https://apps.apple.com/us/app/klinio-health-weight-loss/id1511958049',
   'https://apps.apple.com/us/app/curable/id1325784379',
-  ' ',
-  '',
+  'https://apps.apple.com/us/app/curable/id1325784379',
+  'https://apps.apple.com/us/app/talkspace-therapy-and-support/id661829386',
   '',
   '',
   '',
