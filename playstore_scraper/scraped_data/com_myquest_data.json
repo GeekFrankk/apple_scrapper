@@ -1,0 +1,62 @@
+{
+    "title": "MyQuest for Patients",
+    "description": "Take control of your health. \r\n\r\nWith the MyQuest app from Quest Diagnostics, all your lab results and appointments are at your fingertips \u2013 so you have the information you need to stay healthy: \r\n\r\n\u2022\tView your lab results securely and quickly \r\n\u2022\tFind nearby Quest locations that are convenient for you\r\n\u2022\tSchedule and manage your appointments \r\n\u2022\tManage the health of your loved ones with MyCircle \r\n\u2022\tBrowse and buy your own tests with QuestDirect \r\n\u2022\tShare your health information with your healthcare providers\r\n\u2022\tIntegrate your results with Apple Health \r\n\r\nDid you know that people are more likely to know their WiFi password than important health information, such as their blood type, cholesterol, and blood sugar levels? Take control of your health with the MyQuest app, and view your lab results, manage appointments, and more, all in one place.  \r\n\r\nDownload MyQuest today to get access to an all-new way to manage your healthy journey with Quest.",
+    "descriptionHTML": "Take control of your health. <br><br>With the MyQuest app from Quest Diagnostics, all your lab results and appointments are at your fingertips \u2013 so you have the information you need to stay healthy: <br><br>\u2022\tView your lab results securely and quickly <br>\u2022\tFind nearby Quest locations that are convenient for you<br>\u2022\tSchedule and manage your appointments <br>\u2022\tManage the health of your loved ones with MyCircle <br>\u2022\tBrowse and buy your own tests with QuestDirect <br>\u2022\tShare your health information with your healthcare providers<br>\u2022\tIntegrate your results with Apple Health <br><br>Did you know that people are more likely to know their WiFi password than important health information, such as their blood type, cholesterol, and blood sugar levels? Take control of your health with the MyQuest app, and view your lab results, manage appointments, and more, all in one place.  <br><br>Download MyQuest today to get access to an all-new way to manage your healthy journey with Quest.",
+    "summary": "Get your lab results on your smartphone with MyQuest.",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "realInstalls": 2426786,
+    "score": 4.518176,
+    "ratings": 33317,
+    "reviews": 12340,
+    "histogram": [
+        1877,
+        687,
+        1077,
+        4320,
+        25352
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Quest Diagnostics Incorporated",
+    "developerId": "Quest+Diagnostics+Incorporated",
+    "developerEmail": "myquestsupport@questdiagnostics.com",
+    "developerWebsite": "https://myquest.questdiagnostics.com/",
+    "developerAddress": null,
+    "privacyPolicy": "http://questdiagnostics.com/home/privacy-policy/online-privacy.html",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/3WK1YAM7sVsOLTUH2Elj8OBKXC6cilBsYLOAr7WB_GT0I_475XjOKyYkcUBBbc0hgnw",
+    "headerImage": "https://play-lh.googleusercontent.com/pFl09clQMjtcg0SLeJdrG0ackz5Bxv_3mE8KUYUh03JeFoBF-mjnykOpRXlQW3AKx3I",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/Ri0-IBjm9ybY1JI2kr7VwJCkS4-mWRXIqfyX7jK-fz_r6RH2oq2bsA1VV2c9AzW7wys",
+        "https://play-lh.googleusercontent.com/qQbgOV-vyyGZXeQBK9uuK-fFVPG3LJaI0UOQGj9uoomKG0iiT2LkXQa8BoeRtcBpSw",
+        "https://play-lh.googleusercontent.com/-buFOGDAtFBBMNIn3pPfQPmAbW7GpbRgiSwSWZNKvFv6JBRIsy0IWPr5h6z3fTh75aQ"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Mar 27, 2014",
+    "lastUpdatedOn": "Sep 20, 2024",
+    "updated": 1726826502,
+    "version": "4.8",
+    "comments": [],
+    "appId": "com.myquest",
+    "url": "https://play.google.com/store/apps/details?id=com.myquest&hl=en&gl=us"
+}

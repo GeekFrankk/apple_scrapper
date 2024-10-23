@@ -1,0 +1,63 @@
+{
+    "title": "Health Connect",
+    "description": "Health Connect by Android gives you a simple way to share data between your health, fitness, and wellbeing apps without compromising on privacy.\r\n\r\nOnce you've downloaded Health Connect, you can access it through your settings by going to Settings > Apps > Health Connect, or from your Quick Settings menu.\r\n\r\n<b>Get more from your favorite apps.</b> Whether you're focused on activity or sleep, nutrition or vitals, sharing data between your apps can help you better understand your health. Health Connect gives you simple controls, so you only share the data you want to.\r\n\r\n<b>Keep your health and fitness data in one place.</b> Health Connect stores the health and fitness data from your apps in one place, offline and on your device, so you can easily manage the data from your different apps.\r\n\r\n<b>Update privacy settings in a few taps.</b> Before a new app can access your data, you can review and choose what you want to share. If you change your mind, or want to see which apps recently accessed your data, find it all in Health Connect.",
+    "descriptionHTML": "Health Connect by Android gives you a simple way to share data between your health, fitness, and wellbeing apps without compromising on privacy.<br><br>Once you&#39;ve downloaded Health Connect, you can access it through your settings by going to Settings &gt; Apps &gt; Health Connect, or from your Quick Settings menu.<br><br><b>Get more from your favorite apps.</b> Whether you&#39;re focused on activity or sleep, nutrition or vitals, sharing data between your apps can help you better understand your health. Health Connect gives you simple controls, so you only share the data you want to.<br><br><b>Keep your health and fitness data in one place.</b> Health Connect stores the health and fitness data from your apps in one place, offline and on your device, so you can easily manage the data from your different apps.<br><br><b>Update privacy settings in a few taps.</b> Before a new app can access your data, you can review and choose what you want to share. If you change your mind, or want to see which apps recently accessed your data, find it all in Health Connect.",
+    "summary": "A simple way to share data between health, fitness, and wellbeing apps",
+    "installs": "100,000,000+",
+    "minInstalls": 100000000,
+    "realInstalls": 443775539,
+    "score": 3.2191358,
+    "ratings": 34568,
+    "reviews": 1516,
+    "histogram": [
+        13225,
+        1279,
+        1493,
+        1813,
+        16745
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "developerEmail": "health-connect-support@google.com",
+    "developerWebsite": "http://www.android.com/",
+    "developerAddress": "1600 Amphitheatre Parkway, Mountain View 94043",
+    "privacyPolicy": "https://policies.google.com/privacy",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "categories": [
+        {
+            "name": "Health & Fitness",
+            "id": "HEALTH_AND_FITNESS"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/EbzDx68RZddtIMvs8H8MLcO-KOiBqEYJbi_kRjEdXved0p3KXr0nwUnLUgitZ5kQVWVZ",
+    "headerImage": "https://play-lh.googleusercontent.com/h_okM6tahrGGnLB9vYUStzVRf_ExD2YRMzGoB6ODpmpT6KkYt4d_88sUYx8wrezt5if5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/xAINeygp0NHm3O9Mu9Qu5HqB42TeISpZn-RA21tovevbSbMeaXsN6YtLpn5TIDbYaqk",
+        "https://play-lh.googleusercontent.com/Ts1-hxUpJxBm4AIqZDupa6Yf32db8Wbo7xb9vg8L1vVDialSbemIv0WE9guttZcGiw",
+        "https://play-lh.googleusercontent.com/Pte-WAWraBXvRQ4nOloleSVSo2xsCTvzvrWtVbCux-q1y3pi8FHdBKt7HMrr816gMW3y",
+        "https://play-lh.googleusercontent.com/dDixaJynu2yCvgxBO-OV6gw5UZclrR6Lu4oGSbz_5Mqxc1ukT5KDnEFHph_mKJ0Uh9w"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Nov 10, 2022",
+    "lastUpdatedOn": "Oct 14, 2024",
+    "updated": 1728896897,
+    "version": "2024.09.19.00.release",
+    "comments": [],
+    "appId": "com.google.android.apps.healthdata",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata&hl=en&gl=us"
+}
