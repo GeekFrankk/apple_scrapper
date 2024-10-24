@@ -72,21 +72,21 @@ const processFiles = async () => {
             console.log("Duplicate Apps within Play Store:");
             playStoreDuplicates.forEach(app => console.log(app));
         } else {
-            console.log("No duplicate apps found within Play Store.");
+            console.log("No duplicate in - Play Store.\n");
         }
 
         if (appleStoreDuplicates.length > 0) {
             console.log("Duplicate Apps within Apple Store:");
             appleStoreDuplicates.forEach(app => console.log(app));
         } else {
-            console.log("No duplicate apps found within Apple Store.");
+            console.log("No duplicate in - Apple Store.\n");
         }
 
         if (duplicateBetweenStores.length > 0) {
             console.log("Duplicate Apps found in both Play Store and Apple Store:");
             duplicateBetweenStores.forEach(app => console.log(app));
         } else {
-            console.log("No duplicate apps found between Play Store and Apple Store.");
+            console.log("\nNo duplicate apps found between: Play Store and Apple Store.\n");
         }
 
     } catch (error) {
