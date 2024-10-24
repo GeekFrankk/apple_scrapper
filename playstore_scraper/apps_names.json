@@ -538,5 +538,385 @@
     {
         "App Name": "Hospital Empire - Idle Tycoon",
         "App URL": "https://play.google.com/store/apps/details?id=com.vivastudios.idle.hospital.tycoon.empire"
+    },
+    {
+        "App Name": "NHS App",
+        "App URL": "https://play.google.com/store/apps/details?id=com.nhs.online.nhsonline"
+    },
+    {
+        "App Name": "Dr. Cares - Amy's Pet Clinic",
+        "App URL": "https://play.google.com/store/apps/details?id=com.gamehouse.dc2"
+    },
+    {
+        "App Name": "Diagnosaurus DDx",
+        "App URL": "https://play.google.com/store/apps/details?id=com.unbound.android.cqdzl"
+    },
+    {
+        "App Name": "CURRENT Med Diag & Treatment",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.cmdt"
+    },
+    {
+        "App Name": "Nurse's Pocket Guide Diagnosis",
+        "App URL": "https://play.google.com/store/apps/details?id=com.unbound.android.ubnpl"
+    },
+    {
+        "App Name": "Human Dx",
+        "App URL": "https://play.google.com/store/apps/details?id=org.humandx.cases"
+    },
+    {
+        "App Name": "Manual of Nursing Diagnosis",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.mnldx"
+    },
+    {
+        "App Name": "Symptomate \u2013 Symptom checker",
+        "App URL": "https://play.google.com/store/apps/details?id=com.symptomate.mobile"
+    },
+    {
+        "App Name": "Diseases & Disorders: Nursing",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.rndiseases"
+    },
+    {
+        "App Name": "Laboratory Diagnostic Tests",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.rndxtests"
+    },
+    {
+        "App Name": "EOBD Facile: OBD 2 Car Scanner",
+        "App URL": "https://play.google.com/store/apps/details?id=org.eobdfacile.android"
+    },
+    {
+        "App Name": "VisualDx",
+        "App URL": "https://play.google.com/store/apps/details?id=com.visualdx.android"
+    },
+    {
+        "App Name": "Manual Lab & Diagnostic Tests",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.labtests"
+    },
+    {
+        "App Name": "Symptom to Diagnosis EB Guide",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.ebsymptom"
+    },
+    {
+        "App Name": "Guide to Diagnostic Tests",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.dxtests"
+    },
+    {
+        "App Name": "OBD Auto Doctor scanner",
+        "App URL": "https://play.google.com/store/apps/details?id=com.obdautodoctor"
+    },
+    {
+        "App Name": "Medcases: Medical Courses",
+        "App URL": "https://play.google.com/store/apps/details?id=io.medcases"
+    },
+    {
+        "App Name": "Car Scanner ELM OBD2",
+        "App URL": "https://play.google.com/store/apps/details?id=com.ovz.carscanner"
+    },
+    {
+        "App Name": "Miiskin Skin & Dermatology",
+        "App URL": "https://play.google.com/store/apps/details?id=com.miiskin.android"
+    },
+    {
+        "App Name": "K Health | 24/7 Virtual Care",
+        "App URL": "https://play.google.com/store/apps/details?id=ai.kanghealth"
+    },
+    {
+        "App Name": "AI Dermatologist: Skin Scanner",
+        "App URL": "https://play.google.com/store/apps/details?id=com.aidermatologist"
+    },
+    {
+        "App Name": "Visible: Pacing for illness",
+        "App URL": "https://play.google.com/store/apps/details?id=com.makevisible.visible"
+    },
+    {
+        "App Name": "PMcardio - ECG Analysis",
+        "App URL": "https://play.google.com/store/apps/details?id=com.powerfulmedical.pmcardio"
+    },
+    {
+        "App Name": "Bates' Physical Examination",
+        "App URL": "https://play.google.com/store/apps/details?id=com.unbound.android.ubpel"
+    },
+    {
+        "App Name": "docOPD - Diagnosis to Cure",
+        "App URL": "https://play.google.com/store/apps/details?id=com.vspl.docopd"
+    },
+    {
+        "App Name": "Pathway",
+        "App URL": "https://play.google.com/store/apps/details?id=com.pathwaymedical.pathway"
+    },
+    {
+        "App Name": "YOUdermoscopy",
+        "App URL": "https://play.google.com/store/apps/details?id=it.meeter.ydtraning"
+    },
+    {
+        "App Name": "Zepp\uff08formerly Amazfit\uff09",
+        "App URL": "https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager"
+    },
+    {
+        "App Name": "Health Diary by MedM",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medm.app.health"
+    },
+    {
+        "App Name": "Sleep as Android: Smart alarm",
+        "App URL": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep"
+    },
+    {
+        "App Name": "Angry Pill Box & Alarm, Pillo",
+        "App URL": "https://play.google.com/store/apps/details?id=xyz.rtrvr.pillo"
+    },
+    {
+        "App Name": "Doctor Learning Games for Kids",
+        "App URL": "https://play.google.com/store/apps/details?id=skidos.preschool.kids.doctor.game"
+    },
+    {
+        "App Name": "La Dieta del Dottor Mozzi",
+        "App URL": "https://play.google.com/store/apps/details?id=it.editricemogliazze.dieta_dott_mozzi"
+    },
+    {
+        "App Name": "Effectivate: Keeping You Sharp",
+        "App URL": "https://play.google.com/store/apps/details?id=com.effectivate.android_main"
+    },
+    {
+        "App Name": "Insight Timer - Meditation App",
+        "App URL": "https://play.google.com/store/apps/details?id=com.spotlightsix.zentimerlite2"
+    },
+    {
+        "App Name": "BELONG Beating Cancer Together",
+        "App URL": "https://play.google.com/store/apps/details?id=com.belongtail.belong"
+    },
+    {
+        "App Name": "TNM Cancer Staging Calculator",
+        "App URL": "https://play.google.com/store/apps/details?id=com.canxer.canxer"
+    },
+    {
+        "App Name": "Physicians Cancer Chemotherapy",
+        "App URL": "https://play.google.com/store/apps/details?id=com.atmoapps.pcch"
+    },
+    {
+        "App Name": "OWise Breast Cancer Support",
+        "App URL": "https://play.google.com/store/apps/details?id=nl.onesixty.owise"
+    },
+    {
+        "App Name": "Outcomes4Me Cancer Care",
+        "App URL": "https://play.google.com/store/apps/details?id=com.outcomes4me"
+    },
+    {
+        "App Name": "TNM Cancer Staging System",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.ajcc"
+    },
+    {
+        "App Name": "MFHP: Cancer",
+        "App URL": "https://play.google.com/store/apps/details?id=gov.cdc.brca"
+    },
+    {
+        "App Name": "LivingWith\u2122: Cancer support",
+        "App URL": "https://play.google.com/store/apps/details?id=com.pfizer.us.livingwith"
+    },
+    {
+        "App Name": "cancer education",
+        "App URL": "https://play.google.com/store/apps/details?id=com.cancereducation"
+    },
+    {
+        "App Name": "ZenOnco Cancer Care",
+        "App URL": "https://play.google.com/store/apps/details?id=com.zenonco.cancer"
+    },
+    {
+        "App Name": "Cancer Exercise",
+        "App URL": "https://play.google.com/store/apps/details?id=com.inspiringapps.cancerexercise"
+    },
+    {
+        "App Name": "OncoDiary: Cancer Support",
+        "App URL": "https://play.google.com/store/apps/details?id=com.oncodiary.app"
+    },
+    {
+        "App Name": "FUNdraising",
+        "App URL": "https://play.google.com/store/apps/details?id=org.cancer.fundraising"
+    },
+    {
+        "App Name": "NCCN Patient Guides for Cancer",
+        "App URL": "https://play.google.com/store/apps/details?id=com.mediaparts.nccn"
+    },
+    {
+        "App Name": "ONCOassist",
+        "App URL": "https://play.google.com/store/apps/details?id=com.oncoassist.core"
+    },
+    {
+        "App Name": "Cancer Pharmacology Manual",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.cancerpharmmnl"
+    },
+    {
+        "App Name": "Surviving Breast Cancer Org",
+        "App URL": "https://play.google.com/store/apps/details?id=org.survivingbreastcancer"
+    },
+    {
+        "App Name": "scanoma mole check dermatology",
+        "App URL": "https://play.google.com/store/apps/details?id=com.scanoma.app"
+    },
+    {
+        "App Name": "Rise Against Cancer",
+        "App URL": "https://play.google.com/store/apps/details?id=com.ics.riseagainstcancer"
+    },
+    {
+        "App Name": "ASCO Guidelines",
+        "App URL": "https://play.google.com/store/apps/details?id=org.asco.guidelines"
+    },
+    {
+        "App Name": "NCCN Guidelines\u00ae",
+        "App URL": "https://play.google.com/store/apps/details?id=com.tipmedcom.nccn.guidelines.mobile"
+    },
+    {
+        "App Name": "Cancer Connection",
+        "App URL": "https://play.google.com/store/apps/details?id=org.allinahealth.oncology"
+    },
+    {
+        "App Name": "OWise Prostate Cancer Support",
+        "App URL": "https://play.google.com/store/apps/details?id=com.pxhealthcare.owise2.app"
+    },
+    {
+        "App Name": "ESMO Interactive Guidelines",
+        "App URL": "https://play.google.com/store/apps/details?id=com.bbi.european_society_medical_oncology_guidelines"
+    },
+    {
+        "App Name": "War On Cancer: Join Today",
+        "App URL": "https://play.google.com/store/apps/details?id=com.wocmobile"
+    },
+    {
+        "App Name": "Breast Cancer Awareness",
+        "App URL": "https://play.google.com/store/apps/details?id=com.salahalshafey.breastcancerawareness"
+    },
+    {
+        "App Name": "Int. VTE & Cancer Guidelines",
+        "App URL": "https://play.google.com/store/apps/details?id=com.exolnet.itaccme"
+    },
+    {
+        "App Name": "Kids' Guide to Cancer",
+        "App URL": "https://play.google.com/store/apps/details?id=com.campQuality.kidsGuideToCancer"
+    },
+    {
+        "App Name": "SkinIO",
+        "App URL": "https://play.google.com/store/apps/details?id=com.skinio.skinio"
+    },
+    {
+        "App Name": "Cancer Horoscope & Astrology",
+        "App URL": "https://play.google.com/store/apps/details?id=com.adnfxmobile.discovery.cancer"
+    },
+    {
+        "App Name": "Blood Sugar Diary for Diabetes",
+        "App URL": "https://play.google.com/store/apps/details?id=com.medm.medmbg.diary"
+    },
+    {
+        "App Name": "MyDiabetes: Health management",
+        "App URL": "https://play.google.com/store/apps/details?id=health.mydiabetes"
+    },
+    {
+        "App Name": "Health2Sync - Diabetes Tracker",
+        "App URL": "https://play.google.com/store/apps/details?id=com.h2sync.android.h2syncapp"
+    },
+    {
+        "App Name": "DiabTrend - Diabetes Diary App",
+        "App URL": "https://play.google.com/store/apps/details?id=com.diabtrend"
+    },
+    {
+        "App Name": "Gluroo: Diabetes Log Tracker",
+        "App URL": "https://play.google.com/store/apps/details?id=com.gluroo.app"
+    },
+    {
+        "App Name": "BeatO: Diabetes Care App",
+        "App URL": "https://play.google.com/store/apps/details?id=com.healtharx.beato"
+    },
+    {
+        "App Name": "Diabetes & Diet Tracker",
+        "App URL": "https://play.google.com/store/apps/details?id=com.fourtechnologies.mynetdiary.diabetes"
+    },
+    {
+        "App Name": "Diabetes:M - Blood Sugar Diary",
+        "App URL": "https://play.google.com/store/apps/details?id=com.mydiabetes"
+    },
+    {
+        "App Name": "SNAQ - Diabetes Food Tracker",
+        "App URL": "https://play.google.com/store/apps/details?id=io.snaq.app"
+    },
+    {
+        "App Name": "SocialDiabetes",
+        "App URL": "https://play.google.com/store/apps/details?id=com.socialdiabetes.android"
+    },
+    {
+        "App Name": "Carb Manager\u2013Keto Diet Tracker",
+        "App URL": "https://play.google.com/store/apps/details?id=com.wombatapps.carbmanager"
+    },
+    {
+        "App Name": "Glooko - Track Diabetes Data",
+        "App URL": "https://play.google.com/store/apps/details?id=com.glooko.logbook"
+    },
+    {
+        "App Name": "Center Health\u2014The Diabetes App",
+        "App URL": "https://play.google.com/store/apps/details?id=com.distillr.app"
+    },
+    {
+        "App Name": "Dario Health",
+        "App URL": "https://play.google.com/store/apps/details?id=com.labstyle.darioandroid"
+    },
+    {
+        "App Name": "WeCare Diabetes",
+        "App URL": "https://play.google.com/store/apps/details?id=com.joinwecare.patient"
+    },
+    {
+        "App Name": "Klinio: Health & Weight loss",
+        "App URL": "https://play.google.com/store/apps/details?id=diet.mydiabetes"
+    },
+    {
+        "App Name": "\u200bOneTouch Reveal\u00ae app",
+        "App URL": "https://play.google.com/store/apps/details?id=com.lifescan.reveal"
+    },
+    {
+        "App Name": "Blood Sugar Diabetes Tracker",
+        "App URL": "https://play.google.com/store/apps/details?id=com.appsprint.srr.glucobuddy"
+    },
+    {
+        "App Name": "FreeStyle Libre 3 \u2013 US",
+        "App URL": "https://play.google.com/store/apps/details?id=com.freestylelibre3.app.us"
+    },
+    {
+        "App Name": "Glycemic Index. Diabetes diary",
+        "App URL": "https://play.google.com/store/apps/details?id=com.creamsoft.mygi"
+    },
+    {
+        "App Name": "Malama - Gestational Diabetes",
+        "App URL": "https://play.google.com/store/apps/details?id=com.malamareactnative"
+    },
+    {
+        "App Name": "AgaMatrix Diabetes Manager",
+        "App URL": "https://play.google.com/store/apps/details?id=com.agamatrix.nimbus"
+    },
+    {
+        "App Name": "Defeat Diabetes",
+        "App URL": "https://play.google.com/store/apps/details?id=com.defeatdiabetes.app"
+    },
+    {
+        "App Name": "Glycemic Index Load Tracker",
+        "App URL": "https://play.google.com/store/apps/details?id=com.rfit.glycemicindextracker"
+    },
+    {
+        "App Name": "One Drop: Better Health Today",
+        "App URL": "https://play.google.com/store/apps/details?id=today.onedrop.android"
+    },
+    {
+        "App Name": "BlueStar Diabetes",
+        "App URL": "https://play.google.com/store/apps/details?id=com.welldoc.platform.android"
+    },
+    {
+        "App Name": "sugar.fit",
+        "App URL": "https://play.google.com/store/apps/details?id=fit.sugar.android"
+    },
+    {
+        "App Name": "Carbs & Cals: Diet & Diabetes",
+        "App URL": "https://play.google.com/store/apps/details?id=com.chello.carbsandcals"
+    },
+    {
+        "App Name": "forDiabetes: diabetes tracker",
+        "App URL": "https://play.google.com/store/apps/details?id=gr.tessera.fordiabetesapp"
+    },
+    {
+        "App Name": "Cancer Risk Calculator",
+        "App URL": "https://play.google.com/store/apps/details?id=be.tdf_it.cancerrisk"
     }
 ]
