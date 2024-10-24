@@ -5,16 +5,16 @@
     "summary": "Virtual simulation platform for medical learners available anytime, anywhere.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "realInstalls": 1043307,
+    "realInstalls": 1044191,
     "score": 4.5961537,
-    "ratings": 4452,
-    "reviews": 378,
+    "ratings": 4451,
+    "reviews": 379,
     "histogram": [
         82,
         39,
         468,
         381,
-        3463
+        3462
     ],
     "price": 0,
     "free": true,
