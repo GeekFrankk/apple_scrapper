@@ -86,7 +86,7 @@ const processFiles = async () => {
             console.log("Duplicate Apps found in both Play Store and Apple Store:");
             duplicateBetweenStores.forEach(app => console.log(app));
         } else {
-            console.log("\nNo duplicate apps found between: Play Store and Apple Store.\n");
+            console.log("\nNo duplicate apps found between: Play Store and Apple Store.");
         }
 
     } catch (error) {
