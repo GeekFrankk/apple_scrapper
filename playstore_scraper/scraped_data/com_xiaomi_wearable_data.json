@@ -1,0 +1,63 @@
+{
+    "title": "Mi Fitness (Xiaomi Wear)",
+    "description": "Combining Mi Fitness with smartwatch or smartband devices, users can track their health and fitness data. \r\n\r\nMi Fitness supported\uff1aXiaomi Watch Series, Redmi Watch Series, Xiaomi Smart Band Series, Redmi Smart Band Series.\r\n\r\nKeep track of your workouts\r\nMap your route, monitor your progress, and achieve your goals. Whether it's walking, running, or biking, you can easily track it right from your phone.\r\nMonitor your health information\r\nCheck your heart rate and stress levels. Log your weight, menstrual cycle details. Stay on top of your health with ease.\r\nSleep better\r\nTrack your sleep trends, monitor your sleep cycles, check your breathing score, and gain valuable insights to help you sleep better.\r\nEasy payments with wearable device\r\nLink your Mastercard cards to Mi Fitness and enjoy the convenience of making payments on the go with your wearable device.\r\nAsk Alexa for convenient access\r\nWith Alexa, you can easily access important features like checking the weather, playing music, and starting a workout. Just ask and you're good to go.\r\nStay informed with notifications\r\nReceive notifications, messages, and emails directly on your wearable device, so you can stay informed without having to constantly check your phone.\r\n\r\nDisclaimer\uff1a\r\nThe functions are supported by hardwares equipped with dedicated sensors, which are not intended for medical use and are designed for general fitness and health purposes only. See hardware instruction for details.",
+    "descriptionHTML": "Combining Mi Fitness with smartwatch or smartband devices, users can track their health and fitness data. <br><br>Mi Fitness supported\uff1aXiaomi Watch Series, Redmi Watch Series, Xiaomi Smart Band Series, Redmi Smart Band Series.<br><br>Keep track of your workouts<br>Map your route, monitor your progress, and achieve your goals. Whether it&#39;s walking, running, or biking, you can easily track it right from your phone.<br>Monitor your health information<br>Check your heart rate and stress levels. Log your weight, menstrual cycle details. Stay on top of your health with ease.<br>Sleep better<br>Track your sleep trends, monitor your sleep cycles, check your breathing score, and gain valuable insights to help you sleep better.<br>Easy payments with wearable device<br>Link your Mastercard cards to Mi Fitness and enjoy the convenience of making payments on the go with your wearable device.<br>Ask Alexa for convenient access<br>With Alexa, you can easily access important features like checking the weather, playing music, and starting a workout. Just ask and you&#39;re good to go.<br>Stay informed with notifications<br>Receive notifications, messages, and emails directly on your wearable device, so you can stay informed without having to constantly check your phone.<br><br>Disclaimer\uff1a<br>The functions are supported by hardwares equipped with dedicated sensors, which are not intended for medical use and are designed for general fitness and health purposes only. See hardware instruction for details.",
+    "summary": "Your workout and fitness tracker.",
+    "installs": "10,000,000+",
+    "minInstalls": 10000000,
+    "realInstalls": 43221711,
+    "score": 4.3325357,
+    "ratings": 938294,
+    "reviews": 3282,
+    "histogram": [
+        79641,
+        21275,
+        54952,
+        133456,
+        648625
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Beijing Xiaomi Mobile Software Co.,Ltd",
+    "developerId": "Beijing+Xiaomi+Mobile+Software+Co.,Ltd",
+    "developerEmail": "miot-xiaomiwear@xiaomi.com",
+    "developerWebsite": null,
+    "developerAddress": null,
+    "privacyPolicy": "https://us.watch.iot.mi.com/html/privacy/index.html?locale=en_US&type=watch_privacy_policy&model=app#/",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "categories": [
+        {
+            "name": "Health & Fitness",
+            "id": "HEALTH_AND_FITNESS"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Ckdy8xrXTjq9F9haFIiV-CNMAdRgGQlPGl6KJ2s38hDH3cXHKUPvXCRrGvjOt3UgbA",
+    "headerImage": "https://play-lh.googleusercontent.com/q96YSqAczGPovPgYrBeVr8B4smtzxLgWBCtRz1NXeR7j3pVkTWl5-ZltxkDjwkEs7vyV",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/wTJN87AyUFNBPEU5ScNQP_bpzTlIHKc9b8RomUgIT3Y3UcVPThYdTQG4QQGUUuQZxPdh",
+        "https://play-lh.googleusercontent.com/qpsbjNC3AH1FLAwXZ2bE6nVaIwhmyUHFK-e9NtsHoZqrWl6lOhmYqMSzvEEllo-umb8",
+        "https://play-lh.googleusercontent.com/hjPCrf71P068uPmd2RUmH0AbSNxOzHS8VpXJUmxOIrJNwU2Y9nK1Rc6MO3nGj76BzUA",
+        "https://play-lh.googleusercontent.com/JkUuP_vk-BD4uR53G6qcrVsIa7bIxOEgr5c9K-JbEUMOLkixp19EBZ-6xEmZ2zVRWP0"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Jun 28, 2020",
+    "lastUpdatedOn": "Sep 26, 2024",
+    "updated": 1727364397,
+    "version": "3.33.6i",
+    "comments": [],
+    "appId": "com.xiaomi.wearable",
+    "url": "https://play.google.com/store/apps/details?id=com.xiaomi.wearable&hl=en&gl=us"
+}
