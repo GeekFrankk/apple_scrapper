@@ -1,0 +1,96 @@
+{
+    "title": "Bio Inc. Redemption : Plague",
+    "description": "Bio Inc.: Redemption is a complex biomedical simulator in which you make life or death decisions. Create the ultimate illness to infect and torment your victim or play as the head of a medical team and hopefully find a cure to save your patient. Will you be the plague or preserve humanity?\r\n\r\nIncluding over 600 actual diseases, virus, symptoms, diagnostic tests, treatments and other medical conditions, Bio Inc.: Redemption is frighteningly realistic. It will captivate you for hours, bringing you into a microscopic world of epic plague proportions!\r\n\r\nAs the sequel to the worldwide mobile hit Bio Inc. (enjoyed by over 15 million players), Bio Inc.: Redemption was rebuilt from the ground up to make it the most realistic and visually stunning medical condition simulator available.\r\n\r\nCHOOSE YOUR SIDE\r\nBio Inc.: Redemption includes two all-new campaigns!\r\n\r\nChoose Death and explore your dark side by wrathfully terminating victims using an agonizing combination of diseases and medical conditions. Be the Plague!\r\n\r\nChoose Life and you heroically play as a medical diagnostician to identify and cure diseases before it is too late for your patient. Save the human race one human at a time!\r\n\r\nEach campaign consists of nine cases with four different difficulty levels and the new adaptive AI system provides hours of gameplay with great replay value.\r\n\r\nNEW SKILLS SYSTEM\r\nThe all new skills system enables players to earn skills point and spend those towards upgrading skills that best fits their gameplay. Upgraded skills are persistent through all game modes. \r\n \r\nSIDE QUESTS\r\nWhile playing the campaign mode, players can decide to alter their strategy to complete one or many of the 41 included side quests. Completing side quest entitle players to hefty rewards! \r\n \r\nWORLD TOURNAMENTS\r\nEach week, the game will unveil a new world map to conquer with cases for Death and Life to be completed. Accumulate a winning streak, use your skills carefully and contest the title of best Doctor of Medicine. In exchange for you hard work, you will be compensated with rewards and pride.\r\n\r\nBUILDING DEEP STRATEGIES\r\nThe mechanics of Bio Inc.: Redemption are simple to grasp yet extremely deep. Casual players will appreciate a quick and exciting challenge. Advanced players will have to elaborate complex strategies to solve high difficulty cases. It's all about combos and timing!\r\n\r\n18 DIVERSIFIED CHALLENGING CASES\r\nEach unique scenarios comes with its unique twists and specific objectives, gradually building your skills and expanding your toolset to evermore demanding intricate cases.\r\n\r\nUNFORGIVING, WICKED AND STRANGELY COMPELLING\r\nWhether you wish to cure an innocent patient's sickness or torment a poor soul through an unlikely disease and infection combination, the Bio Inc. universe will not leave you cold. Deviously realistic, even educational, balanced with a good amount of humor, the Bio Inc.: Redemption experience will take you on one heck of a thrill ride.",
+    "descriptionHTML": "Bio Inc.: Redemption is a complex biomedical simulator in which you make life or death decisions. Create the ultimate illness to infect and torment your victim or play as the head of a medical team and hopefully find a cure to save your patient. Will you be the plague or preserve humanity?<br><br>Including over 600 actual diseases, virus, symptoms, diagnostic tests, treatments and other medical conditions, Bio Inc.: Redemption is frighteningly realistic. It will captivate you for hours, bringing you into a microscopic world of epic plague proportions!<br><br>As the sequel to the worldwide mobile hit Bio Inc. (enjoyed by over 15 million players), Bio Inc.: Redemption was rebuilt from the ground up to make it the most realistic and visually stunning medical condition simulator available.<br><br>CHOOSE YOUR SIDE<br>Bio Inc.: Redemption includes two all-new campaigns!<br><br>Choose Death and explore your dark side by wrathfully terminating victims using an agonizing combination of diseases and medical conditions. Be the Plague!<br><br>Choose Life and you heroically play as a medical diagnostician to identify and cure diseases before it is too late for your patient. Save the human race one human at a time!<br><br>Each campaign consists of nine cases with four different difficulty levels and the new adaptive AI system provides hours of gameplay with great replay value.<br><br>NEW SKILLS SYSTEM<br>The all new skills system enables players to earn skills point and spend those towards upgrading skills that best fits their gameplay. Upgraded skills are persistent through all game modes. <br> <br>SIDE QUESTS<br>While playing the campaign mode, players can decide to alter their strategy to complete one or many of the 41 included side quests. Completing side quest entitle players to hefty rewards! <br> <br>WORLD TOURNAMENTS<br>Each week, the game will unveil a new world map to conquer with cases for Death and Life to be completed. Accumulate a winning streak, use your skills carefully and contest the title of best Doctor of Medicine. In exchange for you hard work, you will be compensated with rewards and pride.<br><br>BUILDING DEEP STRATEGIES<br>The mechanics of Bio Inc.: Redemption are simple to grasp yet extremely deep. Casual players will appreciate a quick and exciting challenge. Advanced players will have to elaborate complex strategies to solve high difficulty cases. It&#39;s all about combos and timing!<br><br>18 DIVERSIFIED CHALLENGING CASES<br>Each unique scenarios comes with its unique twists and specific objectives, gradually building your skills and expanding your toolset to evermore demanding intricate cases.<br><br>UNFORGIVING, WICKED AND STRANGELY COMPELLING<br>Whether you wish to cure an innocent patient&#39;s sickness or torment a poor soul through an unlikely disease and infection combination, the Bio Inc. universe will not leave you cold. Deviously realistic, even educational, balanced with a good amount of humor, the Bio Inc.: Redemption experience will take you on one heck of a thrill ride.",
+    "summary": "Biomedical simulator in which you make life or death decisions.",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "realInstalls": 1986214,
+    "score": 4.3355484,
+    "ratings": 24471,
+    "reviews": 710,
+    "histogram": [
+        1785,
+        892,
+        1054,
+        4308,
+        16422
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": true,
+    "inAppProductPrice": "$2.49 - $99.99 per item",
+    "developer": "DryGin Studios",
+    "developerId": "6230131971575212579",
+    "developerEmail": "info@dryginstudios.com",
+    "developerWebsite": "http://playbioinc.com/",
+    "developerAddress": "1693 Place de Lierre\nLaval, Quebec, Canada, H7G 4X7",
+    "privacyPolicy": "http://www.playbioinc.com/Privacy.htm",
+    "genre": "Simulation",
+    "genreId": "GAME_SIMULATION",
+    "categories": [
+        {
+            "name": "Strategy",
+            "id": "GAME_STRATEGY"
+        },
+        {
+            "name": "Asymmetrical battle arena",
+            "id": null
+        },
+        {
+            "name": "Casual",
+            "id": "GAME_CASUAL"
+        },
+        {
+            "name": "Single player",
+            "id": null
+        },
+        {
+            "name": "Stylized",
+            "id": null
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/H2StNB9YvcdP5I2mDgJC4cJAalXXKIurv3uqX061KwVyg_33BrOa5NfP1e9MxU40FCfD",
+    "headerImage": "https://play-lh.googleusercontent.com/sitQy0U-HRK5bfrbhd0aeEr09m2tEjFpGPdLVwbhU6h_WcbqwoOW3ANrh2bVf9yrrAKB",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/BghQpnyQYopFRaCT-n9yNS6JzO6iZPs8sx91KPc5BRzlWAP1bmfN0PG7oL2pDqKeDtw",
+        "https://play-lh.googleusercontent.com/VoA2fPSO2QVxG2r0tRyA3KTBtJGrRgsltpY6P8ZsHsg3a_XvtTpJy-s8XV3ohsJfRxo",
+        "https://play-lh.googleusercontent.com/2N2anRg5BXPAk-pPTWDELaKh-F8pj9qWBLIB_SZKrLfragWrPj8yVGkcKk8a7uG3eIwz",
+        "https://play-lh.googleusercontent.com/vXuVXLMatMk3hxtkaWANCR3fnYk4LXV4fb4n4VNIcnr8A_Zvc7XNLQSNCTsYpH9OXw",
+        "https://play-lh.googleusercontent.com/wm_5CKd_26a8H2A3CPSOZdyAeZe4uB8TwvoECw5_XbcEi5b2YhrOgD5IVIwsgGi-gso",
+        "https://play-lh.googleusercontent.com/uDvhIjkQRq4W9VQiqs2O4GISywz_vQ8eaa22N4J3aVYO11tLEgAsKHaBgDBULnhogqA",
+        "https://play-lh.googleusercontent.com/Bjgfe-oR4Q15am_Bae-aaL_P0_13HFg6acKnet_nSkYNXwA-7EuvBrOjwR0SVwg-HA",
+        "https://play-lh.googleusercontent.com/YJbtmXL1nooNI5NCvXcZMKbK1krg7ofDQsJNvsPcM07NcMrRY8njXtyQVB6DE-4-KQ",
+        "https://play-lh.googleusercontent.com/i3yHSESZ2U_tr-9nyPXPfeENWkeJFkmAEJADONdsL6db-jT8Xz2aBTAqpnb-m4F-HBc",
+        "https://play-lh.googleusercontent.com/ad1k7tRJy2-4_FxssGEM2No16Wyq0WA71NGHZ_rNgifA7KgGBsg4N0wN29uuUf5gMQA",
+        "https://play-lh.googleusercontent.com/-wIqzVaSQ2Bd_BbKPRbVkfla7jeV41yNGddxkZN4YOUZzYdvqlSfA1ncAAE5owyQl_4",
+        "https://play-lh.googleusercontent.com/EM_Jca2UuqzFlMhp4AkTjZ2fUqJHPNcDn7gxQZIaMUwJ5tVcj9OM2lxojr3oX1bI2xNX",
+        "https://play-lh.googleusercontent.com/kOgc-ttRwS1kdrHroyn9czercQaolU0cp-an1TIP6IXdeKGH4IkMTnZGFMsIi3WF7A",
+        "https://play-lh.googleusercontent.com/k5Rwa7vTT3sPKLo8nMDq27IJkKDnXcc9_X5R50qBiXyOcCuJhyCimnwyrNI9aOeeCw",
+        "https://play-lh.googleusercontent.com/Ewq_xA8crAaWf2ynUqeOWrG0WVFx3Z-UD7G0KOOzal4a4b3C47u6DoYCP6A3QGLoxQ",
+        "https://play-lh.googleusercontent.com/Qx7t4GVAFRtkAaGguvLfe48WRZEKmEsu52Lp2DaeIydfftbWLCD0uq7DVVKAOVtM4UVi",
+        "https://play-lh.googleusercontent.com/Z2XOBcjrVb-iO_1gOFnBBgwmhFIgk2FzBxOpQzb6PmIZLXouj_h03r_tndqYyF-6eA",
+        "https://play-lh.googleusercontent.com/O9xCRQbV8fBnlUqbbJuGHrXqQQQi2W2kdgo-l1QavqZTWQOVc4wNHx-36k6MAfN_TsU",
+        "https://play-lh.googleusercontent.com/iBKTH6K-mzmtXceNkxFofpK8pC8kttwiAiEM8rcRkTzMNoqn7ZzzDOuxGKn3MQZgKa4",
+        "https://play-lh.googleusercontent.com/N0teAVedvAaV_vVTC7vr0WadLyCpGHEcoFHY5y-eMVHr6AA17XjBUJ1PnwxAjyPMVLM",
+        "https://play-lh.googleusercontent.com/U7Ww0MkPdAiUSZ1ub3M8pO_bGgBBMu4Vx_0Yh-fMvIC0cKlTqV1hIrv8WqZ-3auO2N0"
+    ],
+    "video": "https://www.youtube.com/embed/g2yOefGKlVw?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/sitQy0U-HRK5bfrbhd0aeEr09m2tEjFpGPdLVwbhU6h_WcbqwoOW3ANrh2bVf9yrrAKB",
+    "contentRating": "Teen",
+    "contentRatingDescription": "Violence, Blood, Drug Reference, Crude Humor",
+    "adSupported": true,
+    "containsAds": true,
+    "released": "Dec 7, 2020",
+    "lastUpdatedOn": "Dec 14, 2023",
+    "updated": 1702573090,
+    "version": "0.80.432",
+    "comments": [],
+    "appId": "com.dryginstudios.bioincredemption",
+    "url": "https://play.google.com/store/apps/details?id=com.dryginstudios.bioincredemption&hl=en&gl=us"
+}

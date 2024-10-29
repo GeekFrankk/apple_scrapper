@@ -1,0 +1,63 @@
+{
+    "title": "Brain Twin",
+    "description": "Explore why Brain Twin is the preferred choice for managing migraines and headaches. Designed by medical experts in Norway to help patients, the app features a user-friendly interface and provides essential insights for managing your condition. Brain Twin sets itself apart by offering you:\r\n\r\n- Easy tracking of your condition and medications\r\n\r\n- Powerful and clinically relevant insights\r\n\r\n- High levels of data security and privacy\r\n\r\nDiscover Brain Twin\u2019s Features:\r\n\r\nComprehensive Tracking: Log headaches and distinguish them by the occurrence of migraine and aura, intensity on a 1-10 scale, and location of pain to capture each episode's full spectrum.\r\n\r\nMedication Management: Record all medications, specifying dosages for both acute and preventive treatments, and benefit from personalized medication reminders to maintain consistent treatment.\r\n\r\nMenstrual Cycle Tracking: For those affected, track menstrual cycles in relation to headache patterns to observe potential hormonal triggers or correlations.\r\n\r\nData Analysis and Reporting: Utilize trend visualization to correlate headaches with treatments and external factors, supported by exportable PDF reports for sharing with healthcare providers.\r\n\r\nPersonalized User Experience: Benefit from a custom notes section for unique observations and a Dark Mode setting to alleviate screen brightness discomfort.\r\n\r\nEnhanced Accessibility: Enjoy an app that is continuously updated for greater accessibility, pursuing a seamless experience for all users.\r\n\r\nWith these features, Brain Twin provides a tailored and comprehensive approach to headache and migraine management, designed to support both individuals and healthcare providers in understanding and treating headaches more effectively.\r\n\r\nNordic Brain Tech, the developer of Brain Twin, is based in Norway and focused on developing migraine and headache focused digital health innovation. Our commitment is to build user-centered products that enhance patient care and experience. As a data processor, we uphold the highest standards of data protection, adhering strictly to GDPR guidelines as detailed in our Terms and Conditions.",
+    "descriptionHTML": "Explore why Brain Twin is the preferred choice for managing migraines and headaches. Designed by medical experts in Norway to help patients, the app features a user-friendly interface and provides essential insights for managing your condition. Brain Twin sets itself apart by offering you:<br><br>- Easy tracking of your condition and medications<br><br>- Powerful and clinically relevant insights<br><br>- High levels of data security and privacy<br><br>Discover Brain Twin\u2019s Features:<br><br>Comprehensive Tracking: Log headaches and distinguish them by the occurrence of migraine and aura, intensity on a 1-10 scale, and location of pain to capture each episode&#39;s full spectrum.<br><br>Medication Management: Record all medications, specifying dosages for both acute and preventive treatments, and benefit from personalized medication reminders to maintain consistent treatment.<br><br>Menstrual Cycle Tracking: For those affected, track menstrual cycles in relation to headache patterns to observe potential hormonal triggers or correlations.<br><br>Data Analysis and Reporting: Utilize trend visualization to correlate headaches with treatments and external factors, supported by exportable PDF reports for sharing with healthcare providers.<br><br>Personalized User Experience: Benefit from a custom notes section for unique observations and a Dark Mode setting to alleviate screen brightness discomfort.<br><br>Enhanced Accessibility: Enjoy an app that is continuously updated for greater accessibility, pursuing a seamless experience for all users.<br><br>With these features, Brain Twin provides a tailored and comprehensive approach to headache and migraine management, designed to support both individuals and healthcare providers in understanding and treating headaches more effectively.<br><br>Nordic Brain Tech, the developer of Brain Twin, is based in Norway and focused on developing migraine and headache focused digital health innovation. Our commitment is to build user-centered products that enhance patient care and experience. As a data processor, we uphold the highest standards of data protection, adhering strictly to GDPR guidelines as detailed in our Terms and Conditions.",
+    "summary": "Headache and migraine diary",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "realInstalls": 17471,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": true,
+    "inAppProductPrice": "$0.49 - $4.99 per item",
+    "developer": "NordicBrainTech",
+    "developerId": "NordicBrainTech",
+    "developerEmail": "support@nordicbraintech.no",
+    "developerWebsite": "https://nordicbraintech.com/",
+    "developerAddress": null,
+    "privacyPolicy": "https://braintwin.no/personvernerklaering",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/bTEZiJ9a7p3f36Q2hpT2cmD8vSZXpM81KNmWJfbiL6UI7usT4f8P157HnJ4oF5r4fA",
+    "headerImage": "https://play-lh.googleusercontent.com/uk-lyUqdCSr3xt_HgNL45B2CyHL156ayrx8FD1jweuvp5Z7w_UKkelpWwYgR8XJNPi-a",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/d4HD0em2JZVm9jxiYrYKGzHml9gS9e6N693ffcqd2WFcKYQoZd1fPwefiLgyXbbshY8",
+        "https://play-lh.googleusercontent.com/3lO4JUvqaHsiaosPke-nggMx9fjzKCO-A5a14xvEVzIXSuvRpaPwGvgTzihWZEKMjXA",
+        "https://play-lh.googleusercontent.com/A9mPBFiC6Y_Ub77N7VZb_shqZhB66G3lgTPLPObYl4ZlwYIhnqdWrMTFMFfsP5uDBLc",
+        "https://play-lh.googleusercontent.com/M9BzRrQPF5sQ2o_sUZcz5o89Qr5EhPbxzCSFothUzZNLeXOpqP-YlhP6KiBglwbS19c"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Mature 17+",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Sep 9, 2024",
+    "lastUpdatedOn": "Oct 14, 2024",
+    "updated": 1728895841,
+    "version": "2.4.4",
+    "comments": [],
+    "appId": "com.nordicbraintech.BrainTwin",
+    "url": "https://play.google.com/store/apps/details?id=com.nordicbraintech.BrainTwin&hl=en&gl=us"
+}
