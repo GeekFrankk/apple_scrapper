@@ -1,0 +1,41 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Valve In Valve 12+",
+  "subtitle": "",
+  "seller": "KRUTSCH",
+  "stars": "4.6",
+  "rating": "10 Ratings",
+  "price": "Free",
+  "appDescription": "An instant guide to Valve in Valve procedures for clinicians Quick, clear and concise information about heart valves and Valve in Valve therapy. A guide you wish you always had at your fingertips. About Valve in Valve app was originally developed as a collaboration between the technology company UBQO and Dr. Vinayak (Vinnie) Bapat, Consultant Cardiac Surgeon at St. Thomas' Hospital, London, UK. The team at KRUTSCH reimagined the app, introducing modern design, as well as a novel editing interface for to allow cardiologists to edit cloud-hosted valve data. Valve in Valve app provides information specific for a clinical scenario, quickly and simply. This will help in the planning of and performing a Valve in Valve case. The application navigates the user through important aspects of surgical and TAVR valve design, which are vital for a successful Valve in Valve procedure. The app logically steps through the possible combinations to give the user specific information needed to perform the procedure. Success of a Valve in Valve procedure is based on correct identification of the surgical valve, choosing the correct size of the TAVR valve and its subsequent accurate placement. Surgical valves vary in appearance under fluoroscopy and also in their internal diameter. Similarly TAVR valves differ in their appearances and available sizes. Knowledge about all the surgical valves that have been implanted in the last two decades is minimal but relevant to the Valve in Valve therapy. Users can now familiarise themselves with important design information about surgical and TAVI valves; they can also select the valve and find out which size of TAVR valve could be used and how it is best placed during a Valve in Valve procedure. If the valve type is unknown, the App also guides the user through a series of steps where they can identify the surgical valve type and then use the information available for it. The Valve In Valve app can be used to plan a case and confirm suitability for this procedure and reduces the need to trawl through vast amounts of literature to find information specific to the clinical scenario. The information is also available without the need for an internet connection and will enhance the users understanding of various aspects of this procedure. We hope this will result in improved results and better outcomes for patients. Key features - Design information for multiple types of surgical valve - Sizing information for multiple types of surgical valve - Real life and fluoroscopic images of all the surgical valves - Design information about TAVR valve designs - Sizing information for these TAVR valves - Guides the user through a stepped process to help choose a specific valve, then the size and lastly the important dimensions to plan a Valve in Valve procedure - Image based guidance for the ideal placement of a TAVR valve - Video examples of actual placement of a TAVR valve - Discusses important design considerations in detail to improve understanding of the Valve in Valve procedure more",
+  "reviews": [
+    {
+      "user": "Aaron in Mpls",
+      "date": "05/12/2022",
+      "title": "Essential equipment for tavr",
+      "review": "The new version of the app looks great. Great new information and critical data. Thank you for this valuable resource!"
+    },
+    {
+      "user": "YT: Semi Lynx",
+      "date": "12/03/2017",
+      "title": "Awesome app",
+      "review": "Very helpful except for freestyle and Toronto valves"
+    },
+    {
+      "user": "AP Boston",
+      "date": "02/02/2023",
+      "title": "Trouble starting up?",
+      "review": "Content invaluable of course but app very slow in loading and hangs up frequently since rebuild."
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "23.1 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

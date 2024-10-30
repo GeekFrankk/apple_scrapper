@@ -1,0 +1,38 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "One Medical 12+",
+  "subtitle": "Primary & 24/7 on-demand care",
+  "seller": "One Medical Group, Inc.",
+  "stars": "4.9",
+  "rating": "43.1K Ratings",
+  "price": "Free",
+  "appDescription": "One Medical is reimagining the doctor’s office. Our app makes it easy to get primary care for your body and mind right from your phone. Need to schedule an appointment with your doctor? Request a prescription renewal? Get answers to a medical question in the middle of the night? With One Medical, your doctor’s office is at your fingertips, 24/7. Here’s some of what you can do in our app: • Schedule an in-office or remote visit in a state where we have offices • Get 24/7 on-demand care nationwide with Treat Me Now and Urgent Video Chat at no extra cost • Receive reminders for upcoming visits and service recommendations • Send and receive secure messages with a provider • Request prescription refills and renewals • Access your health records and care plans • Sync your data with Apple Health • Manage bills, copays, and insurance • Find offices close to where you live, work, and travel Only One Medical members can access the app. Download the app and join One Medical today. About One Medical We’re a membership-based primary care practice designed around your needs and your life. We accept most major health insurance plans, including Medicare. Our providers take the time to get to know you and work with you on your health goals, so you feel seen, heard, and cared for. We have primary care offices in many U.S. cities and offer 24/7 on-demand virtual care, so exceptional care is always within reach — from preventive care and mental health to illnesses and injuries. All One Medical patients enjoy: • Compassionate providers who take time to listen • Appointments that start on time • Drop-in lab services at One Medical offices • Referrals to top specialists when needed Learn more about membership at onemedical.com or ask your employer if One Medical is one of your employee benefits. more",
+  "reviews": [
+    {
+      "user": "Tom N",
+      "date": "08/26/2018",
+      "title": "Could be a great app, but has very frustrating bugs",
+      "review": "In general, the One Medical app is a great way to quickly communicate with my medical provider. But there are two super frustrating bugs I hope the team could fix. One, the app frequently deletes draft messages when you switch to another app. If you’re writing a message with long prescription names answering detailed questions from your medical provider, then lose everything, it’s brutal. Secondly, the app disabled basic copy and paste when you’re writing messages. So don’t bother trying to compose messages in another app to avoid losing your data. You won’t be able to share that information with your medical provider. Please fix these minor bugs, One Medical team, and your otherwise great app will be wonderful for your patients. Thanks! more"
+    },
+    {
+      "user": "yellahella",
+      "date": "02/18/2022",
+      "title": "For the love of god fix family logins",
+      "review": "This has been issue I’ve raised for a few years. And was told it would be changing. With our first child we where told that I would need to use a different email address, and log in and out of the app to go between their information and mine. Two separate accounts. Then with the second child three years later, it continues to be unresolved and we have to use a THIRD email address, logging in and out. Add my partners membership and this one App has us logging in and out with FOUR different email addresses in order to access a significant aspect of what we are paying One Medical to be a part of: convenience. Making and changing appointments, video visits , lab results, messaging care providers etc. Permissions and multiple accounts under one login has been solved. It is wild to me as someone who works in Tech that this is still the experience for One Medical. If My Chart and our local hospital systems can figure this out, why is One Medical not making similar changes. HIPPA already addressed child/parent privacy concerns so that cannot be the issue. Please please please fix this. I want to switch profiles within the App without having to log in and out. And remember which email address I used for which person. more"
+    },
+    {
+      "user": "saymylastname",
+      "date": "09/26/2024",
+      "title": "Feedback on the Care Plan Tab",
+      "review": "I’ve noticed that the Care Plan tab currently shows every action item, even when some of them are multi-step tasks. For example, I have three referrals to schedule, but the only option to ‘mark it done’ is after I’ve completed the visit, not when I’ve scheduled the appointment. This leads to pending tasks lingering for months, especially for labs that are scheduled months ahead, which makes the task list feel overwhelming. It would be very helpful if I could mark tasks as ‘scheduled,’ and input the date of the appointment. This way, the badge number on the Care Plan tab could decrease based on how many appointments are scheduled. For labs or other items that can’t be rushed (e.g., a lab due in three months), the same process would work well. This feature would allow me to keep track of upcoming tasks more easily and ensure the Care Plan reflects real-time progress. Thank you for considering this improvement! more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "Apple Vision"
+  ],
+  "size": "179.5 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

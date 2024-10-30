@@ -1,0 +1,20 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "CSWG App 17+",
+  "subtitle": "Your One Stop Shop for Shock!",
+  "seller": "Navin Kapur",
+  "stars": "5.0",
+  "rating": "11 Ratings",
+  "price": "Free",
+  "appDescription": "The CSWG App is a comprehensive tool with three distinct parts and provides valuable calculators to assist clinical decision-making. Part 1: Cardiogenic Shock Working Group Shock Stage Calculator The first page of the app features the Cardiogenic Shock Working Group Shock Stage Calculator. This calculator utilizes the CSWG-SCAI shock stage classification system to determine the severity of cardiogenic shock. It provides an accurate assessment of the shock stage, along with the predicted mortality rate for each stage. Additionally, the calculator presents separate mortality predictions for myocardial infarction-related cardiogenic shock (MI-CS) and heart failure-related cardiogenic shock (HF-CS). Furthermore, it offers a predicted probability of stage escalation. Part 2: Invasive Hemodynamics Calculator The second page of the app houses the Invasive Hemodynamics Calculator. This powerful tool enables healthcare professionals to calculate various important parameters related to hemodynamics. With this calculator, users can determine parameters such as cardiac output using the Fick method, cardiac index, cardiac power output, cardiac power index, pulse pressure, aortic pulsatility index, systemic vascular resistance, mean pulmonary artery pressure, right atrial pressure/pulmonary capillary wedge pressure, pulmonary artery pulsatility index, right ventricular stroke work index, transpulmonary gradient, and diastolic pulmonary gradient. Additionally, the calculator generates a graph that plots left heart filling pressure (PCWP) and right heart filling pressure (CVP or RAP) to aid in the classification of parameters into categories such as \"LV congestion,\" \"RV congestion,\" \"Hypovolemic,\" and \"BiV Congestion.\" Part 3:Congestion Profile Tracking Plot left heart filling pressure (PCWP) and right heart filling pressure (CVP or RAP) to aid in the classification of parameters into categories such as \"LV congestion,\" \"RV congestion,\" \"Hypovolemic,\" and \"BiV Congestion.\" Plot points longitudinally to see trends over time. Part 4: CSWG-SCAI Shock Phenotype Calculator The final part of the app is the CSWG-SCAI Shock Phenotype Calculator. This calculator is designed to determine the shock phenotype based on specific characteristics and clinical indicators. It classifies the shock phenotype into three categories: phenotype I (non-congested), phenotype II (cardio-renal), and phenotype III (cardiometabolic). Additionally, the calculator provides a predicted in-hospital mortality rate for each phenotype, aiding clinicians in risk stratification and treatment planning. The CSWG App for iOS consolidates essential calculators and predictive capabilities in a user-friendly interface, offering a valuable resource for healthcare professionals involved in the management of cardiogenic shock. By facilitating accurate assessments, providing hemodynamic insights, and assisting in the determination of shock phenotypes, this app aims to optimize patient care and outcomes in the challenging context of cardiogenic shock. Please note that this app only presents data published in the literature and should not be a substitute for clinical decision making. The treating clinician/team should use their judgement and experience in clinical decision making. more",
+  "reviews": [],
+  "compatibility": [
+    "iPhone",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "2 MB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English"
+}

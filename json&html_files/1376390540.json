@@ -1,0 +1,41 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Peds Cardiology Handbook 4+",
+  "subtitle": "Pediatric cardiology",
+  "seller": "Ellis Rochelson",
+  "stars": "5.0",
+  "rating": "26 Ratings",
+  "price": "Free",
+  "appDescription": "Thanks for checking out this app! My name is Ellis Rochelson — I'm a pediatric cardiologist, electrophysiologist, and novice programmer. This is a pocket reference guide for those taking care of children with congenital or acquired heart disease. The goal is to offer quick answers to questions we face in our daily practice. I would love to hear any feedback regarding the content or programming of this app — please email me at rochelson.ellis@gmail.com with any suggestions you may have. [Disclaimer: This app should never replace medical judgment.] more",
+  "reviews": [
+    {
+      "user": "JenniferThomas",
+      "date": "05/26/2024",
+      "title": "Awesome",
+      "review": "Great app, very informative, easy to navigate. Thank you"
+    },
+    {
+      "user": "ZDMaestro",
+      "date": "07/16/2020",
+      "title": "Excellent",
+      "review": "Concise. Clear. Easy to navigate. Easy to read (bullet style hierarchy writing style). Bravo!"
+    },
+    {
+      "user": "TOFallot",
+      "date": "11/06/2023",
+      "title": "Fantastic!",
+      "review": "Excellent resource for trainees and practicing cardiologists! User friendly, extensive, and sources cited."
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "90.2 MB",
+  "category": "Medical",
+  "ageRating": "4+",
+  "languages": "English"
+}

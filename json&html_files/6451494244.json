@@ -1,0 +1,41 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Rapid Vent Calculator 17+",
+  "subtitle": "Medical Ventilator Calculator",
+  "seller": "JENCO LLC",
+  "stars": "5.0",
+  "rating": "20 Ratings",
+  "price": "Free",
+  "appDescription": "Introducing Rapid Vent Calculator: Your Ultimate Ventilator Management Companion Are you a paramedic, respiratory therapist, nurse, or doctor seeking a reliable and efficient solution for calculating ventilator settings? Look no further! Rapid Vent Calculator is the must-have app designed to streamline and enhance your ventilatory treatment process. Perfect for EMS and hospital settings. With its user-friendly interface and lightning-fast results, Rapid Vent Calculator empowers medical professionals to make accurate and informed decisions when it comes to ventilator management. Say goodbye to remember equations for complex manual calculations and hello to instant and precise ventilator settings. Key Features: - Effortless Ventilator Settings: Rapid Vent Calculator simplifies the process of determining appropriate ventilator settings for your patients. By inputting the patient's gender, height, weight, metabolic acidosis status, and desired air volume (ml/kg), the app generates the optimal breaths per minute, tidal volume, and minute volume for initial ventilator settings. Experience the ease and convenience of obtaining critical information at your fingertips. - Rapid Results, Enhanced Efficiency: Time is of the essence in emergency situations. Our app is built to deliver rapid results, allowing you to make informed decisions swiftly and effectively. Experience the efficiency of a ventilator calculator that simplifies the complex calculations involved in managing ventilation. No more guessing or trying to calculate settings in your head. - RSI Assistant: In addition to ventilator management, Rapid Vent Calculator also includes a dosage calculator for popular medications used in Rapid Sequence Intubation/Induction (RSI). Obtain accurate medication dosages based on patient parameters, ensuring precise administration during critical moments. More medications coming soon. - Tailored for Medical Professionals: Designed specifically for paramedics, respiratory therapists, nurses, and doctors, Rapid Vent Calculator understands the unique needs of medical practitioners. We provide a clean and intuitive user interface that allows for quick and efficient navigation, saving you valuable time during critical situations. All the info you need is presented on a single page! - Reliable and Trusted: Developed by a medical professional to assist other professionals with rapidly and correctly calculating ventilator settings. Rapid Vent Calculator was created with the goal of patient safety in mind. Embrace the power of technology and elevate your ventilator management skills with Rapid Vent Calculator. Download the app today and experience the convenience, accuracy, and efficiency that only Rapid Vent Calculator can deliver. Don't let time be a barrier to providing the best care. Rapid Vent Calculator is your indispensable tool for precision ventilator management and RSI calculations. Empower yourself with the right information, right when you need it. more",
+  "reviews": [
+    {
+      "user": "Sd15@@!!",
+      "date": "08/03/2023",
+      "title": "Vent App",
+      "review": "So I have been an EMS Educator for nearly 15 years and I’ve always found getting people to retain the math needed to figure correct Tidal Volumes. There’s always the “guess” method which is both dangerous and foolish. This app makes a lot of that stress disappear! I love it and I’ve recommended this app to everyone. THE DEVELOPER DID AN EXCELLENT JOB!!! more"
+    },
+    {
+      "user": "pb_and_jedi",
+      "date": "07/28/2023",
+      "title": "Clear, concise and easy to use",
+      "review": "Clean layout and easy to use. Easy to use in high stress situations. All the information is at your fingertips after inputting a couple questions about the patient."
+    },
+    {
+      "user": "Seeker 75",
+      "date": "07/25/2023",
+      "title": "Nice App",
+      "review": "Works well, and easy to use. Very quick for field use. Love the drug doses at the bottom. Definitely recommend for all EMS providers!"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "29 MB",
+  "category": "Medical",
+  "ageRating": "17+",
+  "languages": "English"
+}

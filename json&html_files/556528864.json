@@ -1,0 +1,21 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "iElastance 12+",
+  "subtitle": "",
+  "seller": "Pietro Bertini",
+  "stars": "",
+  "price": "Free",
+  "appDescription": "iElastance is an application designed for calculate Ventricular Elastance, Arterial Elastance and Ventricular-Arterial Coupling using Echocardiographic derived values in a single beat determination. This application is extremely useful to a variety of health care givers such as Cardiologists, Intensivists, Anesthesiologist and more who want to calculate ventricular arterial coupling even in the Critical Care setting and, above all, bedside. The variables needed for the calculator to work are: Systolic Blood Pressure (mmHg) Diastolic Blood Pressure (mmHg) Stroke Volume (ml) Ejection Fraction (%) Pre Ejection Time (msec) Total Ejection Time (msec) Formulas are validated and extracted from the article by Chen CH et Al J Am Coll Cardiol. 2001 Dec;38(7):2028-34. DISCLAIMER: The calculator provided is not meant to be a substitute for professional advice and is not to be used for medical diagnosis. Extensive effort has been exerted to make this software as accurate as possible; however the accuracy of information provided by this software cannot be guaranteed. Health care professionals should use clinical judjement and individualize therapy to each patient care situation. All rights reserved - 2024 Pietro Bertini more",
+  "reviews": [],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "29 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

@@ -1,0 +1,39 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "HealtheLife 17+",
+  "subtitle": "",
+  "seller": "Cerner Corporation",
+  "stars": "2.2",
+  "rating": "650 Ratings",
+  "price": "Free",
+  "appDescription": "HealtheLife helps individuals and families to stay informed, stay educated, and take a more active role in their health. Through the HealtheLife mobile app, you have real-time and easy access to your health care organization's online portal. This portal shows your latest health care information and provides services needed to plan, understand, and engage in your care. Once your health care organization grants you access to their online portal and creates an account for you, simply sign into the HealtheLife mobile app with your Cerner Health username and password. If you have access to multiple organizations' portals, you can view all participating portals through the app. Each participating organization's portal is unique, but most portals allow you to connect with your care team using the following methods: • Securely messaging your provider • Scheduling and managing upcoming appointments • Accessing medical information including allergies, laboratory results, health issues, immunizations, medications, and other health documents If you need assistance accessing your existing account, visit your health care organization's website for support options. Contact your provider directly regarding questions about your health record. Personal health inquiries or concerns posted as comments in the App Store cannot be addressed. more",
+  "reviews": [
+    {
+      "user": "Leapbabie",
+      "date": "03/12/2019",
+      "title": "Quirky inconsistent app",
+      "review": "The notifications don’t turn off (ex: read a message but notification still on) or I don’t get a push notification even though they are on (ex: if I get a message). Now it updated and Touch ID no longer works. When I open the app, it says I have to log into the website and it loads two additional screens before I can log in (entering log in and password) every time. It was convenient at first but now it’s pointless; I can just go to the website and log in, less steps haha. Going to keep it another week than probably delete. more"
+    },
+    {
+      "user": "Alternative Reviews",
+      "date": "05/12/2020",
+      "title": "App is now USELESS!! ☹️🤮🤯🙈",
+      "review": "Update: May 2020 sooo a year later and still same useless web supported Application which leads to WHY even have an APP in the iPhone & iPad store just tell patients use our web site for ALL Keck USC related needs. That your actually paid a fee for your app and service IS everything wrong with the high cost of health care and huge waste of money being given to companies in golf game deals. Truly disgusting all that money does go into research or ppe for your staff. Update: So you update the App in March 2019 after lots of neglect AND we get web access from our browser 🤔 Seems we’re going backwards NOT foreword for app so important in the Dr. patient communication aspects of treatment. This update worse then previous one #sosad Previously reviewed in 2017 So an App used message your Dr's at USC who no doubt pay this company some kind of fee can't or don't insist on working App in 2017? With all the resources on campus develop a working iOS app REALLY it is the preferred way Dr.'s ask people communicate with them yet your app won't even open!! Hello UCLA 😃 We're sorry, but something went wrong. If you are the application owner check the logs for more information. more"
+    },
+    {
+      "user": "Rickee R",
+      "date": "11/11/2020",
+      "title": "Dark Mode PLZ",
+      "review": "Needs Dark Mode. White background when in a dark room is hard on the eyes. Headache 😵 Can’t seem to find the Log Out option to disconnect from my health provider portal at the end of session. This is a new development as I used to be able. Killed the app in the app switcher instead. Glitchy/awkward UI makes UX disappointing. Navigation from an open message back to the mailbox especially counterintuitive. Too many back links on screen at same time. Not clear which is the correct one. Always tapping wrong one and get kicked out of Messages then have to find my way back. Hoping this can be cleaned up. After initial login, app doesn’t recall which credentials I used previous time and have to select again from Keychain with every visit. On the plus side, enabled FaceID 🤩 and Notifications in Settings. Hoping Notifications includes badges. App menu icons would be nice. The pure text approach and lack of color too sterile. Icons would help. Nothing wrong with adding the app icon to top of screen or some other art. On iPhone 11 running iOS 14.2 more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch"
+  ],
+  "size": "45 MB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English, Spanish"
+}

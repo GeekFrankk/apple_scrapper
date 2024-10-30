@@ -1,0 +1,40 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "My Molina 12+",
+  "subtitle": "",
+  "seller": "Molina Healthcare, Inc.",
+  "stars": "4.6",
+  "rating": "6.9K Ratings",
+  "price": "Free",
+  "appDescription": "Members can sign into the app using their My Molina User ID and Password to access our secure features, including: • User friendly navigation • View health coverage • View your benefits and eligibility • View/download and share ID card • Make premium payments (Marketplace only) • Message Center • Manage your payment profile • Save favorite doctors • Change PCP • Access to other services When you use the My Molina app, identifiers for your mobile device are collected within Google Firebase to create a unique identifier for each application when downloaded. This app integrates with Health app to display your health information. Please review the below link which provides a disclosure of the use of Google Analytics for Firebase and how that service processes data: www.google.com/policies/privacy/partners/ more",
+  "reviews": [
+    {
+      "user": "56denise",
+      "date": "06/20/2020",
+      "title": "Long term meds",
+      "review": "I was given no information about a mail order drug program or what company did that. I called customer service and she had no idea about mail service for long term drugs— saying I could go to cvs or Walmart. She didn’t know if I could save money thru a mail order service. Not at all impressed so far. more"
+    },
+    {
+      "user": "sunnyD2me",
+      "date": "03/01/2022",
+      "title": "App does not work ! Junk !\n\n    Developer Response",
+      "review": "I have tried to find pharmacies in my area that Molina approves . It continually shows access denied!!!!! It does not show that my prescription medication deductible was satisfied . It does not offer or show mail in prescriptions . It does not show that I have prescriptions or medications purchased or authorized . The only thing I am able to get off this Molina App is my Medical ID card and that my payment has been processed. There is no link to contact anyone when having a problem with this app. Obviously it is not working and not accurate as I can not see local pharmacy’s. Why does it state Access Denied when trying to view pharmacies in my local area . When I tried to use favorites it gives me not local nearby pharmacies that I did not favor . The app is junk !!! more We are very sorry for the problems you have had accessing your pharmacy information. Please send us an email at portalappsupport@molinahealthcare.com so we can look into these issues for you. more"
+    },
+    {
+      "user": "Unicorn_Moon",
+      "date": "08/04/2022",
+      "title": "Can Log into Website but not on the app!\n\n    Developer Response",
+      "review": "What is going on?! As of a few days ago, I went to log into the app and it told me that my login/password is incorrect. I went online, reset my password and tried logging into the website yesterday and it let me login. Today, I tried to do the same with the app and it is giving me an error message saying “Wrong login/password”. This is incredibly frustrating! This app should work, I need to be able to show my card when I go to the doctor, now the app doesn’t work anymore! Hopefully, my I.D. will come soon in the mail because now the app is broken and who knows how long it will take before the I.T. Department gets around to fixing the app! 😡 more I am sorry you are having trouble logging in. Please email us at PortalAppSupport@MolinaHealthcare.com and we can help you get logged in. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Apple Vision"
+  ],
+  "size": "105.8 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English, Spanish"
+}

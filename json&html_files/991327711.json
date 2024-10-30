@@ -1,0 +1,39 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Imprivata ID 4+",
+  "subtitle": "",
+  "seller": "Imprivata, Inc.",
+  "stars": "2.2",
+  "rating": "325 Ratings",
+  "price": "Free",
+  "appDescription": "Imprivata ID is a secure authentication application that helps improve clinical workflows for medical professionals for electronic prescribing of controlled substances (EPCS), remote network access, and others. For EPCS, Imprivata ID enables Hands Free Authentication, a breakthrough solution that delivers exceptional speed, security, and convenience for providers while meeting DEA two-factor authentication requirements for EPCS. Instead of typing a manual token code, Hands Free Authentication wirelessly retrieves and verifies a one-time password from the Imprivata ID application on the user’s mobile device, even if it is locked and/or in the user’s pocket, which delivers unparalleled speed and convenience with minimal impact to clinical workflows. For remote network access, Imprivata ID enables fast, convenient push notifications. Users receive a notification on their mobile phone asking them to verify their identity. The user simply swipes the notification from the lock screen of their device and taps “Approve,” and the second factor of authentication is complete. more",
+  "reviews": [
+    {
+      "user": "amaiman",
+      "date": "09/24/2019",
+      "title": "Watch functionality broken in iOS 13",
+      "review": "iOS 13 broke the Apple Watch functionality. Instead of getting the “Approve/Deny” prompt on the watch it just shows the notification with “Dismiss” forcing you to use the phone to actually approve access. Need an app update from Imprivata to restore this functionality (they have to keep with Apple’s API changes to avoid functionality losses when Apple moves forward). more"
+    },
+    {
+      "user": "4drp",
+      "date": "10/03/2019",
+      "title": "Approve/Deny Broken",
+      "review": "I second the approve dent problem on iOS 13. Not only does it not work with the watch, the phone itself of course needs to be unlocked to get the approve / deny choice. This adds a significant amount of time to my day , especially covering for multiple doctors. The low power Bluetooth dongle almost never works as well now, which I know is an also an Imprivata desktop issue, but it makes the loss of approve/deny on watch or lock screen even more annoying. Reviews are pretty worthless here since at least for e-prescribing users aren’t choosing this platform in most cases, but we can complain to IT and encourage them to find a better vendor, so please fix this. more"
+    },
+    {
+      "user": "Dean2C",
+      "date": "11/01/2019",
+      "title": "iOS/Watch OS notifications fixed!",
+      "review": "iOS 13 notifications are fixed in version 6.3.1.x - you can again long-press the notification from the lock screen of your phone to approve/deny the token request. Actionable notifications again appear on the Apple Watch too. Thanks to Imprivata for getting this fix in place. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch"
+  ],
+  "size": "34.8 MB",
+  "category": "Medical",
+  "ageRating": "4+",
+  "languages": "English"
+}

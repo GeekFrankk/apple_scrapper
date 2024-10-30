@@ -1,0 +1,41 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Insulin-Rx 17+",
+  "subtitle": "",
+  "seller": "Adam Lyko",
+  "stars": "4.7",
+  "rating": "3 Ratings",
+  "price": "Free",
+  "appDescription": "Insulin-Rx application is a convenient insulin dose calculator intended for use by healthcare professionals who prescribe basal-bolus insulin therapy. Patient weight and total daily insulin can be efficiently entered in by using sliders instead of typing in the values. The calculator then displays insulin units/kg/day, carbohydrate-to-insulin ratio, insulin sensitivity (correction factor), fixed meal bolus dose, and daily basal dose. A calculator that converts hemoglobin A1C to the estimated corresponding average glucose value is also included as well as a converter of centimeters to inches together with a body mass index calculator. more",
+  "reviews": [
+    {
+      "user": "Sunnyday 123",
+      "date": "05/10/2015",
+      "title": "Clinically useful app",
+      "review": "I find find this app makes my life easier by not having to guesstimate insulin doses especially when titrating insulin. I use the calculated values to then more accurately individualize therapy."
+    },
+    {
+      "user": "healthygirl",
+      "date": "10/19/2014",
+      "title": "Great app",
+      "review": "This app is simple and to the point. I can calculate better basal and bolus doses for my patients in seconds. If I only had one patient with insulin dependent diabetes it would be with the price more"
+    },
+    {
+      "user": "Qazserdewsf",
+      "date": "03/14/2015",
+      "title": "Rip off...",
+      "review": "This is a rip off. You can do these calcs in your head. This does'nt even qualify for free."
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "416.8 KB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English"
+}

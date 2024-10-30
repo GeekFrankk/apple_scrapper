@@ -1,0 +1,40 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Guardian® Dental & Vision 4+",
+  "subtitle": "Find providers and get ID Card",
+  "seller": "Guardian Life Insurance Company of America",
+  "stars": "4.5",
+  "rating": "30.7K Ratings",
+  "price": "Free",
+  "appDescription": "Easily access your Guardian Dental and Vision benefit information. - Find a Provider: Search for participating dental or vision providers by name or location - ID cards: View, download/add to Apple wallet or email your Dental and Vision ID cards. Use when making an appointment or at your next visit. - NEW View Dental benefit plan information - NEW View Dental claims status and history more",
+  "reviews": [
+    {
+      "user": "ChongoMomo",
+      "date": "05/02/2023",
+      "title": "Doesn’t work with Apple Wallet",
+      "review": "Updated: Looks like somebody fixed the issue. Whenever I try to add my ID card to Apple wallet I get the error “We’re sorry. Something went wrong. Please try again later”. i’ve uninstalled and reinstalled the app. I’ve also tried to log out and log in again. Nothing seems to work. more"
+    },
+    {
+      "user": "CalvinTy",
+      "date": "02/14/2023",
+      "title": "Initial experience",
+      "review": "I have a new dental plan that began this month with Guardian Direct and set up my account online today. Then I saw the website mentioning how iPhone users can “add your Dental ID card to your Apple wallet…” so I went to my iPhone and searched for Guardian Direct app and I see several variations depending on whether you are a provider, have dental/vision plan, or if you have life insurance plan. I chose this app and I immediately spied after I pressed on “View ID” then the app asks for “User ID” while website asked for my email address. This didn’t work so I pressed on “trouble logging in?” link. I pressed on “Forget User ID” (knowing that isn’t the case), and it asked for my email address. Next screen it says “We are sorry, but your access has been suspended…”. I panicked and went back to website and I still have no problems with website (even logging out and back in). This implies multiple issues with sync’ing between website and app. more"
+    },
+    {
+      "user": "747282818sjdjdj",
+      "date": "05/02/2021",
+      "title": "The worst",
+      "review": "This app doesn’t work for customers covered through Cover CA. Also, there are dentists in there network that are out of business. I’ve been paying for months and when I needed to see a dentist, it turned out they had closed a long ago. Then I tried updating to a different dentist in the Guardian network and they didn’t have a working phone number or email address. I’m really worried about my teeth and I’m not able to see a dentist because Guardian keeps offering closed offices to me. Also, the website takes 2-3 business days to update anything so it kept telling me I had outstanding payments and I paid it multiple times before realizing that submitting payments through the website doesn’t change the status on the website. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "170 MB",
+  "category": "Medical",
+  "ageRating": "4+",
+  "languages": "English"
+}

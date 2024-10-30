@@ -1,0 +1,35 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "iArrest 12+",
+  "subtitle": "",
+  "seller": "Maximilian Neun",
+  "stars": "5.0",
+  "rating": "3 Ratings",
+  "price": "Free",
+  "appDescription": "iArrest was developed to give healthcare professionals a powerful tool to navigate stressful and challenging cardiac arrest calls. Whether as a Paramedic on scene or as a clinician in hospital, this app can assist in running structured and effective adult cardiac arrest scenarios. Developed by clinicians working in large inner city teaching hospitals, this app takes into consideration the most recent Resuscitation Council (UK) Guidelines 2021. It serves as an aide-memoire for basic tasks that can easily be overlooked in stressful scenarios. iArrest also incorporates a number of timers to assist with rhythm analysis, adrenaline timings and arrest documentation. It will remind the user via audible and visual cues about necessary interventions even if a clinician’s phone is muted. iArrest has been programmed to prevent phones from going into sleep mode, in order to ensure continuous use throughout the arrest. iArrest will record the exact time an important event or an intervention has occurred and present the user with a detailed log of events. These logs can be copied to the clipboard and used for documentation and record keeping. iArrest is currently undergoing extensive testing in simulated and real world scenarios. We are continuously improving and expanding on iArrest’s functionality. Disclaimer: iArrest can not replace sound knowledge in Advance Life Support and should not be used by non-ALS trained clinicians. Use this app at your own risk and always use appropriate clinical judgement. Please familiarise yourself with the functionality of this app before using it in real life scenarios. The creators of this app shall not be liable for any claims or losses arising from the use or misuse of this app, its contents, any omissions from its contents, or otherwise. By using this app you agree to these terms and conditions. more",
+  "reviews": [
+    {
+      "user": "Uprootedtraveler",
+      "date": "09/16/2021",
+      "title": "Super easy to use…needs a USA version",
+      "review": "Great looking arrest timer, super simple and to the point. Only issue is that it’s oriented to the UK. So it doesn’t include amio, lido, vector changes, etc for those of us in the USA."
+    },
+    {
+      "user": "Ahmed1234587",
+      "date": "09/11/2017",
+      "title": "Amazing!",
+      "review": "Easy to use!"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "32.4 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

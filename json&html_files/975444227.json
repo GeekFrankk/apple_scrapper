@@ -1,0 +1,38 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "MyZio 12+",
+  "subtitle": "Symptom logging for MyZio",
+  "seller": "iRhythm Technologies, Inc",
+  "stars": "4.7",
+  "rating": "22.1K Ratings",
+  "price": "Free",
+  "appDescription": "MyZio® is the perfect companion app to the Zio® ECG monitor. Use the app to track your monitors shipping status, enter your symptoms, and access helpful information while wearing your Zio ECG monitor. Key Features: • Signup for a MyZio account anytime • Track your monitor’s shipping status • Seamlessly register your Zio ECG monitor and start logging symptoms. • Enter your symptoms. View and edit your symptoms as needed. • Access information about the Zio service. Instructional videos are included to help you throughout your Zio experience. Features vary by market and country. more",
+  "reviews": [
+    {
+      "user": "Cvbrakeman",
+      "date": "09/18/2024",
+      "title": "ZIO",
+      "review": "Seems to be working well. It’s so easy you don’t even know your are wearing it. It seems to stay stuck I just hope I can remove it without hurting my skin. One improvement they could make to the design is, they ask when you have and episode two press the button on the face and then log it either in a book or the Internet. I chose the Internet. The two problems I see are if you choose the book it’s too big to fit in your pocket. you may not have it with you when you need it because of that. The second problem is the unit itself. It may just be the unit I have, but it’s hard to tell when you press the button during an episode whether or not it actually worked meaning the switch the button is not as definitive on and off as it could be. My real thoughts are if this thing works and we can get my medication’s in wine I’ll be very very happy. Would I try it again? If the doctor requested it you bet it’s simple it’s easy! more"
+    },
+    {
+      "user": "cxxxyyyy",
+      "date": "03/25/2022",
+      "title": "Update disaster",
+      "review": "Received a new patch and put it on. I know I have to update the serial number in the app. Opened the app and was greeted with the message that the certificate of the server is … (the rest of the test isn’t visible, I assume the missing word is invalid or expired). Call #1: instructed to remove app and install new one. I tried this but was notified that my iOS is too old but that I could run an older version. Which I did and got the same message. Call #2 suggested I use the written log. So I switched to my iPad, downloaded the app and signed in. Message says that my wear period has ended. This is correct; it’s why I need to update the serial number. But I can’t because the only visible controls are the play button to view a video on shipping it back and the home icon, which does nothing. Call #3 informs me to turn up the brightness, which I do. He says I need to access my profile, but of course there is no way to do this. On top of this he asked me for my password! Hard to imagine any reasonable modern system where that would be tolerated. He also said this is a known problem that has been reported by others. I don’t know which would be worse, that he made that up or that it is true and he didn’t start with that information. more"
+    },
+    {
+      "user": "MomX385",
+      "date": "05/01/2024",
+      "title": "Oh how getting old is not fun",
+      "review": "Technology has come so far these days I wear this nickel size button over my heart with adhesive stickers and yea you can shower just after 24 hours even though I still did the same day I just held my shower handle in hand to not hit my zio. Well isn’t this nifty all I do is press the button when I’m having any off feelings and EVEN THOUGH ITS RECORDING 24/7 It kinda highlights these moments for the cardiologists so they know what your feeling. Then you open your phone hit this app and bam it literally gives you all the options needed to log your info and to my surprise the lady attaching this device also made me aware that if the company noticed any kind of weird things going on with my heart that would cause immediate need to alert the company automatically alerts my PCP PRIMARY CARE PHYSICIAN THAT REFERRED ME. ISNT THAT COOL. I LOVE THIS THING IT KINDA MAKES ME WANNA WEAR IT ALL THE TIME LETS ME KNOW SOMEONE HAS MY BACK. THANKS MYZIO!! more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPod touch"
+  ],
+  "size": "39.4 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

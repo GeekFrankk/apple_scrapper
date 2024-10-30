@@ -1,0 +1,28 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Diagnostic Test Calculator 17+",
+  "subtitle": "",
+  "seller": "Horizon Strategic Partners Ltd",
+  "stars": "1.0",
+  "rating": "1 Rating",
+  "price": "Free",
+  "appDescription": "About the Diagnostic Test Calculator This diagnostic test calculator is of value to clinicians and researchers who wish to understand the accuracy and reliability of a diagnostic test. The application can determine test characteristics including specificity, sensitivity and likelihood ratio. Easy to navigate input fields allow the user to analyse a diagnostic test quickly and effectively. The results of the diagnostic test calculator display the post-test probability of disease given the pre-test probability of the characteristics of the specific diagnostic test. Results are shown as absolute values and also as an easy to use graph (nomogram) and summary table. The app gives you a clear analysis and also, given a sample size, will show the confidence intervals clearly. The nomogram itself will display the probability that the patient actually has the disease after a positive or negative test. This Diagnostic Test Calculator iPhone application is supported by a grant from Gilead Sciences Europe. The calculations within the app are based on the open source implementation which can be found at http://araw.mede.uic.edu/cgi-alansz/testcalc.pl (Copyright (c) 2002-2007 by Alan Schwartz alansz@uic.edu). Instructions To get started, please input data into the fields provided. The nomogram will be shown with the correct plotted data once the “save” button is pressed. Date of preparation: June 2012 Job Code: 131/IHQ/12-07//1350 more",
+  "reviews": [
+    {
+      "user": "pdmcmd",
+      "date": "04/04/2022",
+      "title": "Broken, broken- Needs to be looked at by the authors",
+      "review": "The all important “SAVE” button has vanished from this version of the app. The likelihood ratio is never calculated."
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Apple Vision"
+  ],
+  "size": "12.2 MB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English"
+}

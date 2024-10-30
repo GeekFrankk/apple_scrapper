@@ -1,0 +1,38 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "athenaPatient 17+",
+  "subtitle": "The athenahealth Patient App",
+  "seller": "athenahealth",
+  "stars": "4.9",
+  "rating": "21.9K Ratings",
+  "price": "Free",
+  "appDescription": "athenaPatient is only available for patients whose healthcare providers have instructed them to download and use the app. Access your health information and communicate with your care team anywhere, anytime.* athenaPatient is a convenient, mobile resource that allows you to: - Log in quickly – Facial recognition and touch ID make log in easy while keeping your data safe. - View test results – Access lab, imaging, and other medical test results as soon as they become available. - Message your care team – Contact your care team whenever you have questions through quick, secure direct messages. - Self-schedule appointments – Book appointments with your care team and view upcoming visits beyond regular office hours. Your provider(s) must support Self-Scheduling to use this feature. - Check in before your visit – Easily check in for appointments and save time by completing any necessary documentation before your arrival. Your provider(s) must support Self Check-In to use this feature. - Attend virtual visits – Easily initiate and attend telehealth visits with members of your care team. (Your provider(s) must support virtual visits through athenaTelehealth to use this feature) - Get directions to appointments – Driving directions show you how to get to your next medical appointment. Please note that you must have an existing athenahealth Patient Portal account to use athenaPatient. Once you’ve downloaded and launched athenaPatient, you must log in using the same email address and password you use to access your provider’s athenahealth Patient Portal to begin using the app. It will ask if you want to enable Face ID or Touch ID. Enabling either of these features will save you from having to enter your login information every time you want to use the app. If you do not have your Patient Portal account information, your healthcare provider(s) may offer Patient Portal access through their website. If you’re having issues finding your healthcare provider’s Patient Portal, you can contact their office for the correct URL, or to request an email invitation to their Patient Portal. * The athenaPatient app is only available for download and viewing information in the United States for patients of healthcare providers on the athenahealth network. more",
+  "reviews": [
+    {
+      "user": "Ebroida",
+      "date": "09/21/2024",
+      "title": "Difficult at beginning",
+      "review": "When first using App it was so confusing and not as User friendly as it was very difficult navigating or knowing where to go to get the info I needed. I thought it extremely confusing as to WHY I had to open 2 separate apps to access appointments and communicating with my Doctors. It is crazy confusing when ordering med refills as well, just to find that none of the Drs nor Staff have had any training (or proper training) on how to use or manage refills, messages and emails. Besides that the boxes to check are far too small as well as menu … UGH! I’m am getting better at using it but still have difficulties that become frustrating. more"
+    },
+    {
+      "user": "Bluey229",
+      "date": "01/06/2024",
+      "title": "Horrible\n\n    Developer Response",
+      "review": "This app is HORRIBLE. I had a message from my doctor and was not notified by the system that I had a message. Later on in the day I received three messages via email notifying me that I had a message waiting to be viewed via the portal. When I went to access the portal, I had old messages that had already been read. I cannot believe a doctors office would utilize this system to communicate with their patients because half the time this system does not work via the app. I’ve been forced to access the web version of the app on multiple occasions just to retrieve the information I needed. Mychart is much better than this system as Athena seems outdated and watered down. Nothing in comparison to what I am accustom to using when it comes to communicating with my doctors. I was asked to update my review by the developers of this app. As I stated in the beginning of my disdain. The system would send me notifications stating I had messages available to read only to discover this information was not correct. No, I did not receive an error message. more Hello Bluey, we are sorry to hear the struggles you've been having with the messaging system. Are you able to update your review with more detail around what's occurring when messaging doesn't work for you? Do you get an error message or are you unable to select a location or provider to send the message? - athenaPatient Team more"
+    },
+    {
+      "user": "Ron Heiby",
+      "date": "04/09/2024",
+      "title": "Loses Its Mind\n\n    Developer Response",
+      "review": "If we want to compare this against the mainstream of properly designed apps, it doesn’t stack up well. Against other apps for communication with a medical practice, kinda meh. But if you want to use a phone app and this outfit is what your doctor chose, you’re pretty much stuck with it. The main problem with it is that you can be in the middle of, say, entering a long message to the medical team, and have to switch over to a different app, perhaps with the intention of doing a copy/paste. And when you come back to this app, it has completely lost the plot and you have to start over again. Or do what I did and access the web portal instead. Recently, the app has been sending me notifications to check in for my upcoming appointment. But when I tap the notification it just takes me to the page that shows my next appointment in over a month. Trying to send in-app feedback fails, saying that the address doesn’t exist. more Hello Ron, thank you for your feedback. We are working to add additional features to the app in future versions. The issue you've described of navigating in and out of the app while composing a message sounds like built-in security that locks the app when navigating away from it to protect health information. This is intended functionality but we'll share your comment with our Product team for consideration. We apologize for the inconvenience. - athenaPatient Team more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "Apple Vision"
+  ],
+  "size": "30.2 MB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English, Spanish"
+}

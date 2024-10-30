@@ -39,15 +39,35 @@ const findDuplicatesBetweenStores = (arr1, arr2) => {
     });
 };
 
-// Function to read CSV file and convert it to an array
-const readCSV = (filePath) => {
+// Function to read Play Store CSV file (comma-separated)
+const readPlayStoreCSV = (filePath) => {
     return new Promise((resolve, reject) => {
         fs.readFile(filePath, 'utf8', (err, data) => {
             if (err) {
                 return reject(err);
             }
-            // Split file content by new lines and trim whitespace
-            const apps = data.split('\n').map(app => app.trim()).filter(app => app !== '');
+            // Split by new lines, then extract the second column (app name) from comma-separated values
+            const apps = data
+                .split('\n')
+                .map(line => line.split(',')[1]) // Only get the app name part after comma
+                .filter(app => app); // Filter out undefined or empty entries
+            resolve(apps);
+        });
+    });
+};
+
+// Function to read Apple Store CSV file (no commas)
+const readAppleStoreCSV = (filePath) => {
+    return new Promise((resolve, reject) => {
+        fs.readFile(filePath, 'utf8', (err, data) => {
+            if (err) {
+                return reject(err);
+            }
+            // Split by new lines and trim whitespace
+            const apps = data
+                .split('\n')
+                .map(app => app.trim()) // Just take each line as is
+                .filter(app => app); // Filter out any empty entries
             resolve(apps);
         });
     });
@@ -57,8 +77,8 @@ const readCSV = (filePath) => {
 const processFiles = async () => {
     try {
         // Read Play Store and Apple Store CSV files
-        const playStoreApps = await readCSV('./app_store_scraper/playstore_scraper/apps_names.csv');
-        const appleStoreApps = await readCSV('./app_store_scraper/apple_apps.csv');
+        const playStoreApps = await readPlayStoreCSV('./app_store_scraper/playstore_scraper/apps_names.csv');
+        const appleStoreApps = await readAppleStoreCSV('./app_store_scraper/apple_apps.csv');
 
         // Find duplicates within each store
         const playStoreDuplicates = findDuplicatesWithinArray(playStoreApps);
@@ -72,21 +92,21 @@ const processFiles = async () => {
             console.log("Duplicate Apps within Play Store:");
             playStoreDuplicates.forEach(app => console.log(app));
         } else {
-            console.log("No duplicate in - Play Store.\n");
+            console.log("No duplicates in Play Store.\n");
         }
 
         if (appleStoreDuplicates.length > 0) {
-            console.log("Duplicate Apps within Apple Store:");
+            console.log("\nDuplicate Apps within Apple Store:");
             appleStoreDuplicates.forEach(app => console.log(app));
         } else {
-            console.log("No duplicate in - Apple Store.\n");
+            console.log("No duplicates in Apple Store.\n");
         }
 
         if (duplicateBetweenStores.length > 0) {
             console.log("Duplicate Apps found in both Play Store and Apple Store:");
             duplicateBetweenStores.forEach(app => console.log(app));
         } else {
-            console.log("\nNo duplicate apps found between: Play Store and Apple Store.");
+            console.log("\nNo duplicate apps found between Play Store and Apple Store.");
         }
 
     } catch (error) {

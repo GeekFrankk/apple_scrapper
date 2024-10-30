@@ -1,0 +1,39 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "MEDITECH MHealth 12+",
+  "subtitle": "",
+  "seller": "Meditech",
+  "stars": "2.5",
+  "rating": "635 Ratings",
+  "price": "Free",
+  "appDescription": "MHealth is the mobile version of MEDITECH’s Patient and Consumer Health Portal, which offers secure and convenient access to your health information at your fingertips, on your mobile device or tablet. MHealth offers a wide range of results and features that allow you to better manage your and your family’s care. Use your existing Patient Portal logon ID and password to get started with MHealth. With MHealth, you can: • Communicate securely with your care team • Request new appointments and see details for upcoming visits • Pre-register for upcoming appointments • Review laboratory results and radiology reports • Track immunizations, allergies, and conditions • Manage home medications and request prescription renewals • Reference visit history information and forms, including discharge instructions. If you already have a Patient Portal account through your healthcare provider, and your provider has enabled access through MHealth, you are ready to begin. If you do not already have a Portal account with a MEDITECH affiliate, visit your healthcare provider’s web page to learn how to get started. more",
+  "reviews": [
+    {
+      "user": "JSh33han",
+      "date": "03/26/2022",
+      "title": "Can’t logon, crashes with connection error at startup",
+      "review": "This app was working ok up until this past week, I now get an error ‘uh oh’ - ‘We weren’t able to make a secure connection to your portal. You may still be able to access your portal through the browser’. ‘Open browser’ link ‘Back’ link iOS safari browser web access connects securely as expected and login is ok but always have password issues with browser, often doesn’t accept save creds. App is much easier to use with Face ID when it works. Have iPhone 12 Pro running latest ios 15.4 updated a couple weeks before issue. Ssl cert is valid until 6/2/22 more"
+    },
+    {
+      "user": "Aaron Fox",
+      "date": "01/01/2022",
+      "title": "Does anyone at meditech or BHS care?",
+      "review": "How can it be that for months, hundreds of users of this bargain bin software all report the same thing, trouble logging in, reset accounts, unrecognized correct credentials, the need to call and have the portal account reset EVERY TIME YOU TRY TO USE IT, all of us saying the same thing is fundamentally broken on this software. I've had yelling matches with the BHS medical records office after the fifth and sixth times I had to call to reset my elderly mom's account. An app that doesn't work is worse than nothing at all when the point is access to your medical records and tests and appointments. And think about this: how much can you trust the obvious third rate clowns who developed this software with the privacy and security of your most personal information? BHS failed when they signed a contract with Meditech. Someone needs to cut that contract off and eat the loss and switch to one of the many other commercial options for medical portal software. I use several with other doctors and have never had any problems. This one has never ever worked right. Surely BHS staff have other jobs than fielding endless complaints and reset requests. I intend to write the IT director at BHS and share these opinions. I do not trust this company with my mom's medical records. Unbelievable incompetence. more"
+    },
+    {
+      "user": "Gregoryhamptom",
+      "date": "04/26/2023",
+      "title": "Kingman Regional Medical  Hospital and Urology",
+      "review": "This APP is terribly flawed and EXTREMELY a waste of time!!!! The few times that log in was successful, the APP would log out of my session unexpectedly and error message appears stating: “your browser does not allow session cookies“. Further, The support for this APP is equally flawed and unprofessional. There have been over a dozen emails and phone calls to the support staff at Kingman Regional Medical Hospital and these bird brains do not comprehend the problem therefor give LAME RESPONSE, that is the few times they responded. It reminds me of the appointment and scheduling of the Kingman Regional Medical Center. They will give you a date for and NO TIME on that date for specific procedures until a couple days before the surgery, YET, expect patient to have someone there for taking patient home after procedures! My family and friends kept asking me WHEN THEY needed to be there to take me home but the hospital will NOT tell you. Third world, unprofessional, appointment and scheduling! more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch"
+  ],
+  "size": "35.2 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

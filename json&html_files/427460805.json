@@ -1,0 +1,27 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "EchoLab 17+",
+  "subtitle": "Analysis for echocardiography",
+  "seller": "Medical Appware, LLC",
+  "stars": "",
+  "price": "$4.99",
+  "appDescription": "EchoLab presents the formulas and algorithms used in an adult echocardiography laboratory. Designed by a practicing cardiologist, EchoLab provides a comprehensive framework for teaching the principles of quantitative echocardiography, or cardiac ultrasound. EchoLab's unique design permits sharing of entered and calculated data between its many formulas. Quick Entry views provide immediate access to a wide array of echocardiographic calculations. Unique to EchoLab among echocardiography applications is the powerful Analytic Engine, which synthesizes results from multiple calculations into a cohesive overview with a comprehensive summary, with integration of ASE/EACVI guidelines. The included companion app for the Apple Watch provides a ready reference when performing or interpreting echocardiograms. Available with each calculation is a graphical display of the corresponding mathematical equation, along with tips for using the calculation and medical literature references with integrated hyperlinks. Calculations and analyses include: • Aortic effective regurgitant orifice area • Aortic energy loss index • Aortic flow acceleration time with ratio to left ventricular ejection time • Aortic prosthetic paravalvular regurgitant extent • Aortic regurgitant fraction • Aortic regurgitant jet width, jet area, pressure half-time, and vena contracta • Aortic regurgitation index (for TAVR, from invasive pressure measurements) • Aortic root assessment • Aortic transvalvular flow rate • Aortic valve area (from velocity and velocity-time integrals, including dobutamine stress with projected aortic valve area) • Aortic valve resistance • Aortic valvulo-arterial impedance (Zva) • Biventricular coupling index • Body mass index • Body surface area • Cardiac output and ejection fraction (3D, area-length, Doppler, Dumesnil, Teichholz, simplified Quinones, and Simpson's methods) • Diastolic assessment (using either 2009 or 2016 guidelines for analysis) • Diastolic stress echocardiography • echocardiographic Pulmonary to Left Atrial Ratio (ePLAR) • Exercise stress echocardiography • Hemodynamic summary • Left atrial appendage emptying velocity • Left atrial pressure • Left atrial expansion index, function index, and reservoir strain • Left and right atrial volume and index • Left ventricular diastolic diameter index • Left ventricular dP/dt • Left ventricular fractional shortening • Left ventricular GLS • Left ventricular mass, mass index, and relative wall thickness • Left ventricular myocardial performance index • Left ventricular stroke work loss • Left ventricular wall motion score index • Maximum predicted heart rate (for dobutamine and exercise stress) • Maximum rate-pressure product (for exercise stress) • Mean arterial pressure • Mitral effective orifice area (PISA and stroke volume methods) • Mitral regurgitant fraction (PISA and stroke volume methods) • Mitral regurgitant vena contracta • Mitral valve area (continuity, PISA, and pressure half-time methods) • Mitral valve resistance • Mitral valvuloplasty score • Pericardial effusion (size and flow velocity paradoxus) • Prosthetic aortic and mitral valve assessment • Pulmonary artery systolic pressure (using tricuspid regurgitant velocity, VSD flow velocity, or pulmonary artery acceleration time), diastolic pressure, and mean pressure • Pulmonary capillary wedge pressure • Pulmonary vascular resistance • Right atrial pressure • Right ventricular-arterial coupling • Right ventricular function: dP/dt, fractional area change, free wall strain, index of myocardial performance, lateral annular plane systolic excursion, size, and tricuspid annular plane systolic excursion (TAPSE) • Shunt ratio (Qp:Qs) • Systemic vascular resistance • Tricuspid regurgitant vena contracta • Tricuspid valve area (pressure half-time method) EchoLab is a teaching and reference application, not a tool for clinical diagnosis, clinical decision-making, or echocardiography report generation. more",
+  "reviews": [
+    {
+      "user": "echo-steve",
+      "date": "10/16/2011",
+      "title": "great app",
+      "review": "A specialized \"echo calculator\". Now I don't have to go hunting around for forumulae. Useful for practicing cardiologist, fellow, and sonographer."
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "Mac",
+    "Apple Watch",
+    "Apple Vision"
+  ],
+  "size": "46.3 MB",
+  "category": "Medical",
+  "ageRating": "17+\n                Infrequent/Mild Medical/Treatment Information\n                Unrestricted Web Access",
+  "languages": "English"
+}

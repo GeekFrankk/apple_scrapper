@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 // Directory where the JSON files are stored
-const jsonDir = './json&html_files';
-const masterFile = 'master_file.json';
+const jsonDir = './app_store_scraper/json&html_files';
+const masterFile = './app_store_scraper/master_file.json';
 
 // Initialize an empty array to store the merged content
 let masterData = [];

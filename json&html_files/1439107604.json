@@ -1,0 +1,41 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "DairyBar 4+",
+  "subtitle": "Track your stored breast milk",
+  "seller": "Jennifer Brandes",
+  "stars": "4.9",
+  "rating": "394 Ratings",
+  "price": "$1.99",
+  "appDescription": "Simple app for tracking breast milk storage. Easily inventory your pumped breastmilk in your fridge, freezer or deep freeze. No more guessing about what is currently in your stash! Features: -Track milk in up to 10 locations -Easily see total milk in each storage location -Calculates how long your milk will last based on your baby's consumption -Pumping calculator that allows you to adjust values to see when you can stop pumping -Get notified when milk is expiring -Track in mL or oz -Add caregivers who can view and edit your stash -Stores a backup of your milk stash remotely This app is built and maintained by one mama alone, so if you come across bugs or features you'd like to see, please email me directly through the app. I always love to help out! more",
+  "reviews": [
+    {
+      "user": "jhazellief",
+      "date": "04/02/2024",
+      "title": "Would only change 1 thing\n\n    Developer Response",
+      "review": "Update: the maker of this app is super helpful and on top of things! Not only did she inform me that you can change the “best by” date to “use by” but she also went in and did a bug fix when my app wasn’t showing the correct amount of total ounces/bags. GREAT app and GREAT creator! LOVE this app. Let me start by saying I LOVE the app. Not only does it help me keep track of my stash, but it is extremely satisfying to look at the stats and know how much I have and how much I have created overall! The ONE thing I would change is adding the option to choose from different expiration times. It’s stuck on freezer=3 months and deep freezer=6 months when really they would be good for much longer. Like 3-6months and 6-12 months! Other than that, I love it! So 4 stars :) more Hi there, the app does this! Just press the words “Best By” and it changes to “Use By” and all the expiration dates change! Thanks so much for your review and for using the app! If you ever need anything or have suggestions please reach out to me at support@dairybarapp.com. -Jennifer more"
+    },
+    {
+      "user": "bduqu3",
+      "date": "01/15/2024",
+      "title": "Love app but hate the recent update!\n\n    Developer Response",
+      "review": "***UPDATED REVIEW*** My original review below talked about a recent update taking away one of my favorite features, but they since did another update where this feature is returned! I love that they bought it back, honestly I had downloaded other apps hoping to love it but this app is just superior lol. SOOOO glad I’m able to 100% enjoy it again ***OLD REVIEW*** This app used to be a 5 star for me, but they recently updated to show a graph of the stash locations & took away the stats of each individual location. For instance, if i wanted to see the total amount stored in the fridge vs how much was used, I would have to manually calculate because this option was removed more Hi there! Thanks so much for the feedback. If you check the App Store today, you’ll notice that the latest version goes back to the previous display. I’m always open to hearing feedback from users and it sounded like most mamas preferred the other way. You can always reach out to me at support@dairybarapp.com with any questions/comments/concerns! -Jennifer more"
+    },
+    {
+      "user": "Sunshine201378",
+      "date": "06/13/2024",
+      "title": "Updated review - Menu bar problems\n\n    Developer Response",
+      "review": "Just downloaded the app to use to track my pumped milk, but when I try and go between the different screens like between milk and stats or pumping calculator the menu doesn’t disappear and you can’t click on anything within that section. You only can click on a different section within the menu but the menu stays up. Update: aside from the menu bar not working between sections I am loving the app being able to track my stored milk and how it tells me when I need to use it by. The developer responded with a way to fix the menu bar issue by going into settings and it’s seemed to help the issue. more I'm so sorry about this! I'm currently working on getting this fixed, but if you go to the Settings app on your iPhone and go to Accessibility > Motion > Turn off \"Reduce Motion\" everything should work again. Please reach out to me at support@dairybarapp.com if you have any trouble doing this! -Jennifer more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "38.4 MB",
+  "category": "Medical",
+  "ageRating": "4+",
+  "languages": "English"
+}

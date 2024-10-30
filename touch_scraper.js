@@ -8,17 +8,8 @@ const api = new CrawlingAPI({ token: crawlbaseToken });
 
 // Array of App Store URLs to be scraped
 const appStoreUrls = [
-  'https://apps.apple.com/us/app/klinio-health-weight-loss/id1511958049',
-  'https://apps.apple.com/us/app/curable/id1325784379',
-  'https://apps.apple.com/us/app/curable/id1325784379',
-  'https://apps.apple.com/us/app/talkspace-therapy-and-support/id661829386',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-];
+  'https://apps.apple.com/us/app/philips-coronary-ivus-tutor/id1102922767',
+  ];
 
 // Output folder for the JSON and HTML files
 const outputFolder = path.join(__dirname, './json&html_files');

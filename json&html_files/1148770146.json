@@ -1,0 +1,38 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Publix Pharmacy 4+",
+  "subtitle": "",
+  "seller": "Publix Super Markets, Inc.",
+  "stars": "4.8",
+  "rating": "71 Ratings",
+  "price": "Free",
+  "appDescription": "The Publix Pharmacy app makes it even easier to manage prescriptions. New time-saving features are just what the doctor ordered. *Quick refills *Easy account setup *Multiple prescriptions/patient management *Prescription status, order history & details *Prepaid pickup & curbside pickup, delivery, and drive-thru at select locations Scan to refill. Use your camera to scan the bottle. Request refills in a snap. Be our guest. Find a Publix Pharmacy, transfer prescriptions, and refill quickly without an account. Switch it up. Getting started with us is easy. Transfer all your existing prescriptions to a nearby Publix Pharmacy. One-time easy account setup. Just scan a recently filled Publix prescription bottle or enter the number from the label. We'll fill in your account details. Log in to access more features. When the doctor calls in your next prescription, it will automatically appear in your app. Just log in to your account to see important details, get helpful notifications, and set reminders. Just a tap away. Tap to view which prescriptions are ready for refill, in progress, or ready for pickup. Pay in advance. You’ll be notified when prescriptions are ready, then pick up and go. More choices. Receive medications from prepaid pickup & curbside pickup, delivery, or drive-thru at select locations. Care for the whole family. Add minors under 13 to your profile, and pets too. Members can also share profiles with others to allow access to prescription details and order history. The perks are endless. All patients’ prescription cards are neatly organized in one place. Your feedback matters to us. Please contact the Publix Customer Care team with questions, suggestions, or concerns. Phone: 1.800.242.1227 Monday – Friday: 8 a.m. – 7 p.m. (EST) Saturday: 9 a.m. – noon (EST) more",
+  "reviews": [
+    {
+      "user": "Ahmed_Malik11",
+      "date": "10/21/2024",
+      "title": "Super Convenient and Easy to Us",
+      "review": "helps me stay on top of my prescriptions without any hassle. I get timely notifications and can search or filter through all my meds easily. It’s quick, convenient, and very user-friendly."
+    },
+    {
+      "user": "Tyler Nettleton",
+      "date": "10/21/2024",
+      "title": "Great update",
+      "review": "Great update to the pharmacy app!"
+    },
+    {
+      "user": "Steve.geisel",
+      "date": "10/21/2024",
+      "title": "Does not work on iOS 18",
+      "review": "I wasn’t even able to use this app due to it crashing or locking up making it unable to be used."
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "Apple Vision"
+  ],
+  "size": "39.8 MB",
+  "category": "Medical",
+  "ageRating": "4+",
+  "languages": "English, Spanish"
+}

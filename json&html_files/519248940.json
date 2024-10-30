@@ -1,0 +1,39 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "TOXBASE 17+",
+  "subtitle": "",
+  "seller": "NHS Lothian",
+  "stars": "1.0",
+  "rating": "1 Rating",
+  "price": "Free",
+  "appDescription": "TOXBASE® is the clinical toxicology database of the UK National Poisons Information Service, providing advice on the features and management of poisoning. Monographs are designed to be used by healthcare professionals involved in the management of poisoned patients. There are two levels of access: 1. Free - for those who work within the NHS, UKHSA & MOD in the UK access is provided to the full NHS TOXBASE database. 2. Paid - for all others the annual subscription cost is £6.99 via in-app purchase. Access is provided to over 1000 of the top TOXBASE poisons, antidote and pregnancy monographs. Key application features Clinical staff are rapidly presented with key clinical information, including advice on potentially hazardous doses and appropriate management: * regular updates to ensure users always have the latest guidance * UK Teratology Information Service advice on the toxicity of drugs and chemicals in pregnancy * users can use built-in forms to provide feedback to NPIS on serious cases * no internet connection is required to search the database (although internet connection may be required to access all information on some entries) How the app works All users will download the app and then complete a short registration form. Users will then receive an activation email. Once the account is activated users can log in to the app using the username and password chosen during registration. NHS, UKHSA & MOD users must register using their NHS/UKHSA/MOD email to obtain free access to the full TOXBASE database. In order to continue free subscription re-validation via NHS/UKHSA/MOD email is required annually. Users are automatically sent an e-mail reminder. All other users may purchase an annual subscription (£6.99). Users are initially presented with a free sample version of the app designed to help them decide whether to subscribe via in-app purchase. Disclaimer The information on the TOXBASE App is designed for healthcare professionals and requires expert clinical interpretation. Users are strongly advised to always discuss cases with their local experts in poisons management and not solely rely on the App to make medical decisions. more",
+  "reviews": [
+    {
+      "user": "28848329848",
+      "date": "05/10/2024",
+      "title": "The best. Bar none.",
+      "review": "Easy to use, quick unambiguous answers are available. As of this month, it is no longer offered to clinicians like myself outside the UK. I had to entirely readapt my practice to accommodate losing this invaluable resource. LexiTox, POISINDEX, etc. are useless in comparison, and infinitely more expensive. -- In a crisis I want to know two things: 1. Is the patient about to deteriorate?; 2. What treatments should be rendered. TOXBASE answers in seconds, whereas there is sometimes over a hundred pages of information from other sources. Very sad to see it is no longer available. more"
+    },
+    {
+      "user": "Mmbeiruti",
+      "date": "10/26/2016",
+      "title": "TOXBASE",
+      "review": "Very good Medical app, works very well in iPhone. However in iPad it freezes on TOXBASE page, and didn't open beyond. It gives me big trouble after deleting it from iPad, but still found icon with open in updates and in the setting still present, and when I press it the side-by side page is white blank. Before deleting this bad app in iPad it freezes the iPad, which let me to reset my iPad but this icon in the update page still containing open, although I delete it from iPad. Will you please solve this terrible problem. Thank. Crashed in iOS 10, in the latest update on Oct 26, 2016 more"
+    },
+    {
+      "user": "Dr Derrick",
+      "date": "11/06/2015",
+      "title": "EM Toxicologist",
+      "review": "Huge repository of information. Unfortunately, ponderous to browse through and difficult to find quick answers on the fly. Content seems like it was drawn from a website and not optimally modified for a mobile platform. Would benefit from editing and restructured user interface. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch"
+  ],
+  "size": "430.4 MB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English"
+}

@@ -1,0 +1,29 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "ECHO On 4+",
+  "subtitle": "TEE: Echocardiography & QBank",
+  "seller": "Robert Arrigo",
+  "stars": "4.9",
+  "rating": "8 Ratings",
+  "price": "Free",
+  "appDescription": "ECHO On is a free medical education resource for learning Transesophageal Echocardiography including a free, enlarging question bank, a Rescue TEE cognitive aid, a Case Log system for submission to the NBE, and a growing perioperative Quick Reference library with offline echo loops that work even in the OR without internet access, and includes pathology examples, techniques, and normal loops of the heart. ECHO On will walk you through an entire standard 28 view exam teaching you the anatomy, function and Doppler interrogations you should perform at each view, and how to interpret them. ECHO On is and will remain free, and the best way you can contribute is to submit boards-style questions or echo stills and echo loops to help grow the QBank, Quick Reference and Pathology libraries. Disclaimer: This app was written to provide an accessible perioperative tool for residents and fellows learning TEE in the cardiac OR and ICU, and for generalist anesthesiologists looking to refresh their knowledge of TEE. It is not meant for patients to self-diagnose. It is not meant to be a definitive reference. Despite my best efforts, there may be errors or inaccuracies in this app, so please do not use it for medical decision making, as doing so may lead you misdiagnose or seriously harm your patient. If you are not a qualified medical doctor, please see a qualified medical doctor before making any medical decisions, including those based on echocardiograms. more",
+  "reviews": [
+    {
+      "user": "Mlovesono",
+      "date": "07/10/2024",
+      "title": "Request to add TTE information",
+      "review": "Hello, I noticed this app was very detailed but didn’t contain TTE views or information, it’s mainly informative on TTE. I’m currently a student trying to improve my knowledge and would greatly appreciate if you can add TTE views as well. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "433.7 MB",
+  "category": "Medical",
+  "ageRating": "4+",
+  "languages": "English"
+}

@@ -1,0 +1,39 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "PulsePoint Respond 12+",
+  "subtitle": "Building informed communities",
+  "seller": "PulsePoint Foundation",
+  "stars": "4.8",
+  "rating": "214.6K Ratings",
+  "price": "Free",
+  "appDescription": "175,000+ 5-star reviews, more than 3 million users, FirstNet Certified™ for use by 911. See for yourself why PulsePoint is the largest and most trusted public safety app. PulsePoint Respond is a 911-connected mobile app that can immediately inform you of emergencies occurring in your community and can request your help when cardiopulmonary resuscitation (CPR) is needed nearby. If you’re trained in CPR and are willing to assist in an emergency, the app will alert you if someone near you is having a cardiac emergency and may need CPR. In addition to nearby “CPR Needed” notifications, you can choose to be notified of other events that may impact you and your family, such as wildland fires, flooding and utility emergencies. You can also monitor live dispatch radio traffic for most PulsePoint-connected communities with a simple tap on the speaker icon. Watch this brief video to learn the basics of PulsePoint Respond https://vimeo.com/pulsepoint/Respond-iOS PulsePoint currently provides coverage for thousands of communities in North America, with many more on the way. For more information, visit pulsepoint.org, contact us at info@pulsepoint.org or join the conversation at Facebook and Twitter. PulsePoint Respond is an end-to-end FirstNet Certified™ application. FirstNet Certified solutions must demonstrate 99.99% availability and pass independent third-party security, data privacy and performance audits. PulsePoint is a 501(c)(3) public non-profit foundation building applications that help public safety agencies inform and engage their citizens. NOTE: Continued use of GPS running in the background can dramatically decrease battery life. Your actual experience is always visible in Settings | Battery | PulsePoint. more",
+  "reviews": [
+    {
+      "user": "Johnny Calhoun",
+      "date": "04/09/2019",
+      "title": "Some things that should be added.",
+      "review": "First off, I love the new look of the app. It is very clean. Some things that should be added are like the ability to change what kind of mapping app you use when you hit the Navigate button. Second of all, you should have the ability to have custom tones for different calls. Some that you put in the app and then somewhere where other people can make custom tones. Next, you should have accounts, so that people can save calls, and have alerts for specific stations and departments. You also should include like an on scene button for CPR alerts that will send a notification to dispatch saying that someone is on scene that knows how to do COR. That good with the account idea, and the next idea which is an area where you have to be CPR certified to get CPR notifications. Have a list of places that you can get certified, but only allow people with CPR certification to get notified. Finally, I just want to say how much I love this app, it has helped me out so much with stuff. Thank you for making this app. It's awesome. more"
+    },
+    {
+      "user": "Cbuke",
+      "date": "11/27/2019",
+      "title": "Great app, but could be better",
+      "review": "All of my coworkers use this app. About 1600 of them! It works great giving us a jump on emergencies. It’s almost perfect. Except....I don’t use it at night along with many others. There are way too many incidents throughout the night all over the city. I would be up all night if I leave on all of the notifications. It’s like listening to radio dispatch tone after tone and most of the time isn’t you. I would love to see settings for individual companies. For example, if you set your company as Engine 1, your phone would notify you if the incident involved E1. The phone could be set to ring, vibe and/or even turn on your phone light for a length of time. With today’s technology it shouldn’t be that difficult to accomplish. This would also be a great option during the day. Every report of a fire notification has fireman on edge for several seconds and we all pull our phones out to see the location. Most of the time it involves other stations and a majority of them end up being nothing. There is no reason to continuously alert members for a run they are not on for no reason, unless they choose too. Love the app and will continue to use it, but sorry PulsePoint, you are not user friendly when we need to get some sleep. Columbus, OH more"
+    },
+    {
+      "user": "revidescent",
+      "date": "10/21/2023",
+      "title": "Changed to require location\n\n    Developer Response",
+      "review": "Edit: The dev reached out and indeed you don’t need to allow location. The app does spam a couple pop-ups saying “Location Required - Pulse Point needs access to your location for this feature. Please update your app settings under the “Privacy” menu.” This is on the feed page which also says I’m not subscribed to any feeds, even though I am. You have to select the pull down menu towards the top-center to select the subscribed feeds. It is confusing and I don’t recall having to do this before. Anyway it works, but minus one star for the extra step and misleading message. Used this app almost daily but now I have to delete it. They went from letting you put in your chosen location and following the relevant agencies to demanding you always let them know your location. There’s no reason to make that setting mandatory to use the basic functions except for data gathering. I get that some people want notifications, but not everyone wants to hand over personal information to a faceless corp. It’s a shame they decided to do this. Hope they make a way to allow for more privacy in the future. more No such change or condition exists. Please reach out to support@pulsepoint.org and they’ll help you sort it out. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch"
+  ],
+  "size": "29.7 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English, French, Japanese, Spanish"
+}

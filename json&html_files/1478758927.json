@@ -1,0 +1,21 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "VentilO 17+",
+  "subtitle": "",
+  "seller": "L'Institut universitaire de cardiologie et de pneumologie de Québec (IUCPQ)",
+  "stars": "5.0",
+  "rating": "2 Ratings",
+  "price": "Free",
+  "appDescription": "The VentilO application is a mobile educational application that allows healthcare professionals in charge of patients with mechanical ventilation: (i) to learn how to set the initial ventilatory settings in volume-controlled ventilation mode based on several parameters, (ii) to reason about the influence of different parameters on ventilatory needs in adult patients, (iii) to learn about optimization of ventilator settings for oxygenation, lung protection and CO2 elimination (iv) to learn about the impact of dead space on ventilation efficiency. The initial settings for minute ventilation (tidal volume (VT) and respiratory rate (RR)) will be proposed. The VT will be determined according to the predicted body weight, the body temperature and the type of patient (medical or surgical). VT/RR combinations for different targets of VT (3 to 10 mL / kg PBW will be provided, settings from 6 to 8 mL/kg PBW will be preferred). Educational texts are proposed to help other settings (PEEP and FiO2) in the different care contexts. ‘’Optimizing settings’’ is covered in another separate tab. Will provide calculation of several parameters (alveolar ventilation, dead space…) based on the patient’s data, ventilator settings and arterial blood gases results. In addition interpretations will be provided for Oxygenation, Ventilation (CO2) and Lung protection. In another separate tab ‘’Tools&Calculators’’, several tools are provided: -Impact of the instrumental is explained in details. Minute ventilation and alveolar ventilation (minute ventilation - dead space ventilation) are calculated. The physiological dead space is calculated according to published formulas linked to the predicted body weight of the patients, the instrumental dead space (linked to the volumes of the endotracheal tubes, connections, heat and moisture exchangers) is calculated. The impact of reducing dead space on several parameters is calculated (gain in alveolar ventilation, gain in reduction in tidal volume (and associated reduction in plateau pressure),or respiratory rate with constant alveolar ventilation) - Different Calculators (P/F ratio from SpO2, PBW…) -Links to several additional tools (Quick Reference Respiratory Care Card; O2 demand calculator, Recruitment to Inflation Ratio…) In addition to the measurements of these different parameters, several educational texts are accessible in the application to understand what dead space is during mechanical ventilation, what is instrumental dead space, what is the impact of dead space in function of ventilation settings and possible gains. These calculations and descriptions concern ventilated adult patients, in the emergency room, intensive care units and in the operating room. The VentilO application was developed with the help of several mechanical ventilation experts. The mobile application is trilingual (English, French and Spanish), based on the users settings. more",
+  "reviews": [],
+  "compatibility": [
+    "iPhone",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "27 MB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English"
+}

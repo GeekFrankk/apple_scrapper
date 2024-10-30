@@ -1,0 +1,40 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Dose Chex 12+",
+  "subtitle": "",
+  "seller": "Lindum Medical Ltd",
+  "stars": "4.0",
+  "rating": "40 Ratings",
+  "price": "$1.99",
+  "appDescription": "Dose Chex is designed to simplify the calculations required when administering drugs and fluids. Rather than performing drug calculations manually, Dose Chex performs them for you. It is fast and reliable, and won’t be affected by working a long shift! You can create different medications as required and save them for future calculations. A number of safety features highlight potential sources of error, such as using the incorrect units.",
+  "reviews": [
+    {
+      "user": "Charpitts",
+      "date": "06/22/2023",
+      "title": "Please go back\n\n    Developer Response",
+      "review": "I’ve had this app for years and the old version was amazing!! As a paramedic I don’t always have enough time to go through what the new version is asking for. I’ve now had to search for another dosing app that does what this one use to do. Please go back!!! more We are working on a new version to allow the user to use the current interface or use it in a similar way to the previous version. Hopefully this will be available in the next week or so more"
+    },
+    {
+      "user": "❤️ tacos",
+      "date": "04/16/2023",
+      "title": "Old version better\n\n    Developer Response",
+      "review": "Old version was better. It was quicker to use as you put in the concentration and volume. Now it only gives pre done volumes and concentrations that may not be what you need more Hi, you should be able to create any dose/ concentration you need with much more flexibility than the previous version. Unfortunately in version 2.0 a bug is causing the app to crash when you try to add a new dose. This has been fixed and should be available to download shortly. Please accept our apologies for the inconvenience. more"
+    },
+    {
+      "user": "Tocbr8680",
+      "date": "05/19/2023",
+      "title": "Older version",
+      "review": "Please go back to the older version so I can input drugs myself"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "2.2 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

@@ -1,0 +1,38 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Blood Donor American Red Cross 4+",
+  "subtitle": "",
+  "seller": "American Red Cross",
+  "stars": "4.8",
+  "rating": "30.4K Ratings",
+  "price": "Free",
+  "appDescription": "The American Red Cross Blood Donor App puts the power to save lives in the palm of your hand. Donating blood, platelets and AB Plasma is now easier than ever. Features: · Find local blood drives and donation centers quickly and easily · Convenient, easy appointment scheduling and rescheduling · Complete your RapidPass® · Get notified when your blood is on its way to a patient · View the results of your mini-physical · Receive appointment reminders and special blood shortage alert messages · Keep track of total blood donations · Stay updated on special promotions · Earn badges for special donation milestones · Join or create a lifesaving team, recruit other blood donors and view rankings on the Blood Donor Teams Leaderboard · Stay updated on special promotions more",
+  "reviews": [
+    {
+      "user": "KristiLW",
+      "date": "07/14/2020",
+      "title": "First time donor",
+      "review": "The app is informative, helpful, and easy to use! Moreover, I was pleasantly surprised at how easy and painless it is to donate blood! The rapid pass also helps speed up the process. I wish I would have donated sooner knowing how much it helps so many people. However, I was turned away in my college years due to “small veins” and figured I wasn’t a candidate. I am so glad I went back! I am a nurse, and have worked in many areas. Having worked in Intensive Care, I have seen first hand how much blood is needed and used! This app keeps track of my donations and how often I can donate as well as other helpful tools like; preparing for donation, blood type, and Rapid Pass. I will definitely be doing my part by donating as often as able now that I’ve experienced how easy it is and how much it saves lives! (I’ve had blood draws more painful and timely than this experience!) So grateful I was asked to donate! I hope I can encourage more people to do their part and donate! Thanks for all you do, ARC! ❤️ more"
+    },
+    {
+      "user": "PlanetariumDude",
+      "date": "11/06/2019",
+      "title": "Useful for RapidPass only",
+      "review": "It’s great for saving time by being able to answer all the questions via RapidPass before going to donate. It could be useful for other things but so much about the app seems off or unnecessary. The digital donor card would be great for me to show a history of BP readings. Unfortunately, it shows only the last three readings, and if you have it show the full history, the only information shown is the type of donation, date, and location (full history of BP, pulse, and hemoglobin IS available on the website). Consistency of information would be good here. The Blood Journey is interesting but would be more so with a little more information and if it were more up to date (right now doesn’t have the info from my donation of over 3 months ago). And although I figured out that the Blood Journey is showing the donations in reverse chronological order, why isn’t the full date (showing the year) displayed? Most other informational features are unnecessary once you’ve donated once or twice, and the badges are lame. I’m a Power Red donor so only need to use this three times a year, so instead of bogging down my phone I use it on my iPad. Only got it for the benefit of seeing the Blood Journey, and have been waiting to see some improvements but have yet to be rewarded. I may just forgo the little information I do get about the Blood Journey (only available through the app) and just go back to using RapidPass on the website. more"
+    },
+    {
+      "user": "LambchopSPH",
+      "date": "09/18/2021",
+      "title": "Enhancement suggestion: add platelet count and yield",
+      "review": "Under Donation History, it currently displays blood pressure, hemoglobin, and pulse from the last donation. For people who donate platelets such as myself, I would suggest adding platelet count (the number that is supposed to be 150 or higher) and platelet yield (the percent that is supposed to be around 7 or higher). I have shown up at the donation site to donate platelets a few times, only to be told that my previous count or yield was low and was told that I needed to re-schedule at a later date. I was given those numbers at that time, but I could have avoided wasting the donation sites time (and mine) if I could have checked myself beforehand. Since the number is in the record, it must be in your database, so I am suggesting that it also be added to the display in the app. Thank you. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "Mac"
+  ],
+  "size": "48.8 MB",
+  "category": "Medical",
+  "ageRating": "4+",
+  "languages": "English"
+}

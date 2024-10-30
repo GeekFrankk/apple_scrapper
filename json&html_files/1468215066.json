@@ -3,10 +3,10 @@
   "title": "Skin-Check 12+",
   "subtitle": "Democratizing Early Detection",
   "seller": "Skin Check Inc.",
-  "stars": "4.6",
-  "rating": "295 Ratings",
+  "stars": "4.5",
+  "rating": "296 Ratings",
   "price": "Free",
-  "appDescription": "SkinCheck is a free triage tool to allow anyone to check their lesions for skin cancer*, track their lesions over time, and compare their lesions to an index of different cancerous and non-cancerous lesion types. * Skin lesion image analysis limited in the U.S. and select regions. According to the Skin Cancer Foundation, two people die every hour from skin-cancer in the U.S. alone. The hope for my app is to bring down this alarming statistic by letting users know if their moles are concerning and recommending them to seek treatment. Disclaimer: SkinCheck app does not provide medical advice, diagnosis or treatment. The assessments provided are heavily dependent on the quality of the image. If you have any concerns you should see a certified doctor. Our Terms Of Service are defined by Apple's Standard: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Our Privacy Policy can be found here: https://docs.google.com/document/d/1YG0xHpPRhJ1fnMtlE6lnj7EvIfC0B-ff/edit?usp=sharing&ouid=107249345779631537731&rtpof=true&sd=true more",
+  "appDescription": "SkinCheck is a free triage tool to allow anyone to check their lesions for skin cancer*, track their lesions over time, and compare their lesions to an index of different cancerous and non-cancerous lesion types. * Skin lesion image analysis limited in the U.S. and select regions. According to the Skin Cancer Foundation, two people die every hour from skin-cancer in the U.S. alone. The hope for my app is to bring down this alarming statistic by letting users know if their moles are concerning and recommending them to seek treatment. Disclaimer: SkinCheck app does not provide medical advice, diagnosis or treatment. The assessments provided are heavily dependent on the quality of the image. If you have any concerns you should see a certified doctor. Our Terms Of Service can be found here: https://docs.google.com/document/d/1pJB7MV0LMktx5eoXS-l-fv9MYE_frpc0/edit?usp=share_link&ouid=107249345779631537731&rtpof=true&sd=true Our Privacy Policy can be found here: https://docs.google.com/document/d/11wo5XLtMG3HOA-AEys8A-lYsQS20Fg_D/edit?usp=sharing&ouid=107249345779631537731&rtpof=true&sd=true more",
   "reviews": [
     {
       "user": "LavenderLover2468",
@@ -31,8 +31,8 @@
     "iPhone",
     "Apple Vision"
   ],
-  "size": "111.9 MB",
+  "size": "113.5 MB",
   "category": "Medical",
   "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
-  "languages": "French, German, Italian, Portuguese, Spanish"
+  "languages": "English, French, German, Italian, Portuguese, Spanish"
 }

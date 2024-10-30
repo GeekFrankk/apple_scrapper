@@ -1,0 +1,41 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Cleveland Clinic Today 12+",
+  "subtitle": "",
+  "seller": "The Cleveland Clinic Foundation",
+  "stars": "3.1",
+  "rating": "8 Ratings",
+  "price": "Free",
+  "appDescription": "The Cleveland Clinic app is the one-stop, flagship app to Access Anytime Anywhere world-class care and health information. Download the Cleveland Clinic app for quick access to the following features: • Request an Appointment • Find a Doctor • Locations & Directions • Contact Us with tap-to-call • Access your medical records through MyChart • Virtual Physician Visit (audio & video) through Express Care • Health Essentials expert articles • A-Z Health Conditions & Treatments You have the option to sign in and personalize the app with the type of Health Essentials that are delivered to you, as well as giving you the opportunity to save your favorites more",
+  "reviews": [
+    {
+      "user": "HEGreen",
+      "date": "05/24/2013",
+      "title": "Not that great",
+      "review": "Seems like nothing more than a bunch of health articles i can find online. The\"interactive body\" either doesn't work right, or i'm expecting it to be better than it is. For example, i want to be able to tap on a body part and have the app tell me what bone or muscle or organ i am tapping on. This is not what happens, i just get no response. Bummer. more"
+    },
+    {
+      "user": "stevej01a",
+      "date": "03/17/2018",
+      "title": "No Pharmacy Functions? And why...",
+      "review": "Why isn’t there an option to refill scripts with the pharmacy. It’s so convenient to to do this with an app like CVS has (CVS is just horrible to personally deal with). And why do the functions need to take me to another app? Everything should be within the same app. more"
+    },
+    {
+      "user": "Meamone",
+      "date": "07/04/2016",
+      "title": "Hasn't Worked Yet",
+      "review": "Just having signed up for what might turn out to become regular check ups and business with Cleveland Clinic network hospitals, I was glad to see an app to hopefully help make mobile access easier. I put in my information and got a server error. I tried again and got the same thing. I tried again later that day, same thing. I waited over the weekend, same thing. I deleted and redownloaded the app and tried again, same thing. I want to use and like this app but I can't get past the login screen. Update: Two weeks later still can't log on and still the same server error. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "7.3 MB",
+  "category": "Health & Fitness",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

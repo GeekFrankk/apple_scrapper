@@ -1,0 +1,22 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Valve PPM 12+",
+  "subtitle": "",
+  "seller": "KRUTSCH",
+  "stars": "5.0",
+  "rating": "1 Rating",
+  "price": "Free",
+  "appDescription": "Valve PPM is an innovative mobile tool developed to support echocardiography professionals in their effort of assessing the functionality of implanted prosthetic cardiac valves. The application provides guidelines for assessing an already implanted valve (Check Valve Function) and for choosing a valve before implantation (Optimal Valve Selector). The algorithms behind the App have been derived after an extensive research of the published materials on the aortic and mitral prosthetic valve assessment. - Check Valve Function After selecting a particular valve type, the patient characteristics (weight/height) and the prosthesis actual parameters (peak velocity, mean gradient, VTI prosthesis, VTI LVOT and LVOTd), Valve PPM will provide the user with an answer regarding the normal function of the valve, the potential patient prosthesis mismatch or the intrinsic prosthesis dysfunction. - Optimal Valve Selector The user will be required to select a valve position (aortic/mitral) and the patient characteristics (weight/height) and Valve PPM will instantly indicate the minimum Effective Orifice Area (EOA) in order to avoid Patient Prosthesis Mismatch (PPM). more",
+  "reviews": [],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "23.2 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

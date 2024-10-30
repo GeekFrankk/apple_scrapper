@@ -1,0 +1,33 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "AskPCOS 12+",
+  "subtitle": "Your personal advisor to PCOS",
+  "seller": "Monash University",
+  "stars": "",
+  "price": "Free",
+  "appDescription": "Introducing AskPCOS: Your ultimate PCOS companion. We understand that Polycystic Ovary Syndrome (PCOS) affects everyone in unique ways, and we are here to make your journey with PCOS more empowering and supportive. Our mission is to cater to the specific needs of those with PCOS, providing you with a reliable, all-inclusive resource designed with your well-being in mind. What you'll discover with AskPCOS: - Clear and understandable information: We've simplified the complex world of PCOS so you can easily grasp the essential details about your condition. - Healthy Lifestyle Guidance: Get tips and advice on maintaining a healthy lifestyle explicitly tailored to PCOS, empowering you to take control of your well-being. - Informative infographics: Visual aids that simplify complex concepts and make learning about PCOS more engaging. - Symptoms Tracker: Monitor your PCOS symptoms, empowering you to track changes and work with your healthcare team to manage them effectively. - Community connection: Join our discussion forum and connect with other women who share your journey. Share stories, exchange advice, and find support in a judgment-free environment. Prepared for your appointments: Use our question list to assist you in communicating effectively with healthcare professionals. Make the most of your doctor's visits with confidence. AskPCOS is your essential companion for navigating the world of PCOS. Every woman with PCOS deserves access to the best available information and support. Join our community today and take the first step towards a healthier, more empowered life with PCOS. Your well-being is our priority. What sets AskPCOS apart? - Trusted expertise: Created by leading PCOS experts from around the world, AskPCOS is your go-to source for accurate and up-to-date information on PCOS. Rest assured, our content is based on the best available evidence. - Co-designed with You: We have collaborated closely with those who live with PCOS to ensure that our app truly addresses your concerns and needs. Your input matters, and we are here to support you every step of the way. - Comprehensive support: Whether you are just beginning to suspect you might have PCOS or have already received a diagnosis, AskPCOS is your comprehensive resource. You'll find answers to your PCOS questions no matter where you are on your journey. more",
+  "reviews": [
+    {
+      "user": "scaper5of5",
+      "date": "08/03/2020",
+      "title": "Can Not Register User error message\n\n    Developer Response",
+      "review": "This app looks like it would be very helpful and was recommended to me by my health provider. However, the app itself seems to be buggy — I’ve downloaded it and tried several times to register as a user but keep getting the error message “Can Not Register User.” I have tried sending an email to the address listed on Monash’s Ask PCOS webpage but have received no response. The resources on the webpage are helpful and make me want to see what more the app can offer, but the inability to access the app itself is disappointing. more We are really sorry to hear you had issues. We have just released a new version of the app with updated evidence based information and the option to create a personal dashboard. more"
+    },
+    {
+      "user": "lavett k",
+      "date": "10/28/2020",
+      "title": "Unable to access\n\n    Developer Response",
+      "review": "At one point I was able to access the app and it had a large amount of very helpful and informative information. For the past month, I haven’t been able to access due to a message stating unable to login and invalid email or password. When I delete the app, re-down and re-register I get a “ you have successfully created an account continues to login. I go to login and get caught I. The same loop. Invalid email or password. It’s too bad. The app has great potential but I’m moving on. more Very sorry to hear you had issues. We have created a new version of the app and the evidence based information is available without having to create an account. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Apple Vision"
+  ],
+  "size": "4.2 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

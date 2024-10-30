@@ -1,0 +1,39 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "MyClevelandClinic® 12+",
+  "subtitle": "Manage your healthcare needs",
+  "seller": "The Cleveland Clinic Foundation",
+  "stars": "3.5",
+  "rating": "183 Ratings",
+  "price": "Free",
+  "appDescription": "This new patient mobile application makes it easy to get the care you need, every step (and click) of the way. It’s easy to manage your healthcare and that of your loved ones. All of the same features you currently access in the MyChart app are included. Some key features in the app allow you to: • Access to general information • Access visitor information • View health records • View test results • Integration with the Health app lets you share health data with your provider • Schedule appointments • Message your doctor’s office • See a provider live for non-emergency concerns To access all the features, you must first create an account. more",
+  "reviews": [
+    {
+      "user": "J.L.Johnson",
+      "date": "01/28/2021",
+      "title": "Functional",
+      "review": "For mobile purposes you can accomplish test reviews scheduling also messages everyday functions work well for my ipad, like it.I would recommend it!"
+    },
+    {
+      "user": "Maddy moo duckey poo",
+      "date": "02/02/2022",
+      "title": "Information really needed is not there",
+      "review": "I need my operative note for GI surgeon that used to work and operate at The Cleveland Clinic. He has since moved on. I need my operative report in order to schedule another surgery and it is not recorded on myMy Chart. I have to do it the old fashioned way. Make a pile of phone calls and since my Fax machine isn’t working at the moment have to find a nearest Fax machine. It would be trillions easier if I or any physician who needed the report had access to it. I’m sure there are a lot of other reports like x-rays and results of other tests like CT scans and MRI’s were available. The problem is, either the Patients moves on or the Doctor moves on and it would be greatly helpful. Thank You, Darlene Radke. PS I hope you continue to be innovative and start including more than blood work and appointments in MY CHART. Blood work may be interesting for the patient to look at and maybe ask questions but things like Surgical Notes, CT scans, and MRI’s may make a big difference in future care. Also, for me to just request the OP note is help;ful to the doctor, but what if he decides something else might be helpful and if he had old records he might not have to repeat them. more"
+    },
+    {
+      "user": "Memawds",
+      "date": "05/22/2023",
+      "title": "App needs updating",
+      "review": "The app functions well for accessing MyChart but you can not connect to the express care functions without calling a special number then setting up an account etc. It took me several hours and several logins and disconnects to finally get to talk to a doctor. Please update this function and make it possible for sick people to get the help they need more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch"
+  ],
+  "size": "172 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

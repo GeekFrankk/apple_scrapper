@@ -1,0 +1,29 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "PCI App 12+",
+  "subtitle": "PCI: opening coronary arteries",
+  "seller": "KRUTSCH",
+  "stars": "5.0",
+  "rating": "5 Ratings",
+  "price": "Free",
+  "appDescription": "An algorithmic, step-by-step approach to percutaneous coronary interventions. Browse parts, chapters, and chapter sections. Watch cases and listen to podcasts.",
+  "reviews": [
+    {
+      "user": "Toosixx",
+      "date": "06/22/2022",
+      "title": "Excellent resource",
+      "review": "This app is an excellent initiative towards helping interventional cardiologist in decision making during procedures. I have briefly reviewed some topics; and found it very helpful. But the initiative and concept itself for such apps is commendable more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "23.4 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

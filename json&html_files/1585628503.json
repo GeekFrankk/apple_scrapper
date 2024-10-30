@@ -1,0 +1,41 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Delta Dental Mobile App 12+",
+  "subtitle": "",
+  "seller": "Delta Dental Plans Association",
+  "stars": "1.4",
+  "rating": "1.2K Ratings",
+  "price": "Free",
+  "appDescription": "Your oral health is important to Delta Dental — and to your overall health! We’ve designed our mobile app to make it easy for you to make the most of your dental benefits. Maximize your health, wherever you are! Search for a dentist near you, view ID cards and more, right on your mobile device. Delta Dental Mobile App features - Mobile ID card: No need for a paper card. View and share your ID card from your phone, and easily save it to your device for quick access, including Apple Passbook and Google Wallet. - Find a dentist: It’s easy to find a dentist near you. Search and compare dental offices to find one that suits your needs. Save your family’s preferred dentists to your account for easy access. - Dental Care Cost Estimator: Find out what to expect with our Dental Care Cost Estimator. Our easy to use tool provides estimated cost ranges on common dental care needs for dentists in your area, now with the option to select your dentist for tailored cost estimates. more",
+  "reviews": [
+    {
+      "user": "hunga mack a chew",
+      "date": "01/09/2022",
+      "title": "Terrible App No Benefit info at all",
+      "review": "So what’s the point of this app anyway???? In previous years I was able to see benefits, coverage, if my spouse was still covered, track claims, etc. Got a claim letter in the mail that doesn’t look right so I go to my trusty Delta app and I’m told the app has been retired and I need to download the new version. Done! Open it and there is NO benefits info, no info about dependents and no info on my current claim!!! I try looking in the “more” section and an alert comes up that the info I am looking for “will be available in 2022…..um it’s January 2022 right now so why is this not available???? DO NOT waste your time even Spaniard if this app it is useless and now you will NOT have access to your delta info. Unacceptable! How are you supposed to manage your insurance this way. Additionally trying to post this review and every “nickname” I choose supposedly has been taken!! more"
+    },
+    {
+      "user": "ActionScripted",
+      "date": "09/26/2024",
+      "title": "The app works well and has the same info as the website",
+      "review": "I was walking the dog after a dental procedure and wanted to check in on my Delta dental benefits. I tried loading the website, but the member portal is so bloated and Janky. It just wouldn’t open on my phone on 5G so I figured I’d give the app a shot because I figured it was a lot of client library loading that was causing problems. After downloading the app and logging in it worked perfectly. I could see my benefits and authenticate and even offered to set up Face ID. So the app worked very well and had all the info I was hoping to get. I would give the member portal zero stars, however. I don’t know what needs to be done, but the page load is monstrous and needs to be optimized. Also, during authentication, I got to see the actual name of the auth provider something something – prod. That felt a little janky and didn’t feel like something the user should see but I’m glad it wasn’t – dev or – stage 😓 more"
+    },
+    {
+      "user": "Heather728186",
+      "date": "01/03/2024",
+      "title": "TERRIBLE!!!\n\n    Developer Response",
+      "review": "When I login it says unable to retrieve account details and directs me to contact their customer service. Their customer service states they do not provide technical support for the Mobile App. Then what is the point of saying to contact customer service?!? I cannot access my insurance information to give to providers using the web browser on my phone. I don’t typically take my laptop with me to the dentist, but guess I’ll have to so I can access my insurance information that i pay for. I don’t think I will continue to use this insurance provider in the future as it’s a pain to access your information and they do not provide physical cards. Absolutely ridiculous!!! A poor excuse for an app and a company. more Hi! So sorry to hear about this issue, if you could please fill out our Contact Us form with the details, our team can take a closer look into this at deltadental.com/contact - MB more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac",
+    "Apple Vision"
+  ],
+  "size": "33.4 MB",
+  "category": "Medical",
+  "ageRating": "12+\n                Infrequent/Mild Medical/Treatment Information",
+  "languages": "English"
+}

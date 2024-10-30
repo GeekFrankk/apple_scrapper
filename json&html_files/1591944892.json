@@ -1,0 +1,34 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Mechanical Ventilation Expert 17+",
+  "subtitle": "Respiratory Support Advice",
+  "seller": "Valeriy Streltsov",
+  "stars": "2.5",
+  "rating": "4 Ratings",
+  "price": "Free",
+  "appDescription": "Recommendations on Mechanical Ventilation parameters. Non-invasive estimation of PaO2/FiO2, severity of Acute Respiratory Failure (SOFA score). Caution! This app is intended for intensive care physicians. If you are NOT a physician and would like to use it anyway, please consult your physician before using this app or making any medical decisions. This app has endorsement for usage in the Russian Federation. Many doctors deal with the treatment of patients with varying degrees of acute respiratory failure (ARF). But the choice of the optimal method and, especially, the timely correction of the parameters of invasive and non-invasive mechanical lung ventilation often cause difficulties, especially for young doctors. Unfortunately, expensive ventilation machines, without their skillful use, are not a guarantee of an improvement in the mortality rate in ARF. This has been especially evident during the COVID-19 pandemic. In international clinical practice, it is customary to determine the degree of ARF by the oxygenation index (the ratio of the partial pressure of oxygen in arterial blood (PaO2) to the fraction of inspired oxygen (FiO2)). This indicator is also included in most \"severity of illness\" scoring systems (SOFA, APACHE II-III, etc.). However PaO2 estimation is only possible after collecting the arterial blood for laboratory monitoring of blood gases, making it costly and invasive. In 2020-2021 a multicenter research was carried out at five clinical hospitals in Volgograd, Russia, which included 1038 patients with acute lung injury and acute respiratory distress syndrome against the background of viral (COVID-19) and bacterial pneumonia. The goals of the research were firstly, to develop a non-invasive method for determining the oxygenation index (PaO2 / FiO2) based on oxygen saturation (SpO2), and secondly, to define general criteria for correcting the parameters of invasive and non-invasive mechanical ventilation. This application is based on the results of the research. The relationship between SpO2 and PaO2 index values was determined for various FiO2 and types of respiratory support. The app also implements the general principle of oxygen therapy - from less to more invasive. The app allows the user not only to choose the most effective method of respiratory support, but also timely learn about the need for its correction. Every clinician knows that the mortality rate in patients with ARF is greatly influenced by the validity of the beginning and end of Invasive Mechanical Ventilation treatment - and this app solves this problem. The educational effect of this app should also be noted. It will help doctors to quickly master and more competently use expensive ventilation machines, which, of course, will have a beneficial effect on the results of treatment of patients with ARF. The following sources were used to create the app: 1. Brown SM, Grissom CK, Moss M, Rice TW, Schoenfeld D, Hou PC, Thompson BT, Brower RG; NIH/NHLBI PETAL Network Collaborators. Nonlinear Imputation of Pao2/Fio2 From Spo2/Fio2 Among Patients With Acute Respiratory Distress Syndrome. Chest. 2016 Aug;150(2):307-13. doi: 10.1016/j.chest.2016.01.003. Epub 2016 Jan 19. PMID: 26836924; PMCID: PMC4980543. 2. Bilan N, Dastranji A, Ghalehgolab Behbahani A. Comparison of the spo2/fio2 ratio and the pao2/fio2 ratio in patients with acute lung injury or acute respiratory distress syndrome. J Cardiovasc Thorac Res. 2015;7(1):28-31. doi: 10.15171/jcvtr.2014.06. Epub 2015 Mar 29. PMID: 25859313; PMCID: PMC4378672. 3. Yoshida T, Takegawa R, Ogura H. [Ventilatory strategy for ARDS]. Nihon Rinsho. 2016 Feb;74(2):279-84. Japanese. PMID: 26915253. 4. Fan E, Brodie D, Slutsky AS. Acute Respiratory Distress Syndrome: Advances in Diagnosis and Treatment. JAMA. 2018 Feb 20;319(7):698-710. doi: 10.1001/jama.2017.21907. PMID: 29466596. 5. Петров, В. И. Эволюция клинико-фармакологических и терапевтических принципов лечения инфекции COVID-19 / Петров В. И. [и др. ]. - Москва : ГЭОТАР-Медиа, 2021. - 312 с. - DOI: 10.33029/9704-6386-4-ECPC-2021-1-312. - ISBN 978-5-9704-6386-4. more",
+  "reviews": [
+    {
+      "user": "Ventilator74",
+      "date": "08/12/2022",
+      "title": "I’d like to have some weaning parameters",
+      "review": "I would like to have some way to determine weaning status. Where we can put in parameters like NIF, Vital capacity, P0.1, etc, and get an idea of where to go with extubation or no extubation."
+    },
+    {
+      "user": "Nustyl4u",
+      "date": "07/14/2023",
+      "title": "Not very useful for students",
+      "review": "Needs to have more variables"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Mac"
+  ],
+  "size": "708.6 KB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English, Russian"
+}

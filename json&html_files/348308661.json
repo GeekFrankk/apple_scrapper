@@ -1,0 +1,38 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Epic Haiku & Limerick 17+",
+  "subtitle": "",
+  "seller": "Epic",
+  "stars": "2.5",
+  "rating": "737 Ratings",
+  "price": "Free",
+  "appDescription": "Haiku provides authorized clinical users of Epic’s Electronic Health Record with secure access to clinic schedules, hospital patient lists, health summaries, test results and notes. Haiku also supports dictation and In Basket access. Your organization needs to license Haiku and will determine the exact feature set and any applicable charges for your use of Haiku. If you are unsure whether you can use Haiku, please contact your administrative staff.",
+  "reviews": [
+    {
+      "user": "moreteb",
+      "date": "03/16/2021",
+      "title": "Unable to use for more than one hospital and no vital signs",
+      "review": "The app should allow you to toggle between multiple - (at least two) hospitals organizations so that you have access to patient care while you’re on the move. Realistically many physicians care for pts at more than one place and access makes it easier for us to provide pt care. Also, the app does not provide anything more than stagnant vitals (like a single not even complete set obtained during some point of the hospitalization). A tab for vitals (that can be customized [because maybe all I care about are MAPs, etc]) similar to the tab for lab results would go a long way in making this app much more functional for those of us tracking pts over the course of the day and making pt care decisions. The alert/notify me function is very helpful. more"
+    },
+    {
+      "user": "Chester-Mester",
+      "date": "01/18/2024",
+      "title": "Smart links are a must have for Haiku\n\n    Developer Response",
+      "review": "Haiku is the platform I use the most to interact with my institution’s EMR especially on the inpatient side. My rounding starts with it, and most of my work is done from Haiku, reviewing recent vitals, labs, putting orders, adjusting meds, etc.. I also start my notes using the in-app dictation feature right after I see a patient and even do my billing from Haiku but unfortunately I cannot finish my notes in Haiku because of the lack of smart links that are routinely used in notes (meds, vitals, labs, I/O) to be able to properly bill. Without smart links in Haiku one have to go to the desktop at the end of the day to finish notes. To improve rounding efficiency smart links have to be added to haiku note writing. ALL providers use their phone haiku apps to round, I have rarely seen any use canto on iPad and thus more improvements and development should be done on Haiku. Update: still one year later smart links for writing notes are not available on Haiku. The goal is to be able for some providers to be able t do all their inpatient rounding work in Haiku from start to finish. Also would help to hav the ability to build notes in Haiku that can be copied forward and easily edited where necessary and the smart links are automatically updated. Jan 2024: any updates on this?! more Thank you for the feedback! Bringing SmartTools to Notes in Haiku is on our future development roadmap. more"
+    },
+    {
+      "user": "toxic megacolon",
+      "date": "08/04/2023",
+      "title": "How to improve app",
+      "review": "1.) i need vitals. Best all encompassing way is to have the critical care report page on desktop version that is at the hospitals. Critical care has all the best vitals info including I/o’s, drips, sedation, vent settings, vitals, etc. 2.) MAR. I need to see when last dose of lasix or albumin given and how UO responded and o2 responded etc. 3.) the purpose of this phone app is to have quick access to important info on the go. Sure could be used in a hallway at work but there’s computers there. I need this app for when I’m home on call. I need to be able to check on my pts at dinner, at the store, right before bed. To check on vitals, drips, I/o I have to call the hospital nurses for updates or they call me. This takes me away from my life outside from work. 4.) when placing orders on phone there’s less ways to modulate timing and frequency vs the computer app. This is a drawback. more"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "Apple Watch"
+  ],
+  "size": "420.1 MB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English, Danish, Dutch, Finnish, French, German, Mongolian, Norwegian Bokmål, Spanish"
+}

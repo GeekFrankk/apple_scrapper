@@ -1,0 +1,40 @@
+{
+  "imageUrl": "/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+  "title": "Philips Coronary IVUS Tutor 17+",
+  "subtitle": "",
+  "seller": "Philips Electronics North America Corporation",
+  "stars": "4.1",
+  "rating": "7 Ratings",
+  "price": "Free",
+  "appDescription": "An interactive program designed for cardiovascular health care professionals who want to learn the basics of coronary intravascular ultrasound. Welcome to Coronary IVUS Tutor app, an interactive program designed for cardiovascular health care professionals who want to learn the basics of coronary intravascular ultrasound. Foundational basics of coronary intravascular ultrasound • Simulate IVUS pullbacks and measurements using the interactive workflow • View the image interpretation guide and learn how to quickly identify common vessel morphologies • Test yourself with the knowledge check quiz This application is the copyrighted property of Philips. It has been approved by Philips for the use of healthcare professionals. Please contact Philips if you wish to use this application for any other purpose. more",
+  "reviews": [
+    {
+      "user": "Helena❤️.",
+      "date": "10/18/2021",
+      "title": "Great App",
+      "review": "This was a great tutorial for IVUS in coronary arteries. Wish there were more examples or comparisons to imaging with MRA or CTA. Also, the answer to question 7 is incorrect (per the interpretation slides). It states that blood behind the struts is indicative of sufficient expansion when the slide with ChromaFlo clearly stated that it’s malapposition. Thanks for sharing these. more"
+    },
+    {
+      "user": "Dreesi",
+      "date": "05/04/2021",
+      "title": "Works great",
+      "review": "I realized you have to let it download all of the assets but then everything looks great."
+    },
+    {
+      "user": "SaraH8367",
+      "date": "01/10/2023",
+      "title": "Sound?",
+      "review": "No sound is playing on the videos. Is there supposed to be sound?"
+    }
+  ],
+  "compatibility": [
+    "iPhone",
+    "iPad",
+    "iPod touch",
+    "Apple Vision"
+  ],
+  "size": "22 MB",
+  "category": "Medical",
+  "ageRating": "17+\n                Frequent/Intense Medical/Treatment Information",
+  "languages": "English"
+}
