@@ -1,0 +1,63 @@
+{
+    "title": "NCCN Patient Guides for Cancer",
+    "description": "NCCN Guidelines for Patients\u00ae are easy-to-understand resources based on the same clinical practice guidelines used by health care professionals around the world to determine the best way to treat people with cancer. \r\n\r\nNCCN Guidelines for Patients list options for cancer treatment that are most likely to have the best results. They feature questions to ask your doctor, patient-friendly illustrations, and large glossaries of terms used in cancer care. \r\n\r\nThey are designed to help people with cancer and those who support them talk to health care team members about treatment options. NCCN Guidelines for Patients do not replace the expertise and clinical judgment of the physician.\r\n\r\nView the full library of NCCN Guidelines for Patients online: NCCN.org/patientguidelines.",
+    "descriptionHTML": "NCCN Guidelines for Patients\u00ae are easy-to-understand resources based on the same clinical practice guidelines used by health care professionals around the world to determine the best way to treat people with cancer. <br><br>NCCN Guidelines for Patients list options for cancer treatment that are most likely to have the best results. They feature questions to ask your doctor, patient-friendly illustrations, and large glossaries of terms used in cancer care. <br><br>They are designed to help people with cancer and those who support them talk to health care team members about treatment options. NCCN Guidelines for Patients do not replace the expertise and clinical judgment of the physician.<br><br>View the full library of NCCN Guidelines for Patients online: NCCN.org/patientguidelines.",
+    "summary": "Easy-to-read cancer resource to help patients choose what care is best.",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "realInstalls": 11290,
+    "score": 4.571429,
+    "ratings": 24,
+    "reviews": 1,
+    "histogram": [
+        0,
+        0,
+        3,
+        3,
+        17
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "National Comprehensive Cancer Network (NCCN)",
+    "developerId": "National+Comprehensive+Cancer+Network+(NCCN)",
+    "developerEmail": "usersupport@nccn.org",
+    "developerWebsite": "http://www.nccn.org",
+    "developerAddress": "3025 Chemical Road, Suite 100\nPlymouth Meeting, PA 19462",
+    "privacyPolicy": "https://www.nccn.org/about/privacy.aspx",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/n60KMriMEtySbUCkPSugqDkqzk-6NXBL59a7ESe2FTUACL5amXHaCiJUlyYjDVG_RIQ",
+    "headerImage": "https://play-lh.googleusercontent.com/PZr-lmeIsAprhfl-D_VBQbMguDj65A-a35HSdOGDJ98XQQ-yl9W7P_4Bl8Br0MoTw1h8",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/4YA8Q_NrhB_6xPmBdHUPfvuRj7d3UZOw4-cVYnXLOBd4ZKXPlFGR35WdE-x3v4mt06mn",
+        "https://play-lh.googleusercontent.com/YxK-MqJy4Mf4-mWHbs6PMev6ipvuOwzSUJELgSRbmFkmYnCkuyBW35-DbsvdBHAwl0vZ",
+        "https://play-lh.googleusercontent.com/SScNq6Y3RABVcY35GeeMP3gaSo8iU9XK6r5wHL2iNKpL_6hq3MVqHkn-n--jxtPq15cC",
+        "https://play-lh.googleusercontent.com/mMVjMOVA0A1KXTXj0MaNdCnhXNJyPV0-DQ5kNx50XNPjjSN5NMYVoSYECzGgJs0flcun"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Oct 25, 2016",
+    "lastUpdatedOn": "Aug 5, 2024",
+    "updated": 1722866919,
+    "version": "4.2.3",
+    "comments": [],
+    "appId": "com.mediaparts.nccn",
+    "url": "https://play.google.com/store/apps/details?id=com.mediaparts.nccn&hl=en&gl=us"
+}

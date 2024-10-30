@@ -1,0 +1,106 @@
+{
+    "title": "Subway Surfers",
+    "description": "DASH as fast as you can! \r\nDODGE the oncoming trains! \r\n\r\nHelp Jake, Tricky & Fresh escape from the grumpy Inspector and his dog. \r\n\r\n\u2605 Grind trains with your cool crew! \r\n\u2605 Colorful and vivid HD graphics! \r\n\u2605 Hoverboard Surfing! \r\n\u2605 Paint powered jetpack! \r\n\u2605 Lightning fast swipe acrobatics! \r\n\u2605 Challenge and help your friends! \r\n\r\nJoin the most daring chase! \r\n\r\nA Universal App with HD optimized graphics.\r\n\r\nOriginally co-developed by SYBO and Kiloo.",
+    "descriptionHTML": "DASH as fast as you can! <br>DODGE the oncoming trains! <br><br>Help Jake, Tricky &amp; Fresh escape from the grumpy Inspector and his dog. <br><br>\u2605 Grind trains with your cool crew! <br>\u2605 Colorful and vivid HD graphics! <br>\u2605 Hoverboard Surfing! <br>\u2605 Paint powered jetpack! <br>\u2605 Lightning fast swipe acrobatics! <br>\u2605 Challenge and help your friends! <br><br>Join the most daring chase! <br><br>A Universal App with HD optimized graphics.<br><br>Originally co-developed by SYBO and Kiloo.",
+    "summary": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!",
+    "installs": "1,000,000,000+",
+    "minInstalls": 1000000000,
+    "realInstalls": 2489574736,
+    "score": 4.592038,
+    "ratings": 41595763,
+    "reviews": 1786948,
+    "histogram": [
+        2083429,
+        591498,
+        1321941,
+        4217358,
+        33381519
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": true,
+    "inAppProductPrice": "$0.99 - $99.99 per item",
+    "developer": "SYBO Games",
+    "developerId": "7363891306616760846",
+    "developerEmail": "help_subwaysurf@sybogames.com",
+    "developerWebsite": "https://sybogames.com/",
+    "developerAddress": "Holmens Kanal 7, 3.\n1060 Copenhagen K\nDenmark",
+    "privacyPolicy": "https://sybogames.com/privacy-policy/",
+    "genre": "Arcade",
+    "genreId": "GAME_ARCADE",
+    "categories": [
+        {
+            "name": "Action",
+            "id": "GAME_ACTION"
+        },
+        {
+            "name": "Platformer",
+            "id": null
+        },
+        {
+            "name": "Runner",
+            "id": null
+        },
+        {
+            "name": "Arcade",
+            "id": "GAME_ARCADE"
+        },
+        {
+            "name": "Single player",
+            "id": null
+        },
+        {
+            "name": "Stylized",
+            "id": null
+        },
+        {
+            "name": "Experiences",
+            "id": null
+        },
+        {
+            "name": "Funny",
+            "id": null
+        },
+        {
+            "name": "Offline",
+            "id": null
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/yB6RIBL4IBoqIuEmpCNEACIuRXR8SUaEy-4LfRv6uh8G4I2-j6dr9QO0U2OldwUhW3Y",
+    "headerImage": "https://play-lh.googleusercontent.com/Ba0RNjlI3nxaXImxeEzzZLvXDWb-DoODxW4xbdU9bPOef5DnnH0RpRn-42jTLPtP8Tw",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/XqCzeaHCWOZjBZr0FnPL_bMGAeZ_t3vUkRQdKU07aZIzCouwfljAmPYtn-tslXBCYEE",
+        "https://play-lh.googleusercontent.com/gluma-XBeGFXz_AhaR6q2mfpkPw8BaQ7J88TY4C4ASxCpndOoGB4t46DOFhiDaYnyA",
+        "https://play-lh.googleusercontent.com/fHn4c3_FdxzXfJ1DxHqOv3jIrtqpgNgtONJLonT8Xojic9Y7vKaelH3jT9y2-2jbWw",
+        "https://play-lh.googleusercontent.com/uCQubiOvlbl8vuGgeqjlF4CqLlslt5a7rsLZo7wYvOcviDEHqV7q8ysbGNtZNqOlXbY",
+        "https://play-lh.googleusercontent.com/GJ8GIMAQGnNDX_pcADepsKXZG67NuEb8IAdZiEHRfAh4E0zPZsyli7TCnIAAr3VS43pv",
+        "https://play-lh.googleusercontent.com/ynu8Ce4Pd9eVrbGcK56zLTYKzI0fVrABN0hadJZXUQky-DQk9x3a73ARk_Ac1L_I4AI",
+        "https://play-lh.googleusercontent.com/b7b2cYt4AuAgvm3773BoKyNgsVICAQMIkcMVskHOv-GZN-dR_KhL7m3hH_8Kay7Xz1g",
+        "https://play-lh.googleusercontent.com/RVDTggyoo7Rqa233u74wNKzxmvmuWd8TWsfqLYTcfvfFUAPOFNQYxADUxpHJmP4ateM",
+        "https://play-lh.googleusercontent.com/PObvwONZgpyDOh_exrC5_qKbOVGJGRNfroGlFcH9jJzG8NQkSoricUlG7NhGDzDTeXI",
+        "https://play-lh.googleusercontent.com/zIr2WpJ0THpGIhARCT0vB-daPSVP8RBV-xXmuNDzOyuLnvyKANRypTWfRQcb3uWqMSM",
+        "https://play-lh.googleusercontent.com/T-2c4Ok3NvNUrUDuwXAakR_jElp36PXLobHgElRqTxEkh-v3xgu2ZgCHsbnvBF92zzk",
+        "https://play-lh.googleusercontent.com/OgGurpxkJKRhDeFnrhSjWsyUbCY3IT3MnDurbA_pJYObjf-e25GpWGpPyb12Ri0aSA",
+        "https://play-lh.googleusercontent.com/eB-jVscU-XB0hWW-9AE9osq5pbjGj5qxUBxqDQvIx9PnefxgwaJfm1So53jN9zS1hw4",
+        "https://play-lh.googleusercontent.com/YogQo6GJW4m_BsaE8SdC27UW3k2PpqHFF0exPpwHtGupQSxmB1GgrW8cads5ZWmgxpXg",
+        "https://play-lh.googleusercontent.com/wmgF5iweTcx9BGcC6mk7lPfQqMFWdhmqIpPwtgTnEGvbBSEBWWBN6_o09XEM070Ye2s"
+    ],
+    "video": "https://www.youtube.com/embed/1j7OtnRGLIc?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/Ba0RNjlI3nxaXImxeEzzZLvXDWb-DoODxW4xbdU9bPOef5DnnH0RpRn-42jTLPtP8Tw",
+    "contentRating": "Everyone 10+",
+    "contentRatingDescription": "Fantasy Violence",
+    "adSupported": true,
+    "containsAds": true,
+    "released": "Sep 20, 2012",
+    "lastUpdatedOn": "Oct 16, 2024",
+    "updated": 1729062926,
+    "version": "3.36.2",
+    "comments": [],
+    "appId": "com.kiloo.subwaysurf",
+    "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=us"
+}
