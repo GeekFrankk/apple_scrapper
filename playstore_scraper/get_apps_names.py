@@ -46,7 +46,8 @@ if os.path.exists(json_file_path):
 
 # Retrieve apps over multiple runs
 all_apps = existing_apps.copy()  # Start with existing apps
-queries = ['medical', 'medicine', 'doctor', 'hospital']  # Multiple related queries
+  # Multiple related queries
+queries = ['medical', 'medicine', 'doctor', 'hospital', 'diagnosis', 'health', 'cancer', 'diabetes', 'treatment', 'disease']
 
 for query in queries:
     print(f"Searching for apps with query: {query}")
