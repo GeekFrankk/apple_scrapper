@@ -1,0 +1,62 @@
+{
+    "title": "SIR Guidelines",
+    "description": "The Society of Interventional Radiology (SIR) Guidelines app is the go-to source for SIR\u2019s published guidelines and statements at your fingertips. SIR Guidelines is free to use and allows healthcare workers to quickly access evidence-based recommendations in an easy-to-use point of care format intended to simplify clinical decision-making.\r\n\r\nThe initial release includes an interactive periprocedural recommendation calculator that generates scenario-specific anticoagulation and antibiotic recommendations based on the SIR consensus guidelines. Users can input medications and patient factors to generate recommendations tailored for the patient\u2019s and procedural bleeding risk. The app will be continually updated to include new Clinical Practice Guidelines (CPGs) and tools to assist in clinical decision-making.\r\n\r\nThe Society is providing information and services on this mobile app as a benefit and educational service intended for licensed health care professionals. The information posted here by the Society or any third party should not be considered medical advice or standard of care, and is not intended to replace the independent judgment of or consultation with a qualified medical professional. The use of the mobile app and the Society Content is voluntary and for educational purposes only. Accordingly, the Society assumes no liability for or relating to the use of the content contained within the mobile app by users.",
+    "descriptionHTML": "The Society of Interventional Radiology (SIR) Guidelines app is the go-to source for SIR\u2019s published guidelines and statements at your fingertips. SIR Guidelines is free to use and allows healthcare workers to quickly access evidence-based recommendations in an easy-to-use point of care format intended to simplify clinical decision-making.<br><br>The initial release includes an interactive periprocedural recommendation calculator that generates scenario-specific anticoagulation and antibiotic recommendations based on the SIR consensus guidelines. Users can input medications and patient factors to generate recommendations tailored for the patient\u2019s and procedural bleeding risk. The app will be continually updated to include new Clinical Practice Guidelines (CPGs) and tools to assist in clinical decision-making.<br><br>The Society is providing information and services on this mobile app as a benefit and educational service intended for licensed health care professionals. The information posted here by the Society or any third party should not be considered medical advice or standard of care, and is not intended to replace the independent judgment of or consultation with a qualified medical professional. The use of the mobile app and the Society Content is voluntary and for educational purposes only. Accordingly, the Society assumes no liability for or relating to the use of the content contained within the mobile app by users.",
+    "summary": "Society of Interventional Radiology (SIR) Guidelines",
+    "installs": "5,000+",
+    "minInstalls": 5000,
+    "realInstalls": 5540,
+    "score": 5,
+    "ratings": 14,
+    "reviews": 2,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        14
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Society of Interventional Radiology",
+    "developerId": "Society+of+Interventional+Radiology",
+    "developerEmail": "guidelines@sirweb.org",
+    "developerWebsite": "https://www.sirweb.org/",
+    "developerAddress": null,
+    "privacyPolicy": "https://www.sirweb.org/about-sir/governance/policies/privacy-policy/",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/u2-lde9ClnuzC_UTS_hQxkdU7EouupQs7SbojEW8Y909vNvXxwnJyOjU8XWLGSFuYrv4",
+    "headerImage": "https://play-lh.googleusercontent.com/hNyxG5gT19Ukbufo_IvsL45Z43R_zkZFWg3jP1xQ7cXdGflVKqEhSRtKxOON_KC5uA",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/LX6mDXGpW0qUW3cBT5ZV9m19uTkIDbNA6J5a9d40wq-9UuySOf4tzlrqMy0zg9mdDic",
+        "https://play-lh.googleusercontent.com/ae4tczqJiH34mfvXLw36-Uo6JjW6NmTVIBocdQEMPmgBV773C3xpMIlO7oPJ2kxcXqGQ",
+        "https://play-lh.googleusercontent.com/Empb3oQJFu6ODNxUJhvQVsrQ5_bzHMIZWOWhKHIT4Q_cm_rRak2MIxoZnOOfxjD_LtA"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Dec 26, 2021",
+    "lastUpdatedOn": "Oct 18, 2024",
+    "updated": 1729246251,
+    "version": "1.0",
+    "comments": [],
+    "appId": "org.sirweb.guidelines",
+    "url": "https://play.google.com/store/apps/details?id=org.sirweb.guidelines&hl=en&gl=us"
+}

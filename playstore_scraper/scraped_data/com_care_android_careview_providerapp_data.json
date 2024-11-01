@@ -1,0 +1,63 @@
+{
+    "title": "Care.com: Find Caregiving Jobs",
+    "description": "Finding the right care jobs depends on making the right connections. At Care.com, you\u2019ll gain access to our large network of child care, senior care, pet care, housekeeping, or tutoring jobs, right in your local area.  \r\nCaregivers, showcase your skills and experience to stand out and find the job that is right for you.\r\n\r\n\u2022 Create an engaging profile with personality\r\n\u2022 Search and apply to care jobs right from your mobile phone\r\n\u2022 Message and respond to interview requests\r\n\u2022 Accept payments with ease\r\n\u2022 Manage your profile, calendar, and jobs in one place",
+    "descriptionHTML": "Finding the right care jobs depends on making the right connections. At Care.com, you\u2019ll gain access to our large network of child care, senior care, pet care, housekeeping, or tutoring jobs, right in your local area.  <br>Caregivers, showcase your skills and experience to stand out and find the job that is right for you.<br><br>\u2022 Create an engaging profile with personality<br>\u2022 Search and apply to care jobs right from your mobile phone<br>\u2022 Message and respond to interview requests<br>\u2022 Accept payments with ease<br>\u2022 Manage your profile, calendar, and jobs in one place",
+    "summary": "Caregiving, babysitting, nanny, or housekeeping jobs: find the job for you",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "realInstalls": 1172035,
+    "score": 3.896785,
+    "ratings": 11819,
+    "reviews": 5486,
+    "histogram": [
+        2538,
+        439,
+        449,
+        659,
+        7728
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Care.com Inc",
+    "developerId": "Care.com+Inc",
+    "developerEmail": "google-tracking@care.com",
+    "developerWebsite": "https://www.care.com",
+    "developerAddress": null,
+    "privacyPolicy": "https://www.care.com/privacy-policy-p1013.html",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "categories": [
+        {
+            "name": "Lifestyle",
+            "id": "LIFESTYLE"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/tErffF6HrM98FGv_DGbdPMvI4SpFG5dm0HimukZP0paAmRs5CcHgtQW66BMUyCj5Rw",
+    "headerImage": "https://play-lh.googleusercontent.com/KRNnqYzxRnQHpq3llJLEdqQp_LvjQj0NRikEWe_6Y-UHXtF5GYm-ZBcu_4uoeiYnpNA",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/RqVFKtuI5cj-tKJW7A5X9yv9hM0BV1byvdJ1rxcP2KFPF79bm_KJzmmgOVmrzr8keGo",
+        "https://play-lh.googleusercontent.com/myjHAAf-eX5Jm2mimmOLpXESM967Zjzx8maowaxZQObemAIPAOmu6zGe1P3DUGkkc71f",
+        "https://play-lh.googleusercontent.com/tjvF9oG4OeDgV4LpJUx9GguVi1rN18jlkZblPGh-C9ViAUIlP7ENlkF1Qkvbf7cEwFEa",
+        "https://play-lh.googleusercontent.com/qev0uPqhsW-tkuGf6UDCnCusN4St1g2AI8SQ6bHoAaDOOGz2Ym-2-qVhCZTG4eKjFDk"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "May 31, 2018",
+    "lastUpdatedOn": "Oct 24, 2024",
+    "updated": 1729836387,
+    "version": "23.2.2",
+    "comments": [],
+    "appId": "com.care.android.careview.providerapp",
+    "url": "https://play.google.com/store/apps/details?id=com.care.android.careview.providerapp&hl=en&gl=us"
+}

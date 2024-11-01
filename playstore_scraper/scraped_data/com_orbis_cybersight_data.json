@@ -1,0 +1,63 @@
+{
+    "title": "Cybersight",
+    "description": "Cybersight is an online community for eye health professionals in developing countries.\r\n\r\nAll Cybersight services are free of charge.\r\n\r\nEXPERT ADVICE\r\nGet expert advice and a second opinion for your patient cases.  More than 100 international expert mentors are ready to help.\r\n\r\nGROW YOUR KNOWLEDGE\r\nLearn from thousands of unique cases from ophthalmology colleagues around the world.  Search by location or diagnosis.\r\n\r\nARTIFICIAL INTELLIGENCE\r\nUse our AI technology to detect eye diseases like diabetic retinopathy, glaucoma and macular disease from uploaded fundus images.\r\n\r\nONLINE COURSES\r\nThe app provides seamless access to Cybersight Courses.\r\n\r\nLog in with your existing Cybersight account or join the community using the app.",
+    "descriptionHTML": "Cybersight is an online community for eye health professionals in developing countries.<br><br>All Cybersight services are free of charge.<br><br>EXPERT ADVICE<br>Get expert advice and a second opinion for your patient cases.  More than 100 international expert mentors are ready to help.<br><br>GROW YOUR KNOWLEDGE<br>Learn from thousands of unique cases from ophthalmology colleagues around the world.  Search by location or diagnosis.<br><br>ARTIFICIAL INTELLIGENCE<br>Use our AI technology to detect eye diseases like diabetic retinopathy, glaucoma and macular disease from uploaded fundus images.<br><br>ONLINE COURSES<br>The app provides seamless access to Cybersight Courses.<br><br>Log in with your existing Cybersight account or join the community using the app.",
+    "summary": "Expert advice on complex cases for ophthalmologists in developing countries.",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "realInstalls": 2520,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Orbis International",
+    "developerId": "Orbis+International",
+    "developerEmail": "nicolas.jaccard@orbis.org",
+    "developerWebsite": "https://www.cybersight.org",
+    "developerAddress": null,
+    "privacyPolicy": "https://www.orbis.org/en/about-us/privacy-policy",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "categories": [
+        {
+            "name": "Health & Fitness",
+            "id": "HEALTH_AND_FITNESS"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/d6a6jZm8D5A4Wf55V60Tq_xYMUDV8ektH0WWlYs5JdXzNX-MV-4VtpoEvk5WhBNCmg",
+    "headerImage": "https://play-lh.googleusercontent.com/7Yv4ApJRsEY_wa5xtUL2gAEU-7oagR5_zr6CB3JsGqvt0N8PSSZeJWksN35jSzs6ObM",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/sszdPith2U0LX8KRze9dLrWtmK5fH1G-88H2vd3k-kjdPzEFLN-SwFCSfj8P25nn9uz9",
+        "https://play-lh.googleusercontent.com/NjZ0XPz1XSGP7d7X58pKOBvvrsVDCY6GG2W29YvVa1O8g_VTDB-MjP2D0-0oAxZiIQ",
+        "https://play-lh.googleusercontent.com/m9O9tbAuBTsdag48m1xThtaWUR5WGPK_gYuJf0-ONc5SNcZmRmcF2xRFlZ7j2gRT8CnM",
+        "https://play-lh.googleusercontent.com/wfaqVRIjvXxgBzYic405efzSpuEKSg2JUNCs6kD04B6QojFfKSyAQPI15haqDWfvbkk"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Teen",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Sep 22, 2022",
+    "lastUpdatedOn": "Nov 1, 2024",
+    "updated": 1730477223,
+    "version": "2.62.11",
+    "comments": [],
+    "appId": "com.orbis.cybersight",
+    "url": "https://play.google.com/store/apps/details?id=com.orbis.cybersight&hl=en&gl=us"
+}

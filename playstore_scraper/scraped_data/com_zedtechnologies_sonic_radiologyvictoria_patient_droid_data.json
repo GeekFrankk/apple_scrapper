@@ -1,0 +1,63 @@
+{
+    "title": "Radiology Victoria Patient",
+    "description": "Accessing your images has never been easier with Radiology Victoria.\r\n\r\nUse our App any time of the day or night to:\r\n\u00b7       access your images and reports (after your scan)\r\n\u00b7       share your results with family, friends or medical professionals\r\n\u00b7       Request an appointment\r\n\u00b7       update your email and password\r\n\u00b7       Manage notifications for your images and your reports\r\n\r\nHow does it work?\r\nAlready registered for the Radiology Victoria Patient Portal? Log in using your mobile phone number and password.\r\n\r\nIf you haven\u2019t registered, ask one of our team members at your next appointment for instructions on how. You will be asked for your mobile number and email address, including your authorisation to receive a text to register. \r\nYou will then receive an SMS message containing a link to create your account.\r\nOnce you have an account you can log in at any time to see your images and your reports. Your reports will be uploaded 14 days after we have authorised and sent the report to your referring doctor.\r\n\r\nIt\u2019s important for you to go back to your doctor to get your results, so we won\u2019t send them until you\u2019ve had time to make that appointment. Our doctors will always personally call your doctor if the scans show anything unexpected.\r\n\r\nYou can also perform these functions on our website at patient.radiologyvictoria.com.au\r\n\r\nSupport for our App is available at knox@radiologyvictoria.com.au",
+    "descriptionHTML": "Accessing your images has never been easier with Radiology Victoria.<br><br>Use our App any time of the day or night to:<br>\u00b7       access your images and reports (after your scan)<br>\u00b7       share your results with family, friends or medical professionals<br>\u00b7       Request an appointment<br>\u00b7       update your email and password<br>\u00b7       Manage notifications for your images and your reports<br><br>How does it work?<br>Already registered for the Radiology Victoria Patient Portal? Log in using your mobile phone number and password.<br><br>If you haven\u2019t registered, ask one of our team members at your next appointment for instructions on how. You will be asked for your mobile number and email address, including your authorisation to receive a text to register. <br>You will then receive an SMS message containing a link to create your account.<br>Once you have an account you can log in at any time to see your images and your reports. Your reports will be uploaded 14 days after we have authorised and sent the report to your referring doctor.<br><br>It\u2019s important for you to go back to your doctor to get your results, so we won\u2019t send them until you\u2019ve had time to make that appointment. Our doctors will always personally call your doctor if the scans show anything unexpected.<br><br>You can also perform these functions on our website at patient.radiologyvictoria.com.au<br><br>Support for our App is available at knox@radiologyvictoria.com.au",
+    "summary": "Radiology Victoria is committed to providing quality medical imaging services.",
+    "installs": "500+",
+    "minInstalls": 500,
+    "realInstalls": 629,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Zed Technologies",
+    "developerId": "Zed+Technologies",
+    "developerEmail": "knox@radiologyvictoria.com.au",
+    "developerWebsite": "https://www.radiologyvictoria.com.au/",
+    "developerAddress": null,
+    "privacyPolicy": "https://zedtechnologies.com.au/docs/privacy_policy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/-rWgpTJ1xkUmi4L71GqujKAvlyODXYpi0n9ZRc5jJK09VlUYSx7X-j7b2U-C4LMsGA",
+    "headerImage": "https://play-lh.googleusercontent.com/aX5zQuiJOpNEaqU0V_b23QjbBb5FUs0KPjsgSEBRHuGKt1_JtcxjGDkkMmUxFQFG_w",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/1IxfMiTdBLtp8IDq20FmgDunLhad6k0eFWwPMF_0GIUCeDw5jm-5czEG2ClY2r76_zE",
+        "https://play-lh.googleusercontent.com/vYO1ec9-ZI8rjoHERSZyRKQDEkQS9bj1uZJtrnoN_ivJDK9JSdaBRN40TcnxPjIHG1Q",
+        "https://play-lh.googleusercontent.com/Sucq82up66_pA1Fst8a-qxUeHo75Rg1IgweImHOjS0oMVdODz-VMmyEQrOa2Ezav32w",
+        "https://play-lh.googleusercontent.com/ruCEa87MxB4TzpBQFmwtfW0FPONdosulWyG0w6CpaX8oLH2luXq9g0YDVTZKCgfD5g"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Mar 9, 2022",
+    "lastUpdatedOn": "Oct 21, 2024",
+    "updated": 1729555305,
+    "version": "61.3.3900",
+    "comments": [],
+    "appId": "com.zedtechnologies.sonic.radiologyvictoria.patient.droid",
+    "url": "https://play.google.com/store/apps/details?id=com.zedtechnologies.sonic.radiologyvictoria.patient.droid&hl=en&gl=us"
+}

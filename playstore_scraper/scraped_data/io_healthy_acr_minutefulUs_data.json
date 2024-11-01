@@ -1,0 +1,63 @@
+{
+    "title": "Minuteful - Kidney Test",
+    "description": "Minuteful Kidney is an FDA-cleared home urine test that allows you to check your kidney health using your smartphone.\r\n\r\n*This app can only be used in the US with the designated Minuteful - Kidney Test kit*\r\n\r\nUsing the Minuteful - Kidney Test app and kit, you can easily test anytime, anywhere in just five minutes and get clinical-grade results on the spot.\r\n\r\nThe app will guide you through the testing process step-by-step, and the results will be available for you to share with your doctor and help you take charge of your health.\r\n\r\nThe Minuteful - Kidney Test is HIPAA compliant.",
+    "descriptionHTML": "Minuteful Kidney is an FDA-cleared home urine test that allows you to check your kidney health using your smartphone.<br><br>*This app can only be used in the US with the designated Minuteful - Kidney Test kit*<br><br>Using the Minuteful - Kidney Test app and kit, you can easily test anytime, anywhere in just five minutes and get clinical-grade results on the spot.<br><br>The app will guide you through the testing process step-by-step, and the results will be available for you to share with your doctor and help you take charge of your health.<br><br>The Minuteful - Kidney Test is HIPAA compliant.",
+    "summary": "Home-based urine test for the evaluation of kidney health",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "realInstalls": 17572,
+    "score": 4.8453608,
+    "ratings": 2844,
+    "reviews": 559,
+    "histogram": [
+        0,
+        0,
+        77,
+        282,
+        2481
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Healthy.io Ltd.",
+    "developerId": "Healthy.io+Ltd.",
+    "developerEmail": "support-us@minuteful-kidney.com",
+    "developerWebsite": "https://www.healthy.io",
+    "developerAddress": null,
+    "privacyPolicy": "https://healthy.io/services/minuteful-kidney/privacy-policy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/-FBKqxaqI5LJg7g5DO2PxRl8FqMtALffK6UAy3VzyxTzo8lH3mqcyIHtPO2RxV3aqg",
+    "headerImage": "https://play-lh.googleusercontent.com/3pAdeYGXlBLA6911MhVo94ICp2dtYl7eMk3a8Qhs1ph_xTuLxttqvh8SkA-6dzySeQ",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/a4prXVIL_Gjg2gSa_jsk2LEcuCRgIwtkHXsr_Hax7YjbmTrX2ssJ-n9Gsk0Eh0JRCP4R",
+        "https://play-lh.googleusercontent.com/33-gpNioeT4LVKd47XtG47889KW6THjUlShR5uqro40OHFudx-HeDNBS5H66LlJk6g",
+        "https://play-lh.googleusercontent.com/meB5xAlIuGj1Lr8XVm9e1CKOTygtL7xbStxNyBdZPY8NOzkjSRtdHE93cfpJ5gtlTQ",
+        "https://play-lh.googleusercontent.com/Dmx2DX7OF3zabegr-wAbUqP0aIvev3-3UsclXzkKj5-eH15pd4lIKhbsx-i0rI1-K5w"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Aug 30, 2022",
+    "lastUpdatedOn": "Sep 5, 2024",
+    "updated": 1725544449,
+    "version": "7.32.0",
+    "comments": [],
+    "appId": "io.healthy.acr.minutefulUs",
+    "url": "https://play.google.com/store/apps/details?id=io.healthy.acr.minutefulUs&hl=en&gl=us"
+}

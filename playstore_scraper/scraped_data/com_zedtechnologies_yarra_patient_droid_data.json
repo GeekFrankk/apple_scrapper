@@ -1,0 +1,63 @@
+{
+    "title": "YARRA Radiology Patient",
+    "description": "This app is for Patients.\r\n\r\nYARRA Radiology is the quality provider of diagnostic imaging: We offer radiological examinations such as MRI, CT, Xray, Ultrasound, Bone Densitometry, Breast Imaging (eg 3DMammogram or Tomosynthesis), Cardiac Imaging (eg Echocardiogram or CTCA), Vascular Imaging, Dental Imaging (eg OPG or CBCT), and Interventional Procedures (eg FNA or Stereotactic Vaccum-Assisted Breast Biopsy) as a comprehensive service provider to our valued patients, and referring doctors with utilising top of the range state of the art best equipments.\r\n\r\nBook an appointment for your exam or procedure at our subspecialised radiology clinic for your diagnostic imaging or therapeutic procedure needs. Our subspecialised radiology centre provides a comprehensive range of diagnostic imaging services encompassing a wide variety of top of the line imaging modalities as well as providing innovative therapeutic procedures to assist our patients in managing their conditions with our main aim being to provide an excellent patient care and exceptional quality services.\r\n\r\nFor appointments, please visit <a href=\"https://www.google.com/url?q=https%3A%2F%2Fwww.yarraradiology.com.au%2Fcontact-us&sa=D&sntz=1&usg=AOvVaw2rgj-ztk4UWerPNGzARg2v\">https://www.yarraradiology.com.au/contact-us</a>\r\n\r\nFor app support, please visit <a href=\"https://www.google.com/url?q=https%3A%2F%2Fyarraradiology.zed.link%2F&sa=D&sntz=1&usg=AOvVaw1ulRJ6rdOjd8fPN4JIXiP8\">https://yarraradiology.zed.link/</a>",
+    "descriptionHTML": "This app is for Patients.<br><br>YARRA Radiology is the quality provider of diagnostic imaging: We offer radiological examinations such as MRI, CT, Xray, Ultrasound, Bone Densitometry, Breast Imaging (eg 3DMammogram or Tomosynthesis), Cardiac Imaging (eg Echocardiogram or CTCA), Vascular Imaging, Dental Imaging (eg OPG or CBCT), and Interventional Procedures (eg FNA or Stereotactic Vaccum-Assisted Breast Biopsy) as a comprehensive service provider to our valued patients, and referring doctors with utilising top of the range state of the art best equipments.<br><br>Book an appointment for your exam or procedure at our subspecialised radiology clinic for your diagnostic imaging or therapeutic procedure needs. Our subspecialised radiology centre provides a comprehensive range of diagnostic imaging services encompassing a wide variety of top of the line imaging modalities as well as providing innovative therapeutic procedures to assist our patients in managing their conditions with our main aim being to provide an excellent patient care and exceptional quality services.<br><br>For appointments, please visit <a href=\"https://www.google.com/url?q=https%3A%2F%2Fwww.yarraradiology.com.au%2Fcontact-us&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2rgj-ztk4UWerPNGzARg2v\">https://www.yarraradiology.com.au/contact-us</a><br><br>For app support, please visit <a href=\"https://www.google.com/url?q=https%3A%2F%2Fyarraradiology.zed.link%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1ulRJ6rdOjd8fPN4JIXiP8\">https://yarraradiology.zed.link/</a>",
+    "summary": "Allows Yarra Radiology patients to access and share their images and reports.",
+    "installs": "500+",
+    "minInstalls": 500,
+    "realInstalls": 965,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Zed Technologies",
+    "developerId": "Zed+Technologies",
+    "developerEmail": "support@zedtechnologies.com.au",
+    "developerWebsite": null,
+    "developerAddress": null,
+    "privacyPolicy": "https://zedtechnologies.com.au/docs/privacy_policy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/ui_FiYJ3VaBvoNuv58VgXgM3a9m5HhZkbNgdFFY5cXJYMAwK_QisgwZpx0hKJfLPgE8",
+    "headerImage": "https://play-lh.googleusercontent.com/yE9_Mq1VfWa5KpjNEaEgJ6S0PQupz9DyF_Td8mC0pIEb11954LB0Abt81vXvxqkxFTY",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/BUkhNp9udLFOPO4G0q10ryB7LxZdi8kU6yQhf8-xumbSfXFRHbxKbPYPPaIQPWIgDCQ-",
+        "https://play-lh.googleusercontent.com/wEAm8cyMzBmaUCsKk9bXUVy4qXlgVraD82F7aliNVO3Vi6CKuKB8KRFWMcNdec2ERCoY",
+        "https://play-lh.googleusercontent.com/ojlef7Zt9ovWLi0yorNkttRjuuBse68cpL2Qzyy8t9OWZeVbHQcJSNpyxt5WXZufxg",
+        "https://play-lh.googleusercontent.com/wzBVengi9BEyGo3KNnyxauMCdnTWRobrVUJ65YNWSkliqmy-whPVrSRff3swiYU8YQ"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Jan 19, 2023",
+    "lastUpdatedOn": "Oct 21, 2024",
+    "updated": 1729556360,
+    "version": "61.3.3900",
+    "comments": [],
+    "appId": "com.zedtechnologies.yarra.patient.droid",
+    "url": "https://play.google.com/store/apps/details?id=com.zedtechnologies.yarra.patient.droid&hl=en&gl=us"
+}

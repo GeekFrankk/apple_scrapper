@@ -1,0 +1,62 @@
+{
+    "title": "Genetics Sale",
+    "description": "This app allows bidders in Genetics Sale Auctions to register for auctions, bid on live and live-streamed auctions, and communicate with Genetics sale about delivery and payment of any items won in the auction.",
+    "descriptionHTML": "This app allows bidders in Genetics Sale Auctions to register for auctions, bid on live and live-streamed auctions, and communicate with Genetics sale about delivery and payment of any items won in the auction.",
+    "summary": "Bid on Auctions Managed by Genetics Sale",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "realInstalls": 2504,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Handbid Inc.",
+    "developerId": "Handbid+Inc.",
+    "developerEmail": "info@genetics-sale.ch",
+    "developerWebsite": "https://www.genetics-sale.ch",
+    "developerAddress": null,
+    "privacyPolicy": "https://genetics-sale.ch/datenschutzerklaerung/",
+    "genre": "Lifestyle",
+    "genreId": "LIFESTYLE",
+    "categories": [
+        {
+            "name": "Lifestyle",
+            "id": "LIFESTYLE"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/hAdqM0OgNPuBLG8toIW99xXif4B6kEfhBSeoGs6ct3KAhFtaxSOLCz3k_uGlWbBsVmQh",
+    "headerImage": "https://play-lh.googleusercontent.com/JXh3Iy8WGo0nKEUAxmN2V0-8Qo_hQApKxkJtW5m4tz5WInwAsxx7ajk6EiYxGNxqPPo",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/oDClTAjSxPcHdovZyg0kZrnO_M5DUDxYAblrRg7C271bijCwTJl1pFx55pnVqFuXow4",
+        "https://play-lh.googleusercontent.com/9qYC8NFX-IOGxDJiVYFfXBl21rACDRwVXsDWFJFo46YghHF_Hjm5AXJ_Q2ysXGO4Fw",
+        "https://play-lh.googleusercontent.com/IzyFgOBbAZLwIJD36x3-Dz8fMqqJjxJ4uz2b_c0T9U1YeDYmuwmGChvzh8YJBEjBnqc"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Aug 8, 2021",
+    "lastUpdatedOn": "Sep 19, 2024",
+    "updated": 1726764588,
+    "version": "4.2.0-2024.09.17-332744-390",
+    "comments": [],
+    "appId": "com.handbid.android.geneticssale",
+    "url": "https://play.google.com/store/apps/details?id=com.handbid.android.geneticssale&hl=en&gl=us"
+}

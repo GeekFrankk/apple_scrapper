@@ -1,0 +1,63 @@
+{
+    "title": "DryEyeRhythm",
+    "description": "Your headache and stiff shoulders may be caused by dry eye.\r\n\"Dry Eye Rhythm\" is an application that you can do dry eye check in 5 minutes using the smartphone.\r\nMeasurement results can be confirmed with your own eyes, as well as for dry eye research by Juntendo University ophthalmology.\r\n\r\n\r\n[Purpose of dry eye rhythm]\r\nIt is estimated that there are 22 million people in Japan and 1 billion people in the world, the most common eye disease is dry eye. However, many people have not yet diagnosed, causing eye quality, Eye pain, headache, lowering subjective visual acuity, stiff shoulder, etc. which is a cause of lowering quality of life.\r\n\r\nIf we can gather information as accurate as possible about fluctuations of symptoms from usual time, we should be able to prevent it before symptoms arise and to speed up recovery. In this way, \"dry eye rhythm\" was created from the desire to deliver eye health to everyone.\r\n\r\n\r\n[What you can do with dry eye rhythm]\r\n1. Easy dry eye measurement in 5 minutes, you can check your dry eye score.\r\n\r\n2. By entering lifestyle such as stress and sleep time, you can check correlation between daily dry eye score and lifestyle on your own.\r\n\r\n3. You can check the user's dry eye status on dry eye map.\r\n\r\n4. Anonymized big data will be useful for dry eye research by Juntendo University ophthalmology.\r\n\r\n\r\n[How to use the application]\r\n1. After agreeing to the research, enter basic information.\r\n\r\n2. You can measure your own dry eye score with a camera's blink check and questionnaire input. (1 day a day, continuous measurement for 7 days is recommended)\r\n\r\n3. Enter your lifestyle such as sleeping time, stress, time you saw the monitor. (1 day a day, continuous measurement for 7 days is recommended)\r\n\r\n4 The results of the measurement can be seen on the graph and calendars, and you can check the change in dry eye score and the correlation with your lifestyle with your own eyes.\r\n\r\n\r\n[About safety]\r\n- Privacy\r\nBecause collected data does not have information that leads to the identification of an individual, even if it leaks by chance, it will not lead to personal rights or property damage. Also, withdrawal of consent for research can be withdrawn at any time.\r\n\r\n- Data handling\r\nResearch results obtained through cooperation and collected data may be published in academic presentations or academic journals in order to be useful for early detection, diagnosis and treatment of each disease. In addition, data collected for this research may be used for another research or development.\r\n\r\n- Notices\r\nThis application was developed exclusively for collecting data in clinical research and is not intended for other purposes. We can not compensate for any health damage or equipment damage due to research participation. Because the measurement result by this application is not a doctor's diagnosis, if you have a symptom to worry please get a doctor's diagnosis.",
+    "descriptionHTML": "Your headache and stiff shoulders may be caused by dry eye.<br>&quot;Dry Eye Rhythm&quot; is an application that you can do dry eye check in 5 minutes using the smartphone.<br>Measurement results can be confirmed with your own eyes, as well as for dry eye research by Juntendo University ophthalmology.<br><br><br>[Purpose of dry eye rhythm]<br>It is estimated that there are 22 million people in Japan and 1 billion people in the world, the most common eye disease is dry eye. However, many people have not yet diagnosed, causing eye quality, Eye pain, headache, lowering subjective visual acuity, stiff shoulder, etc. which is a cause of lowering quality of life.<br><br>If we can gather information as accurate as possible about fluctuations of symptoms from usual time, we should be able to prevent it before symptoms arise and to speed up recovery. In this way, &quot;dry eye rhythm&quot; was created from the desire to deliver eye health to everyone.<br><br><br>[What you can do with dry eye rhythm]<br>1. Easy dry eye measurement in 5 minutes, you can check your dry eye score.<br><br>2. By entering lifestyle such as stress and sleep time, you can check correlation between daily dry eye score and lifestyle on your own.<br><br>3. You can check the user&#39;s dry eye status on dry eye map.<br><br>4. Anonymized big data will be useful for dry eye research by Juntendo University ophthalmology.<br><br><br>[How to use the application]<br>1. After agreeing to the research, enter basic information.<br><br>2. You can measure your own dry eye score with a camera&#39;s blink check and questionnaire input. (1 day a day, continuous measurement for 7 days is recommended)<br><br>3. Enter your lifestyle such as sleeping time, stress, time you saw the monitor. (1 day a day, continuous measurement for 7 days is recommended)<br><br>4 The results of the measurement can be seen on the graph and calendars, and you can check the change in dry eye score and the correlation with your lifestyle with your own eyes.<br><br><br>[About safety]<br>- Privacy<br>Because collected data does not have information that leads to the identification of an individual, even if it leaks by chance, it will not lead to personal rights or property damage. Also, withdrawal of consent for research can be withdrawn at any time.<br><br>- Data handling<br>Research results obtained through cooperation and collected data may be published in academic presentations or academic journals in order to be useful for early detection, diagnosis and treatment of each disease. In addition, data collected for this research may be used for another research or development.<br><br>- Notices<br>This application was developed exclusively for collecting data in clinical research and is not intended for other purposes. We can not compensate for any health damage or equipment damage due to research participation. Because the measurement result by this application is not a doctor&#39;s diagnosis, if you have a symptom to worry please get a doctor&#39;s diagnosis.",
+    "summary": "App for Dry Eye",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "realInstalls": 2675,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Juntendo University",
+    "developerId": "Juntendo+University",
+    "developerEmail": "tinoma@juntendo.ac.jp",
+    "developerWebsite": "https://dryeyerhythm.jp",
+    "developerAddress": null,
+    "privacyPolicy": "https://dryeyerhythm.jp/privacy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/a5SCzRp-jEBY4sb1lYKq-Q_MIJ-XLNQL0j6uw-bY1FsgfrELtboW7cRAZygt4mLxBH8",
+    "headerImage": "https://play-lh.googleusercontent.com/RfwWdsAHREQpHzwnwA0fF7iOsf1WoMdNrRlBwbLyQAecu9urfmJZrieHz3YB7bdWCGk",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/w4MNq0dgP_EcD2I0sj3FrwRxadX0ZzVmRuzOwPchUIhoXF6f9eG7_QF4zP8HVV_iuGw",
+        "https://play-lh.googleusercontent.com/qN1nyOB4-4yrWJZKrDlhaaGSqdv-ddeaylRfnluL-0D-aBteJu9iue9cL_8MIVmIkzaG",
+        "https://play-lh.googleusercontent.com/GcLcGhXl_-T0Tmx5m_82mwmrfLivLXTP7v1mqCZjP_1fVAaNDU7kL4Kd4_CmkfbzYt2l",
+        "https://play-lh.googleusercontent.com/FxpWAiml3Cs2AZtocGZATZOOo52_96UpsIV5bNpo8OdcD7Dyt7nFOjrXbud7ZZdRhT_D"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Apr 10, 2020",
+    "lastUpdatedOn": "Jun 6, 2024",
+    "updated": 1717688868,
+    "version": "2.0.1",
+    "comments": [],
+    "appId": "com.juntendo.dryeyerhythm",
+    "url": "https://play.google.com/store/apps/details?id=com.juntendo.dryeyerhythm&hl=en&gl=us"
+}

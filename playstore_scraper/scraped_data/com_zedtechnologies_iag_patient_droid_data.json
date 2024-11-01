@@ -1,0 +1,63 @@
+{
+    "title": "IA X-rays",
+    "description": "IA X-rays allows patients to view, share and store radiology images performed at an Imaging Associates\u2019 clinic. Patients can access their images 24/7.\r\n\r\nOur platform gives you secure online access to your images via computer, tablet or phone.\r\n\r\nYou have access to your images anywhere, anytime allowing you to share with anyone you choose \u2013 whether showing your impressive baby ultrasounds to family via social media or sharing with a health professional while travelling. Granting access to medical practitioners is simple and quick. IA X-rays is an ecological solution reducing the need to store and manage films and other devices (USBs, CDs etc) \u2013 no need to remember and carry your films to your next appointment.\r\n\r\nX-rays and scans are an important part of your medical history. Our platform allows you to upload previous scans or scans from other imaging groups so you have your complete history in one convenient place.\r\n\r\nImaging Associates Group is an independent diagnostic imaging practice which is owned and operated by a team of dedicated Radiologists. We have established private practices in Box Hill and Mitcham as well as our Regional practice in Wagga Wagga to provide specialised imaging services to practitioners and patients in our local communities.  Our group of sub-specialised Radiologists are led by experienced Clinical Directors \u2013 Drs Paul Marks, Daniel Lee, York Cheung and Chris Holden \u2013 to offer expertise and experience across a comprehensive range of services including Low Dose CT, Ultrasound, X-ray, MRI, Mammography, Fluoroscopy and DXA.\r\n\r\nFor more information please call 03 8843 7999 or email images@imagingassociates.net.au",
+    "descriptionHTML": "IA X-rays allows patients to view, share and store radiology images performed at an Imaging Associates\u2019 clinic. Patients can access their images 24/7.<br><br>Our platform gives you secure online access to your images via computer, tablet or phone.<br><br>You have access to your images anywhere, anytime allowing you to share with anyone you choose \u2013 whether showing your impressive baby ultrasounds to family via social media or sharing with a health professional while travelling. Granting access to medical practitioners is simple and quick. IA X-rays is an ecological solution reducing the need to store and manage films and other devices (USBs, CDs etc) \u2013 no need to remember and carry your films to your next appointment.<br><br>X-rays and scans are an important part of your medical history. Our platform allows you to upload previous scans or scans from other imaging groups so you have your complete history in one convenient place.<br><br>Imaging Associates Group is an independent diagnostic imaging practice which is owned and operated by a team of dedicated Radiologists. We have established private practices in Box Hill and Mitcham as well as our Regional practice in Wagga Wagga to provide specialised imaging services to practitioners and patients in our local communities.  Our group of sub-specialised Radiologists are led by experienced Clinical Directors \u2013 Drs Paul Marks, Daniel Lee, York Cheung and Chris Holden \u2013 to offer expertise and experience across a comprehensive range of services including Low Dose CT, Ultrasound, X-ray, MRI, Mammography, Fluoroscopy and DXA.<br><br>For more information please call 03 8843 7999 or email images@imagingassociates.net.au",
+    "summary": "Fast, secure access to x-rays and scans preformed at Imaging Associates.",
+    "installs": "50,000+",
+    "minInstalls": 50000,
+    "realInstalls": 70595,
+    "score": 3.3333333,
+    "ratings": 93,
+    "reviews": 5,
+    "histogram": [
+        31,
+        0,
+        10,
+        10,
+        41
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Zed Technologies",
+    "developerId": "Zed+Technologies",
+    "developerEmail": "images@imagingassociates.net.au",
+    "developerWebsite": "http://imagingassociates.net.au",
+    "developerAddress": null,
+    "privacyPolicy": "https://zedtechnologies.com.au/docs/privacy_policy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/YPTiy-IrefKnhnEN71flFPJWPt9UdSbl9bIdQ6ACJoEiDljCeZtVdoQnmmck0ODJh0nD",
+    "headerImage": "https://play-lh.googleusercontent.com/AJSyJcKBjFObeOnSpayTetRy6CTY3QOYQeZRNmrdFM4o4tOH_G3Adnd1JRbOucZc9GEh",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/o8wB7hL98W-_98D0GNLEE9W8fIuLisBeYJA10Tc8cmFrWwwm-o0rwfWcpJRPvF0bggnD",
+        "https://play-lh.googleusercontent.com/o2_EId-aA6KIGDiWOkp2JGms_Qq_lByXfDEFh8aS6g7XHRMd1292h40mBlI1sNwjfe4",
+        "https://play-lh.googleusercontent.com/kiZw1FeRJb9jxsCD8b0te_dqpAUW6XeA53Ltv8J192sYss-Nhb0yFK4SMIbKhRPudRQ",
+        "https://play-lh.googleusercontent.com/TPM1p5nOVAr3SVucrx-LTcxBCYiaNL5YhL5FlhY92c118avSt73opyFBdl40886zDkQ"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Aug 30, 2018",
+    "lastUpdatedOn": "Nov 13, 2023",
+    "updated": 1699940282,
+    "version": "26.7954.3718",
+    "comments": [],
+    "appId": "com.zedtechnologies.iag.patient.droid",
+    "url": "https://play.google.com/store/apps/details?id=com.zedtechnologies.iag.patient.droid&hl=en&gl=us"
+}

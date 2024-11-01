@@ -1,0 +1,62 @@
+{
+    "title": "My Pregnancy - Baby Tracker",
+    "description": "My Pregnancy is a week-by-week pregnancy tracker. Our app will help you over the course of your pregnancy. Stay on top of the changes happening inside your body. Find out how your baby is developing.\r\n\r\nOur app is completely free and does not contain advertising.\r\n\r\nThis app includes:\r\n- week-by-week advice;\r\n- useful information on fetal development and changes in your body;\r\n- week-by-week fetal measurements and imaging;\r\n- a to-do list for each trimester;\r\n- a list of things you will need for hospital check-in, post-natal care and check-out;\r\n- a weight tracker you can use to follow weight gain;\r\n- a kick counter;\r\n- a contraction timer;\r\n- and much more\r\n\r\nWe have created this app with love, specially for young mothers.\r\n\r\nThis app is not intended for medical use and is not a substitute for medical consultation.\r\n\r\nIf you have any questions or requests, please write to neumandev@gmail.com. We are eager to hear your comments on how to improve the app.",
+    "descriptionHTML": "My Pregnancy is a week-by-week pregnancy tracker. Our app will help you over the course of your pregnancy. Stay on top of the changes happening inside your body. Find out how your baby is developing.<br><br>Our app is completely free and does not contain advertising.<br><br>This app includes:<br>- week-by-week advice;<br>- useful information on fetal development and changes in your body;<br>- week-by-week fetal measurements and imaging;<br>- a to-do list for each trimester;<br>- a list of things you will need for hospital check-in, post-natal care and check-out;<br>- a weight tracker you can use to follow weight gain;<br>- a kick counter;<br>- a contraction timer;<br>- and much more<br><br>We have created this app with love, specially for young mothers.<br><br>This app is not intended for medical use and is not a substitute for medical consultation.<br><br>If you have any questions or requests, please write to neumandev@gmail.com. We are eager to hear your comments on how to improve the app.",
+    "summary": "Pregnancy & Baby Tracker \ud83e\udd30",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "realInstalls": 2464634,
+    "score": 4.65,
+    "ratings": 56026,
+    "reviews": 218,
+    "histogram": [
+        1119,
+        559,
+        2798,
+        7834,
+        43651
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Neiman",
+    "developerId": "Neiman",
+    "developerEmail": "neumandev@gmail.com",
+    "developerWebsite": null,
+    "developerAddress": "Nizhniy Novgorod",
+    "privacyPolicy": "http://neiman.tilda.ws/my-pregnancy-privacy-policy",
+    "genre": "Parenting",
+    "genreId": "PARENTING",
+    "categories": [
+        {
+            "name": "Parenting",
+            "id": "PARENTING"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/yh_RuA147FM8TeSSyRUjuPD1q3xxI4S56FwIwY24xuSKNR-JV4d4PTE6j0iEJGRUPKw",
+    "headerImage": "https://play-lh.googleusercontent.com/cqDUN4jRNrkDxiWUEX6EVVKHG9h0cPMNmFo7qeUOtARhCiNADkCbO-DfK-y7ZaSNP_t5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/WPNRsGHsvUXWow_fPUx1Cr2k92DxitNSSgGtyruNkFj2_Jq26iHc1r6AHjeLUxsx0tU",
+        "https://play-lh.googleusercontent.com/d7fYPa6QU4E_DIc14a0JYP8M6Ci1LndbVAZFoWI8wI8sqJAVFyjva5jrzkKSomNcP82g",
+        "https://play-lh.googleusercontent.com/SVN-DEolOIBiKTzgPPDtHgC-FNvp8dy3oHWjKwPKPJEyKbU6MFMi7e4nmP-UJgRnFw"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Sep 11, 2019",
+    "lastUpdatedOn": "Aug 12, 2024",
+    "updated": 1723494592,
+    "version": "1.7",
+    "comments": [],
+    "appId": "com.neiman.pregnancy",
+    "url": "https://play.google.com/store/apps/details?id=com.neiman.pregnancy&hl=en&gl=us"
+}

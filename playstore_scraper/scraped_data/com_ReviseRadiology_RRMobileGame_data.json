@@ -1,0 +1,95 @@
+{
+    "title": "Revise Radiology",
+    "description": "This game is aimed at helping you become more confident at spotting normal x-rays, answering physics questions and practicing the MCQ.\r\n\r\nThe danger with calling a normal x-ray abnormal, is that it can lead to excessive investigation and patient anxiety, as well as the risk of exposing the patient to unnecessary radiation. \r\n\r\nThe skill of picking up normal x-rays is tested during the Rapid Reporting section of the  Final Part B examinations of the FRCR (Fellowship of the Royal College of Radiologists). \r\n\r\nSimply choose the difficulty of X-Rays you\u2019d like to practice and get instant feedback on whether you got it right or wrong. You can review your answers after the timer runs out and see whether you picked up the normals. You also get to see the diagnoses of the abnormal x-rays. Try to improve on your results to become faster and more accurate.  \r\n\r\nThis game will help with preparation for the FRCR 2B Rapid Reporting Exam but if you need more rapid reporting practice in a platform that simulates the examination, visit the Revise Radiology website.\r\n\r\nTest your physics knowledge with a true false game where you simply read the statement and decide whether it is true or false.\r\n\r\nTry the MCQ (multiple choice questions). Read the question and look through each of the five answers to decide which you think is the best answer.",
+    "descriptionHTML": "This game is aimed at helping you become more confident at spotting normal x-rays, answering physics questions and practicing the MCQ.<br><br>The danger with calling a normal x-ray abnormal, is that it can lead to excessive investigation and patient anxiety, as well as the risk of exposing the patient to unnecessary radiation. <br><br>The skill of picking up normal x-rays is tested during the Rapid Reporting section of the  Final Part B examinations of the FRCR (Fellowship of the Royal College of Radiologists). <br><br>Simply choose the difficulty of X-Rays you\u2019d like to practice and get instant feedback on whether you got it right or wrong. You can review your answers after the timer runs out and see whether you picked up the normals. You also get to see the diagnoses of the abnormal x-rays. Try to improve on your results to become faster and more accurate.  <br><br>This game will help with preparation for the FRCR 2B Rapid Reporting Exam but if you need more rapid reporting practice in a platform that simulates the examination, visit the Revise Radiology website.<br><br>Test your physics knowledge with a true false game where you simply read the statement and decide whether it is true or false.<br><br>Try the MCQ (multiple choice questions). Read the question and look through each of the five answers to decide which you think is the best answer.",
+    "summary": "A Game for Radiologists",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "realInstalls": 21069,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Revise Radiology Games",
+    "developerId": "Revise+Radiology+Games",
+    "developerEmail": "games@reviseradiology.com",
+    "developerWebsite": "https://reviseradiology.com",
+    "developerAddress": null,
+    "privacyPolicy": "https://member.reviseradiology.com/privacy-policy",
+    "genre": "Educational",
+    "genreId": "GAME_EDUCATIONAL",
+    "categories": [
+        {
+            "name": "Trivia",
+            "id": "GAME_TRIVIA"
+        },
+        {
+            "name": "Yes or no",
+            "id": null
+        },
+        {
+            "name": "Casual",
+            "id": "GAME_CASUAL"
+        },
+        {
+            "name": "Single player",
+            "id": null
+        },
+        {
+            "name": "Realistic",
+            "id": null
+        },
+        {
+            "name": "Offline",
+            "id": null
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/-vHO_zacjaFmnX6RBuHk1oP80LzkZUHWLL02aSeGzmP6e_0jXux43Zxlj3_XAdSeuLc",
+    "headerImage": "https://play-lh.googleusercontent.com/Pj29_1_wO6AcGjP8n6agm57EjB_epJ4F6tncjSEPMZ7IYhCTdL7IxsgbzVzzSqbopw",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/AvQs0MuYuwo3uGbELbqOrESHpEkNJ18Kk_O3dbYds_bfXPDWSnPVH8ZQytzssXU3OiQ",
+        "https://play-lh.googleusercontent.com/SQOHOuSy9dlD_2xOdZHq4GoEwMWinbdqDoyt8ER5792CaLzvOiM6mnmh5MJkM6r7",
+        "https://play-lh.googleusercontent.com/XlaUt8PKjWGQT47PfEMJnZSobopOGLQGTKpV7YNFbiFC8lrFr39Fkw2BlU2aFwZc-OA",
+        "https://play-lh.googleusercontent.com/DtJKIDadPePJK5D1PMK1wfNjR45ftaQzLc-oy4aN8cfhB5pChGBRFCOodWsSGlYIwAk",
+        "https://play-lh.googleusercontent.com/mM1S-WYOgj84_8fbrnMs4NHcjp84yc-M3rUXOoJDI4OCsH1t-MgWfPAen63hjJ-HWFI",
+        "https://play-lh.googleusercontent.com/XS67pm_7RF5RGUpWAiH7GissL1H2pR3rkZIoDUpAlYthXcs6qIUTpJRx0SvG3JXxnFw",
+        "https://play-lh.googleusercontent.com/OSqvtIqqVlQX4U0vjP7F3QNMCNCJd_LZSwwqKRiWptLcctHIgVfoZRwUsIKyfWonFOhB",
+        "https://play-lh.googleusercontent.com/Op9yaDDgzpVSUTCdcIP6UaJ9Co58pITw8HJoJ_TbP3y9nFYZpEI4OTX0Bi_wudtxPyv3",
+        "https://play-lh.googleusercontent.com/iYhQuF3jQHtlvEtOGOFXRyXgvKbWFL_gp_bKOWjYAMh35XkZID8M3jVcRXTFDdfBlI4",
+        "https://play-lh.googleusercontent.com/yXGadyarIIcMqQsrXRvtAGzvRe6h83SuwAMx-cFP3kSZyl1RhqvbbJTTC0DxHBXuKA",
+        "https://play-lh.googleusercontent.com/1W__umonrVqdKgk19zru3G7V5pjxSC8zrCzWh0S2j_TPC66nsPgVJSUqvIXegFzv994",
+        "https://play-lh.googleusercontent.com/98QxRRWgqfc0BY4zDBAhv4z4zVXcF_9aWVal1KmtkA6U5CkIuQT_L2HKyPpItDO-Jia1",
+        "https://play-lh.googleusercontent.com/zHAGlhG2tmq8NVcDAtsR1rMZVVa5A4bVn-R7rB3qoFnE1kBC78ZEE5mMnxGw8cjd5gQ",
+        "https://play-lh.googleusercontent.com/BFKEq8kyM4aJs0QXOKNaAiiN8s96J559wfE8MBD5788Rybw0VuaT-_vffhOQKbLjPNE",
+        "https://play-lh.googleusercontent.com/wa8tQhFxK2JMvTUWuLGBI4do-rhs5Lugfi6r03RB2Y22EIXwL4H7u2nD39e180bJiBU",
+        "https://play-lh.googleusercontent.com/L0G6E1SGucSOEUmAk-mxOpaXpTGPDz-pgvGAAhqfXA6xNRhYHl2hbRosbV_7dmw0vRA"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Nov 10, 2022",
+    "lastUpdatedOn": "Dec 12, 2022",
+    "updated": 1670859573,
+    "version": "1",
+    "comments": [],
+    "appId": "com.ReviseRadiology.RRMobileGame",
+    "url": "https://play.google.com/store/apps/details?id=com.ReviseRadiology.RRMobileGame&hl=en&gl=us"
+}

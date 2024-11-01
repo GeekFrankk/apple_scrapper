@@ -1,0 +1,62 @@
+{
+    "title": "PraxisApp - Urologie",
+    "description": "Your direct line to your urologist or your urologist!\r\nChoose your practice or your physician / doctor from out of the Doctors. ** Only doctors who have registered for this service, can be found in the doctor's list. **\r\nIf you have registered with your data, your doctor or health care professional may send you general and personal information. Via the message function you receive messages via push quickly and directly to your phone.\r\n\r\nWith the PraxisApp \"Urology\" you get:\r\n\r\n\u2022 General and personal messages from your doctor\r\n\u2022 appointment reminders, which has set for you by your doctor\r\n\u2022 Individual therapy reminders in consultation with your doctor\r\n\u2022 Reminder of annual cancer early detection\r\n\u2022 Video consultation with your doctor (only if your doctor offers this service for you)\r\n\u2022 Current information on Urology - published in cooperation with the Professional Association of German Urologists e.V. (BVDU)",
+    "descriptionHTML": "Your direct line to your urologist or your urologist!<br>Choose your practice or your physician / doctor from out of the Doctors. ** Only doctors who have registered for this service, can be found in the doctor&#39;s list. **<br>If you have registered with your data, your doctor or health care professional may send you general and personal information. Via the message function you receive messages via push quickly and directly to your phone.<br><br>With the PraxisApp &quot;Urology&quot; you get:<br><br>\u2022 General and personal messages from your doctor<br>\u2022 appointment reminders, which has set for you by your doctor<br>\u2022 Individual therapy reminders in consultation with your doctor<br>\u2022 Reminder of annual cancer early detection<br>\u2022 Video consultation with your doctor (only if your doctor offers this service for you)<br>\u2022 Current information on Urology - published in cooperation with the Professional Association of German Urologists e.V. (BVDU)",
+    "summary": "Your direct line to your urologist or your urologist!",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "realInstalls": 2324,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Monks Vertriebs GmbH",
+    "developerId": "Monks+Vertriebs+GmbH",
+    "developerEmail": "android@monks.de",
+    "developerWebsite": "http://www.monks.de",
+    "developerAddress": null,
+    "privacyPolicy": "https://www.monks-aerzte-im-netz.de/datenschutz/",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/RNip8pLdo-nHLki6Pw17gQ8o6nG5L7plsF6HzckoJnnnp1uLjqVAce36K7vA6Vm8a2A",
+    "headerImage": "https://play-lh.googleusercontent.com/cFNPZjP93rAP0P4dw4fhkY9eZa_Zr4j7DorFippvhF8aQ51fZKKFwTY_x4Uor_0jxo3E",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/lSil5LfiWBX84SJZER3J5l_iEVnMPAcuwaD2tOYQWRglDNzTUubi2cpiFMzm8s9Njb0",
+        "https://play-lh.googleusercontent.com/RAVYV8OykD9AIw22xU1qfy2q_GTTKST-wL6As3WoIC7q1x8wlYdyUdRVVNY3ZRTrQQ",
+        "https://play-lh.googleusercontent.com/EpC8PFQLKsG9gdlRd96O_z-1mFV7bEcptlKjVACxJx7MT4Dg4Rs337O8tMobybnqDRQ"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Jan 12, 2018",
+    "lastUpdatedOn": "Oct 22, 2024",
+    "updated": 1729617798,
+    "version": "3.2.7778",
+    "comments": [],
+    "appId": "com.monks.praxis_app.uin",
+    "url": "https://play.google.com/store/apps/details?id=com.monks.praxis_app.uin&hl=en&gl=us"
+}
