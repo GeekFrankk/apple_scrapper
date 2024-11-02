@@ -1,0 +1,62 @@
+{
+    "title": "Emergency Procedures",
+    "description": "he Emergency Procedures App is free and open access. It is produced clinicians via a not for profit organisation. Our aim is to reduce variation in practise and provide an accessible evidenced based methodology to assists providers in perform procedures safely and competently. \r\n\r\nWe collect application analytical data to improve the for improvements to the app. At sign up we require contact details and basic user information to allow us to target future developments and improve the services are app offers consumers. We request you allow us to occasionally survey you after you use the app so we can better research product use.\r\n\r\nDISCLAIMER\r\nThe videos included within this app are intended for clinicians working within the emergency department. Videos contain clear images of surgical procedures which non-medical viewers may find disturbing.All information on the Site and mobile application have been provided in good faith based on extensive evidence review and peer review. This information is for general information purposed and must be tailored to specific patient. Do not perform these procedures unless you are a trained health professional. Seek a doctor\u2019s advice in addition to using this app and before making any medical decisions.",
+    "descriptionHTML": "he Emergency Procedures App is free and open access. It is produced clinicians via a not for profit organisation. Our aim is to reduce variation in practise and provide an accessible evidenced based methodology to assists providers in perform procedures safely and competently. <br><br>We collect application analytical data to improve the for improvements to the app. At sign up we require contact details and basic user information to allow us to target future developments and improve the services are app offers consumers. We request you allow us to occasionally survey you after you use the app so we can better research product use.<br><br>DISCLAIMER<br>The videos included within this app are intended for clinicians working within the emergency department. Videos contain clear images of surgical procedures which non-medical viewers may find disturbing.All information on the Site and mobile application have been provided in good faith based on extensive evidence review and peer review. This information is for general information purposed and must be tailored to specific patient. Do not perform these procedures unless you are a trained health professional. Seek a doctor\u2019s advice in addition to using this app and before making any medical decisions.",
+    "summary": "Open access emergency procedures videos.",
+    "installs": "5,000+",
+    "minInstalls": 5000,
+    "realInstalls": 7361,
+    "score": 0,
+    "ratings": 0,
+    "reviews": 0,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Emergency Procedures",
+    "developerId": "Emergency+Procedures",
+    "developerEmail": "malhar@emergencyprocedures.org",
+    "developerWebsite": "https://emergencyprocedures.org",
+    "developerAddress": null,
+    "privacyPolicy": "https://emergencyprocedures.org/privacy-policy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/WRbVTvIfMfPh1BONTQ4LGzXpnbpbEYK8FnYyQdHAaIGiGB3PxSNdpmReNbN9LTeqZ2EA",
+    "headerImage": "https://play-lh.googleusercontent.com/61U6SU0Z1K9r0at4a2fiKNHl7ScT087mIPBX7GzZMhFadWcfO-AlaAMszeJMsLm9hQ",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/jYSrPATqjPI4z5T1LCQDfloVWNrzJn-2JYvMJNMR-QCrMnlBMc3i67EDdWu3kJOHGgo",
+        "https://play-lh.googleusercontent.com/421eemJ1eK1CLogknV-rvpjcOJih9jlqQpEUyrEkNdwQujQMhncPIgyhhkBec-zrfrA",
+        "https://play-lh.googleusercontent.com/ww1ngChTYO3umZUlW8Nm_ecoiGL8EnxJN6Rw2XhY3SNk0SSNxjYxVI_HNOsXOCO66A"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Feb 20, 2023",
+    "lastUpdatedOn": "Mar 4, 2023",
+    "updated": 1677926074,
+    "version": "1.0.4",
+    "comments": [],
+    "appId": "com.mal92.emergencyprocedures",
+    "url": "https://play.google.com/store/apps/details?id=com.mal92.emergencyprocedures&hl=en&gl=us"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Bullets*",
+    "description": "The companion APP for Orthobullets.com and Medbullets.com.\r\n\r\nBullets* contains medbullets and orthobullets Topics, Questions, Techniques, Cases, Videos, and Evidence. Our Testmaster allows you to create, take, and review customized exams. Article links allows for quick review of scientific abstracts and often the PDF is provided and can be viewed on your phone. Our \"Home\" screen allows you to monitor a thread of educational activity within our community, and it can be filtered to only include your specialty of interest. All educational activity, including the Qbank, is synced with the main platform for seamless use on both your Android APP and computer.\r\n\r\nYou can earn CME by taking Self-Assessment Exams and contributing to our free collaboration community by posting educational comments with scientific references as part of our Point of Care Learning (PoCL) activity. All CME Study Plan examinations can be taken on the phone and can be found on your CME Dashboard.\r\n\r\nResidents on the PASS institutional platform can take PASS exams, complete their PASS Skillmaster learning modules, and submit both Rotation and Milestone Skill Evaluations to faculty. Faculty members using PASS Pro 2.0 can grade Rotation Evaluations and Milestone Skill Evaluations on the APP, eliminating the need to log in with each evaluation.",
+    "descriptionHTML": "The companion APP for Orthobullets.com and Medbullets.com.<br><br>Bullets* contains medbullets and orthobullets Topics, Questions, Techniques, Cases, Videos, and Evidence. Our Testmaster allows you to create, take, and review customized exams. Article links allows for quick review of scientific abstracts and often the PDF is provided and can be viewed on your phone. Our &quot;Home&quot; screen allows you to monitor a thread of educational activity within our community, and it can be filtered to only include your specialty of interest. All educational activity, including the Qbank, is synced with the main platform for seamless use on both your Android APP and computer.<br><br>You can earn CME by taking Self-Assessment Exams and contributing to our free collaboration community by posting educational comments with scientific references as part of our Point of Care Learning (PoCL) activity. All CME Study Plan examinations can be taken on the phone and can be found on your CME Dashboard.<br><br>Residents on the PASS institutional platform can take PASS exams, complete their PASS Skillmaster learning modules, and submit both Rotation and Milestone Skill Evaluations to faculty. Faculty members using PASS Pro 2.0 can grade Rotation Evaluations and Milestone Skill Evaluations on the APP, eliminating the need to log in with each evaluation.",
+    "summary": "An education and collaboration platform for physicians and medical students.",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "realInstalls": 149128,
+    "score": 4.3469386,
+    "ratings": 923,
+    "reviews": 15,
+    "histogram": [
+        56,
+        56,
+        56,
+        94,
+        659
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Orthobullets & Medbullets",
+    "developerId": "Orthobullets+%26+Medbullets",
+    "developerEmail": "info@orthobullets.com",
+    "developerWebsite": "http://www.orthobullets.com",
+    "developerAddress": "631 Chapala St. Santa Barbara, CA 93101",
+    "privacyPolicy": "http://www.orthobullets.com/privacy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/7nA1mg3AOuH2DvBOyL6Z9EEw5U_cI95p-67V4zKyHo78LBZ7lKjU_4QHeFjxOOiQjFI",
+    "headerImage": "https://play-lh.googleusercontent.com/-BMLSir6AiBE4jsYISDGfXwsk2-3mlOCkJeQJEVGOqYDflfS7-4kPDoyWloSCdv6pg",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/43w7UA52N1dcI6d-JvvFHyT2bcxw7iMt4V1_qJ44LYhynbp5yPOWbPv_2lpR1f7zkL3w",
+        "https://play-lh.googleusercontent.com/IU7N4DURkhJ_5Gfe7KzuiVADryUGcZeY3eO2GqLwSpZGVL0BWTD7m5oqE2MupAVYYTs",
+        "https://play-lh.googleusercontent.com/ytLNPbE7WYhVp1LrAIkTbrB2xZZmYeKb9lymHV_bW32ISKvoXDDfJ9aQIooizR5WPK8",
+        "https://play-lh.googleusercontent.com/7FYLFJE1R9gSe88mc6mRqgSK80dy_MzuuH1hN5gGeQcMp1kusIt0PYknY9E1fUM06w"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Apr 18, 2016",
+    "lastUpdatedOn": "Oct 30, 2024",
+    "updated": 1730275908,
+    "version": "2.35.0",
+    "comments": [],
+    "appId": "com.orthobullets.Bullets",
+    "url": "https://play.google.com/store/apps/details?id=com.orthobullets.Bullets&hl=en&gl=us"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Radiology Group Patient",
+    "description": "The Radiology Group Patient App is used by patients to securely access images and reports for medical imaging examinations performed at any of our Radiology Group practices - High Street Medical Imaging, Emerton Medical Imaging, Blacktown Medical Imaging, Carlingford Medical Imaging, Belmont Medical Imaging, Toronto Medical Imaging and Chatswood Infinity Medical Imaging (Coming Soon).\r\n\r\n\r\n\r\nThe App also allows our patients to request appointments at any of our sites. \r\n\r\n\r\nWhen you attend for your appointment and are registered on our system, you will receive an SMS message containing a link to a registration instructions page with an activation code. You will need to use this code to activate your account and set a password.\u202f \r\n\r\nYou can also access your account using your fingerprint, facial recognition or a PIN if your device supports these. You will be able to use your account to access to all future studies performed at Radiology Group Practice.\r\n\r\nThe 'Request an Appointment' feature allows you to organise a visit to one of our practices. Please enter details of the imaging required and take a photo of the referral form filled out by your doctor to submit. Our friendly staff will contact you to organise and confirm the appointment. \r\n\r\nIf you need assistance with the Radiology Group Patient App please email support@radiologygroup.com.au with a description of the problem and we will contact you promptly.\r\n\r\nPlease Note: Your doctor will be able to access your images and report as soon as they are available. You should always return to your doctor discuss your results with your doctor.",
+    "descriptionHTML": "The Radiology Group Patient App is used by patients to securely access images and reports for medical imaging examinations performed at any of our Radiology Group practices - High Street Medical Imaging, Emerton Medical Imaging, Blacktown Medical Imaging, Carlingford Medical Imaging, Belmont Medical Imaging, Toronto Medical Imaging and Chatswood Infinity Medical Imaging (Coming Soon).<br><br><br><br>The App also allows our patients to request appointments at any of our sites. <br><br><br>When you attend for your appointment and are registered on our system, you will receive an SMS message containing a link to a registration instructions page with an activation code. You will need to use this code to activate your account and set a password.\u202f <br><br>You can also access your account using your fingerprint, facial recognition or a PIN if your device supports these. You will be able to use your account to access to all future studies performed at Radiology Group Practice.<br><br>The &#39;Request an Appointment&#39; feature allows you to organise a visit to one of our practices. Please enter details of the imaging required and take a photo of the referral form filled out by your doctor to submit. Our friendly staff will contact you to organise and confirm the appointment. <br><br>If you need assistance with the Radiology Group Patient App please email support@radiologygroup.com.au with a description of the problem and we will contact you promptly.<br><br>Please Note: Your doctor will be able to access your images and report as soon as they are available. You should always return to your doctor discuss your results with your doctor.",
+    "summary": "Fast, secure access to images & reports. Request a booking at Radiology Group",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "realInstalls": 35079,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Zed Technologies",
+    "developerId": "Zed+Technologies",
+    "developerEmail": "support@radiologygroup.com.au",
+    "developerWebsite": "https://radiologygroup.com.au/",
+    "developerAddress": null,
+    "privacyPolicy": "https://zedtechnologies.com.au/docs/privacy_policy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/IYuSbm-zL0L-gdPqvlKFf7kKCx5Im-IUcZTXfoMoYnZ_DuixLBQdbBIdVZQA0Vu_uhI",
+    "headerImage": "https://play-lh.googleusercontent.com/9GuVMXABA5qiaOwHqOGpRKHaOjUTJe_BdHgIqD5IpdsBoApUkmnHjmWbVjvQQK0cYrE",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/VMFankL96YRwjWlz3YmDYWotWaEnT8NL2aO9b0ZYDCQdWAK2t89kdSJQTrH2runUINM",
+        "https://play-lh.googleusercontent.com/Qbf4jJaplm7Ch7clY2bx55vytA14IWVpWWwvcFGT9LU_19ENgGSHvmNp0TDzbcjsdQ",
+        "https://play-lh.googleusercontent.com/L8_by4F3A6NogQuSvamXnYT6lq26Haab6t1yus95TaIrE7F_5TZBjOLKPHdQKVma9P4",
+        "https://play-lh.googleusercontent.com/coGpUO7Yck6G4QJtLggWzLMbp7S-paiqMtQfbByGixX4CO7vUY4aenyyEGQ4O9E6-s4"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Mar 1, 2020",
+    "lastUpdatedOn": "Oct 21, 2024",
+    "updated": 1729555163,
+    "version": "61.3.3900",
+    "comments": [],
+    "appId": "com.zedtechnologies.radiologygroup.patient.droid",
+    "url": "https://play.google.com/store/apps/details?id=com.zedtechnologies.radiologygroup.patient.droid&hl=en&gl=us"
+}

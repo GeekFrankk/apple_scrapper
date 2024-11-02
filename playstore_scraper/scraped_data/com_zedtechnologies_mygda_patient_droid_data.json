@@ -1,0 +1,63 @@
+{
+    "title": "myRad",
+    "description": "The Apex Radiology Patient App is used by patients to securely access images and reports of scans performed at an Apex Radiology practice, and to also request appointments.\r\n\r\nWhen your results are ready to view, you will receive an SMS message containing a link to a registration instructions page with an activation code. You will need to use this code to activate your account and set a password. \r\n\r\nYou can also access your account using your fingerprint, facial recognition or a PIN if your device supports these. You will be able to use your account to access to all future studies performed at Apex Radiology.\r\n\r\nThe 'Request an Appointment' feature allows you to organise a visit to one of our practices. Please enter details of the imaging required and take a photo of the referral form filled out by your doctor to submit. Our friendly staff will contact you to organise and confirm the appointment.\r\n\r\nIf you need assistance with the Apex Radiology myRad Patient App please email\r\nmyrad@apexradiology.com.au with a description of the problem or call 1300 662 980.\r\n\r\nPlease Note: Your doctor will be able to access your images and report as soon as they are available. You should always return to your doctor discuss your results.\r\n2,769",
+    "descriptionHTML": "The Apex Radiology Patient App is used by patients to securely access images and reports of scans performed at an Apex Radiology practice, and to also request appointments.<br><br>When your results are ready to view, you will receive an SMS message containing a link to a registration instructions page with an activation code. You will need to use this code to activate your account and set a password. <br><br>You can also access your account using your fingerprint, facial recognition or a PIN if your device supports these. You will be able to use your account to access to all future studies performed at Apex Radiology.<br><br>The &#39;Request an Appointment&#39; feature allows you to organise a visit to one of our practices. Please enter details of the imaging required and take a photo of the referral form filled out by your doctor to submit. Our friendly staff will contact you to organise and confirm the appointment.<br><br>If you need assistance with the Apex Radiology myRad Patient App please email<br>myrad@apexradiology.com.au with a description of the problem or call 1300 662 980.<br><br>Please Note: Your doctor will be able to access your images and report as soon as they are available. You should always return to your doctor discuss your results.<br>2,769",
+    "summary": "Apex Radiology Patient App.",
+    "installs": "50,000+",
+    "minInstalls": 50000,
+    "realInstalls": 65159,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Integral Diagnostics Ltd",
+    "developerId": "Integral+Diagnostics+Ltd",
+    "developerEmail": "myrad@apexradiology.com.au",
+    "developerWebsite": null,
+    "developerAddress": "Level 8, 14 - 20\nBlackwood Street\nNorth Melbourne, Victoria 3051\nAustralia",
+    "privacyPolicy": "https://zedtechnologies.com/docs/privacy_policy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/lo8UZL7UJEn4FY4BA7ILYX7Je8zgxglaYj6dJ51xApfUkQU1iUCIbr7SPqkNGOBpcEUr",
+    "headerImage": "https://play-lh.googleusercontent.com/rcJ5S0qYDVBehF9sh4Wmv92Ls2J4HQLoC73173oTiyVlQncEdV3QudQnyksdS9ruUJU",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/x8zxnDMmWCmGi_CJRIE8wQD0MkHlKtstXDqcIRwNr42D6AcXKLo0VOnWog-GjnMmFA",
+        "https://play-lh.googleusercontent.com/3muJeSm9NY_pDg_j9UHOODx_WqHvz9juZsssKdN0zv6JWjuaNXf36SbMno0UwrMg3Q",
+        "https://play-lh.googleusercontent.com/xIj8chUaNDr9BuGAA5XHt_SDYKGzcY9G1_L47m55XNgawi1wph3bffgUgLFtj4QUaQ",
+        "https://play-lh.googleusercontent.com/YSYRjeuCUiUCyBF7odW7tJmWSPr87tCkMWwFPRaE3kAkrITge-cmu67U2OoTsDUw3is"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Oct 8, 2019",
+    "lastUpdatedOn": "Oct 21, 2024",
+    "updated": 1729550781,
+    "version": "61.3.3900",
+    "comments": [],
+    "appId": "com.zedtechnologies.mygda.patient.droid",
+    "url": "https://play.google.com/store/apps/details?id=com.zedtechnologies.mygda.patient.droid&hl=en&gl=us"
+}

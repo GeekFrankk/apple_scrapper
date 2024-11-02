@@ -1,0 +1,63 @@
+{
+    "title": "Modivcare",
+    "description": "This app is available to members with participating benefit plans.\r\n\r\nThe Modivcare app is an easy, convenient and accessible way to schedule and manage all of your Modivcare non-emergency transportation needs. No need to call a care center.\r\n\r\nFor eligible members who drive themselves to appointments, they can submit their claims for Mileage Reimbursement.\r\n\r\nExisting Member Services Website accounts will not work logging in.",
+    "descriptionHTML": "This app is available to members with participating benefit plans.<br><br>The Modivcare app is an easy, convenient and accessible way to schedule and manage all of your Modivcare non-emergency transportation needs. No need to call a care center.<br><br>For eligible members who drive themselves to appointments, they can submit their claims for Mileage Reimbursement.<br><br>Existing Member Services Website accounts will not work logging in.",
+    "summary": "Modivcare members can book and manage trips.",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "realInstalls": 289707,
+    "score": 4.4755855,
+    "ratings": 14949,
+    "reviews": 6091,
+    "histogram": [
+        659,
+        249,
+        989,
+        2469,
+        10578
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Modivcare",
+    "developerId": "Modivcare",
+    "developerEmail": "ITApplicationSupport@modivcare.com",
+    "developerWebsite": "https://modivcare.com/",
+    "developerAddress": null,
+    "privacyPolicy": "https://www.modivcare.com/privacy-notice",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/LbG5oL97PTodhrQH3eUe4_pTuw6izK3PMQ3_O1s6MceTncpEK294RdpDsanRRiharBs",
+    "headerImage": "https://play-lh.googleusercontent.com/2fH22AT5fXOJJGPKjqUOt4-w1vB7piGqcIszVbA4JXoo3rb-pPk3aRx3_jFcTdHJZaI",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/P-CgRgSqg-wTiJqX8Y64qpVplN0Z_sFs9Ib_qRgK8R68JMjJv6kg_wYkDCAykPH27I4",
+        "https://play-lh.googleusercontent.com/gwt5dNLm9J7x6yf-9hxpXuwdm3WeOls3qKdX5asxrp3PWoqPh567NeUil1Jx3Q18Sco",
+        "https://play-lh.googleusercontent.com/yC2QkMxyo8x2TTeQTRoD0ruJPj6EVW234wbZilYoMRCiT6LrNZdWUyK3dWE8oz2e2go",
+        "https://play-lh.googleusercontent.com/7TZcPdIDMj0Xt4_UUb1tCCJOYg7dBjXP4Tmzm3mW-HNalyyWgVhZ7MjxXhsKC6dTBDk"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Aug 4, 2021",
+    "lastUpdatedOn": "Sep 23, 2024",
+    "updated": 1727127433,
+    "version": "1.3.30",
+    "comments": [],
+    "appId": "com.modivcareriderapp",
+    "url": "https://play.google.com/store/apps/details?id=com.modivcareriderapp&hl=en&gl=us"
+}

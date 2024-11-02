@@ -1,0 +1,62 @@
+{
+    "title": "ESC Congress 2024",
+    "description": "Everything you need to make the most of your ESC Congress 2024 experience in London. Access the programme, the list of speakers, the floorplan, the list of exhibitors and the latest news whenever you need them.",
+    "descriptionHTML": "Everything you need to make the most of your ESC Congress 2024 experience in London. Access the programme, the list of speakers, the floorplan, the list of exhibitors and the latest news whenever you need them.",
+    "summary": "ESC Congress 2024 at your fingertips \u2013 browse the programme and exhibitors",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "realInstalls": 4873,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "European Society of Cardiology",
+    "developerId": "8971918857989287581",
+    "developerEmail": "congress@escardio.org",
+    "developerWebsite": "https://www.escardio.org/Congresses-Events/ESC-Congress",
+    "developerAddress": "The European Heart House\n2035 Route des Colles\n06903 SOPHIA ANTIPOLIS\nFrance",
+    "privacyPolicy": "https://legal.shapper.com/?app=a26e6958cd575e3fc2d79236511c80af",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/6IOOzCXbiGb5ZU8DZOIPYfcWG7rMalu2nxgxnO2PXzA5LcNkxnk9RElpzNQ59X-p54c",
+    "headerImage": "https://play-lh.googleusercontent.com/A9ZDX468rt-WzrwwP3T1b18-4BgvtjcX8ici2if_u77XYyHYP1qXhUObo9SWh-W0LRg",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/gD4XMtTmCUu7laaLtJjwgMhBkiGTSrxxiY0CZ6nOnak9gdk0QMoZFOKH0QW33cWxig",
+        "https://play-lh.googleusercontent.com/jq1zdhfeXXXRKewUtHgNAOf_tGDaIirTc4KQdTuHBk-rkk9Q3hp5etlDY6zSeJRAass",
+        "https://play-lh.googleusercontent.com/WgtCEJ23ewf-4rSSit2FGOgX7m-emNcM-U6R5W8NGXUJRQmYDWfvMeExhG_NW45GVpU"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Jun 13, 2024",
+    "lastUpdatedOn": "Aug 29, 2024",
+    "updated": 1724947272,
+    "version": "1.0.12",
+    "comments": [],
+    "appId": "com.shapper.esccongress2024",
+    "url": "https://play.google.com/store/apps/details?id=com.shapper.esccongress2024&hl=en&gl=us"
+}

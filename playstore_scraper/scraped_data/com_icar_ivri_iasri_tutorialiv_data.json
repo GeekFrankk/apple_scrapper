@@ -1,0 +1,61 @@
+{
+    "title": "Animal Genetics & Breeding",
+    "description": "The IVRI-Animal Genetics and Breeding Tutorial App, designed and developed by ICAR-IVRI, Izatnagar, UP, and IASRI, New Delhi is basically a Multiple Choice Questions (MCQ) based Drill and Practice educational learning tool targeted to impart knowledge and skills to students in the area of Animal Genetics and Breeding.\r\n    The app will be useful for the students enrolled in  PG degree programs in various Animal Genetics and Breeding disciplines in various universities and colleges across the country. It will also be useful for students preparing for various competitive exams.\r\n    IVRI-Animal Genetics and Breeding Tutorial App contain a total of 9 topics covering the entire gamut of the course. Each topic is divided into three difficulty levels with a set of questions in each.\r\n        Level-I (Easy Questions),\r\n        Level \u2013II (Moderately Difficult Questions),\r\n        Level-III (Difficult Questions).\r\n        Students can use the app to assess their level of knowledge and competency in the course.",
+    "descriptionHTML": "The IVRI-Animal Genetics and Breeding Tutorial App, designed and developed by ICAR-IVRI, Izatnagar, UP, and IASRI, New Delhi is basically a Multiple Choice Questions (MCQ) based Drill and Practice educational learning tool targeted to impart knowledge and skills to students in the area of Animal Genetics and Breeding.<br>    The app will be useful for the students enrolled in  PG degree programs in various Animal Genetics and Breeding disciplines in various universities and colleges across the country. It will also be useful for students preparing for various competitive exams.<br>    IVRI-Animal Genetics and Breeding Tutorial App contain a total of 9 topics covering the entire gamut of the course. Each topic is divided into three difficulty levels with a set of questions in each.<br>        Level-I (Easy Questions),<br>        Level \u2013II (Moderately Difficult Questions),<br>        Level-III (Difficult Questions).<br>        Students can use the app to assess their level of knowledge and competency in the course.",
+    "summary": "IVRI-Animal Genetics and Breeding Tutorial App",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "realInstalls": 2583,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "ICAR-IASRI",
+    "developerId": "ICAR-IASRI",
+    "developerEmail": "kvkportal123@gmail.com",
+    "developerWebsite": "https://iasri.icar.gov.in/",
+    "developerAddress": null,
+    "privacyPolicy": "https://iasri.icar.gov.in/privacy_policy.aspx",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "categories": [
+        {
+            "name": "Education",
+            "id": "EDUCATION"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/tsbcWPBBTzMp37Nd9cPERIQVGV-wAU3ydUn0AtL5a8mnRFYC4OMjIC-iLZLe7Kkd8I76",
+    "headerImage": "https://play-lh.googleusercontent.com/GAHuVJ0XFP8b_l5jk7F1Mn8QQrt_XWhOAbfwAR4E4OxO2G9DqEghqc3mcrIAbzNthA",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/PGf8w3hD9QYuND4wHSb7ZHlF2cWs2q9gx-1ZeN4uBPg-SDqDgnK6rjBdrk3E_cMfqg",
+        "https://play-lh.googleusercontent.com/_dmqGLTpcF9n6sMzF_4AhlDkSIyJD2LFygGq804I5rVLO4KiRKyJuFb40Ss4fffhrQ"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Sep 13, 2022",
+    "lastUpdatedOn": "Sep 13, 2022",
+    "updated": 1663065701,
+    "version": "1.2",
+    "comments": [],
+    "appId": "com.icar.ivri.iasri.tutorialiv",
+    "url": "https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialiv&hl=en&gl=us"
+}

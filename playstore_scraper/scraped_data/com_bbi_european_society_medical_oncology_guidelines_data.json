@@ -5,16 +5,16 @@
     "summary": "Oncology guidelines available directly on your mobile device",
     "installs": "10,000+",
     "minInstalls": 10000,
-    "realInstalls": 41616,
+    "realInstalls": 41664,
     "score": 3.9333334,
-    "ratings": 639,
+    "ratings": 642,
     "reviews": 4,
     "histogram": [
         85,
         0,
-        127,
+        128,
         85,
-        340
+        342
     ],
     "price": 0,
     "free": true,

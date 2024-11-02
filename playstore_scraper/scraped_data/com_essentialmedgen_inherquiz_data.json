@@ -1,0 +1,62 @@
+{
+    "title": "Genetic Inheritance Quiz A",
+    "description": "A free app (which is the first one of a set) providing an easy-to-use self-assessment quiz. It tests knowledge of the commonest inheritance mechanism or mode, in the UK, for each of 15 \"single-gene\" Mendelian and mitochondrial disorders that may be learned at university.  After taking the quiz, a score is awarded & the correct answers are listed for each question that was answered incorrectly. Due to the overlap between X-linked recessive and X-linked dominant modes, these conditions are classed together in the app as \"X-linked\", as in many current reference sources.\r\n\r\nThe app was created by both Edward and Adam Tobias. It was produced to help Glasgow University students (UK), by accompanying Prof Tobias's Medical Genetics textbooks (including \"Essential Medical Genetics\" and \"Medical Genetics for the MRCOG and Beyond\") and his educational website (www.EuroGEMS.org). \r\n\r\nProf Tobias is a researcher, lecturer and clinical geneticist. He is honoured to be an invited member of the Education Committee of the European Society of Human Genetics (ESHG) and of the European Board of Medical Genetics.  \r\n\r\nMEDICAL DISCLAIMER:\r\n\r\nThis application is intended for use by students, to test their own knowledge of the commonest inheritance mechanisms of 15 selected conditions.\r\n\r\nThe application is for educational purposes only. The information and content is not intended and should not be construed as medical advice and it is not a substitute for medical advice from a doctor or professional health care provider. The accuracy of all the information contained within it cannot be guaranteed and the information should not be relied upon. \r\n\r\nUse of this application does not establish a doctor-patient relationship. You should consult a health care professional for any advice or guidance about a medical condition, including its diagnosis and its treatment and also for guidance on making any related reproductive decisions.",
+    "descriptionHTML": "A free app (which is the first one of a set) providing an easy-to-use self-assessment quiz. It tests knowledge of the commonest inheritance mechanism or mode, in the UK, for each of 15 &quot;single-gene&quot; Mendelian and mitochondrial disorders that may be learned at university.  After taking the quiz, a score is awarded &amp; the correct answers are listed for each question that was answered incorrectly. Due to the overlap between X-linked recessive and X-linked dominant modes, these conditions are classed together in the app as &quot;X-linked&quot;, as in many current reference sources.<br><br>The app was created by both Edward and Adam Tobias. It was produced to help Glasgow University students (UK), by accompanying Prof Tobias&#39;s Medical Genetics textbooks (including &quot;Essential Medical Genetics&quot; and &quot;Medical Genetics for the MRCOG and Beyond&quot;) and his educational website (www.EuroGEMS.org). <br><br>Prof Tobias is a researcher, lecturer and clinical geneticist. He is honoured to be an invited member of the Education Committee of the European Society of Human Genetics (ESHG) and of the European Board of Medical Genetics.  <br><br>MEDICAL DISCLAIMER:<br><br>This application is intended for use by students, to test their own knowledge of the commonest inheritance mechanisms of 15 selected conditions.<br><br>The application is for educational purposes only. The information and content is not intended and should not be construed as medical advice and it is not a substitute for medical advice from a doctor or professional health care provider. The accuracy of all the information contained within it cannot be guaranteed and the information should not be relied upon. <br><br>Use of this application does not establish a doctor-patient relationship. You should consult a health care professional for any advice or guidance about a medical condition, including its diagnosis and its treatment and also for guidance on making any related reproductive decisions.",
+    "summary": "MCQs to help students to learn inheritance mechanisms.",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "realInstalls": 1266,
+    "score": 0,
+    "ratings": 0,
+    "reviews": 0,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Edward Tobias & Adam Tobias",
+    "developerId": "Edward+Tobias+%26+Adam+Tobias",
+    "developerEmail": "edward.tobias@glasgow.ac.uk",
+    "developerWebsite": "http://www.EuroGEMS.org",
+    "developerAddress": null,
+    "privacyPolicy": "http://www.genomicsapps.org/privacy-policy.html",
+    "genre": "Education",
+    "genreId": "EDUCATION",
+    "categories": [
+        {
+            "name": "Education",
+            "id": "EDUCATION"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Qc-ZiifX6wUp-ebwC7oqHroo8S7myQSt1QeXiCwwq-zfpUch3R2KM2I3rfefQ0KKxCU",
+    "headerImage": "https://play-lh.googleusercontent.com/etYdZmjEOvMn_H1bDgXJMFMPoaoEEBKdwGTHYrlNgl_ECSNx-pw7pJI5gimNT3nKm1U",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/QyVSHlX1Hq-XIorX0Iuo4yxK1iLnv_IU7rL7gbmOIk57BxdAoHdQg2dO4FBd_73kKYo",
+        "https://play-lh.googleusercontent.com/YIqPkBy2977EJueYYc5PXpAz4F64ObaYoWwyy4GHHyLquuw_oLTmv3SCp-ZTpTrCBd1i",
+        "https://play-lh.googleusercontent.com/bUY3qQCjfMEtyYHWhanlnBWc5DsYf53e0W4eHxEqIw-_eu4ye7gKqcYTZjToM3aRow"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Oct 9, 2019",
+    "lastUpdatedOn": "Mar 29, 2024",
+    "updated": 1711711642,
+    "version": "1.8.8",
+    "comments": [],
+    "appId": "com.essentialmedgen.inherquiz",
+    "url": "https://play.google.com/store/apps/details?id=com.essentialmedgen.inherquiz&hl=en&gl=us"
+}

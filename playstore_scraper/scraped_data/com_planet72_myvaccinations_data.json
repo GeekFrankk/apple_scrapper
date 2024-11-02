@@ -1,0 +1,63 @@
+{
+    "title": "My Vaccinations Vaccine Record",
+    "description": "ATTENTION: My Vaccinations app can also be used for your pet.\r\n___________________________________\r\nMy Vaccinations app records any vaccine you have received since your birth. \r\nMy Vaccinations app is great for adults and kids for your entire vaccination history, not just for one types of vaccines. \r\nYou can manage, in a one place, any vaccine for yourself, for your children, your parent, your pet as your dog or your cat, etc. \r\nThis app can be used on any device (phone, tablet or pc) in a easy and modern way. \r\n\r\nContains great features most of which are free.\r\n\r\nWith My Vaccinations app you can also:\r\n- Backup/Restore your vaccine records on your personal Dropbox,\r\n- Synchronize your vaccine records between your devices where My Vaccinations app is installed,\r\n- Generate by one click a PDF report for your vaccine records and print it or send it to health professional.\r\n- Consult the history for any vaccination.\r\n- My Vaccinations app can support many persons (for example family members).\r\n\r\nEight reasons you will love this app:\r\n* All features in this app are free.\r\n* Record a vaccine within a short time.\r\n* Good organization of vaccine records.\r\n* Data are secured, encrypted and stored in your personal Dropbox account.\r\n* Easy and modern screens.\r\n* No login or creating an account is required to record a vaccine.\r\n* You are free to archive any number of vaccine. \r\n* It can be used for your pet with its own profile.\r\n\r\nInstall it now. We provide good support if you encounter any issues.",
+    "descriptionHTML": "ATTENTION: My Vaccinations app can also be used for your pet.<br>___________________________________<br>My Vaccinations app records any vaccine you have received since your birth. <br>My Vaccinations app is great for adults and kids for your entire vaccination history, not just for one types of vaccines. <br>You can manage, in a one place, any vaccine for yourself, for your children, your parent, your pet as your dog or your cat, etc. <br>This app can be used on any device (phone, tablet or pc) in a easy and modern way. <br><br>Contains great features most of which are free.<br><br>With My Vaccinations app you can also:<br>- Backup/Restore your vaccine records on your personal Dropbox,<br>- Synchronize your vaccine records between your devices where My Vaccinations app is installed,<br>- Generate by one click a PDF report for your vaccine records and print it or send it to health professional.<br>- Consult the history for any vaccination.<br>- My Vaccinations app can support many persons (for example family members).<br><br>Eight reasons you will love this app:<br>* All features in this app are free.<br>* Record a vaccine within a short time.<br>* Good organization of vaccine records.<br>* Data are secured, encrypted and stored in your personal Dropbox account.<br>* Easy and modern screens.<br>* No login or creating an account is required to record a vaccine.<br>* You are free to archive any number of vaccine. <br>* It can be used for your pet with its own profile.<br><br>Install it now. We provide good support if you encounter any issues.",
+    "summary": "Gives the power to record and track all your vaccines since your birth.",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "realInstalls": 19134,
+    "score": 3.7291667,
+    "ratings": 152,
+    "reviews": 35,
+    "histogram": [
+        34,
+        6,
+        3,
+        28,
+        79
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": true,
+    "inAppProductPrice": "$20.99 per item",
+    "developer": "planet72 Medical Health & Fitness",
+    "developerId": "planet72+Medical+Health+%26+Fitness",
+    "developerEmail": "wsoftone@gmail.com",
+    "developerWebsite": "https://planet72.com/myvaccinations",
+    "developerAddress": "canada",
+    "privacyPolicy": "https://planet72.com/myvaccinationsprivacy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/DBLmg09wyXz0tIR9bRyzV6k2cTobX7ZDhf_KpGSjiTlqGMxL6rEM-q52tfU9RSDyZ6c",
+    "headerImage": "https://play-lh.googleusercontent.com/WVFZFwnlF2tLjYVCDztdpw5loB-Fj78Jc8HB3Ek6y44P5XujT0X0CXikppXcyi79gw",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/LRE964dIvmTUXpekowVNsO8DgGFCdFvG1GCTU1DtZYI2ofV7A7MyPw96OnaBX9x6F0c",
+        "https://play-lh.googleusercontent.com/yJN-M8dYHT2IysoJp__qdK1g3AFDHPKWubh2z0aut4-YbuUkqykv7z_eMlay17O-5w",
+        "https://play-lh.googleusercontent.com/jLAXR8LSNUQYbg3Fh8vO1W14mTWJdV75yrn6Q6kZoNoCXJFlN0HJTCrRKXN-gc9YDw",
+        "https://play-lh.googleusercontent.com/dJ7tU9G0FIS_4CKcUhZjJB5Iz_V2L0EN3k4JLGxarhsfZrqUDt1im4KP_OFWkAX3DvU"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Apr 14, 2021",
+    "lastUpdatedOn": "Apr 14, 2024",
+    "updated": 1713108226,
+    "version": "8.0.3",
+    "comments": [],
+    "appId": "com.planet72.myvaccinations",
+    "url": "https://play.google.com/store/apps/details?id=com.planet72.myvaccinations&hl=en&gl=us"
+}

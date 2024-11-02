@@ -1,0 +1,63 @@
+{
+    "title": "Genomapp. Healthy Ethics.",
+    "description": "Genomapp helps you discover the information in your DNA by connecting it to reliable scientific sources. Our app analyzes direct-to-consumer genetic tests and presents the findings in a simple way.\r\n\r\n\r\nHave you taken a DNA test? Did you know your genome has a lot to say? Want to learn more about your DNA? It is easier than you think.\r\n\r\n\r\nIf you had your DNA tested by a DTC genetic testing provider such as 23andMe, AncestryDNA, FamilyTreeDNA (FTDNA), MyHeritage, Genes for Good, Living DNA, or Geno 2.0, you will have access to a file containing your genetic data (raw data file). When you process this file with Genomapp, our app matches the DNA you entered to a categorized list of conditions.\r\n\r\n\r\n*** Ready to start?\r\n\r\nGenomapp has a Demo mode. If you want to try the app or learn how it works you can access it and test a fully functional version of the app.\r\n\r\n\r\n*** What does Genomapp offer?  \r\n\r\nGenomapp offers 3 reports for free and 3 reports will be provided after payment.\r\n\r\n\r\n* Complex Diseases (Markers associated to multifactorial conditions that are the result of multiple genetic and environmental factors interacting.)\r\n\r\n\r\n* Inherited Conditions (Markers related to diseases that are caused by mutations in one gene)\r\n\r\n\r\n* Pharmacological response (Drug-Marker associations)\r\n\r\n\r\n* Traits (Characteristics or attributes expressed by genes and/or influenced by the environment)\r\n\r\n\r\n* Observable signs (Markers related to physical problems or signs that a person experiences)\r\n\r\n\r\n* Blood Groups (Markers related to antigenic diversity of human blood group systems)\r\n\r\n\r\n*** Not Diagnostic\r\n\r\nPlease note that Genomapp is NOT for diagnostic use, it does not provide medical advice and is not a substitute for it. Consult your health care professional if you have any questions.\r\n\r\n\r\n*** Privacy\r\n\r\nProtecting your privacy is Genomapp's primary concern.\r\nAt Genomapp we work for the people, we do not share genetic data with third parties and We do not trade on what is unique to each person.\r\nYour data remains in your device and is not stored or uploaded to our servers.\r\n\r\n*** Certification\r\n\r\nThe app has been reviewed by mHealth.cat Office (TIC Salut Social Fundation). This means that the quality of the content and the usefulness of the functions it incorporates have been evaluated and that it meets the quality and reliability requirements.\r\n\r\n*** Our Database\r\n\r\nGenomapp's search engine allows you to search our database of more than 9500 conditions, 12400 genes and 180000 markers. We have the most comprehensive list of diseases from official scientific sources, including breast cancer, Alzheimer's and Parkinson's. We also have markers for tumor suppressor genes such as BRCA1/2, PTEN and P53.\r\n\r\n\r\n*** Easy to understand\r\n\r\nGenomapp displays information of your DNA markers in a friendly and easy to understand way. Export your personalized genetic reports to PDF and take them everywhere.\r\n\r\n\r\n*** Your DNA test provider is not on our list?\r\n\r\nWe are constantly adding support for new DNA test providers. In addition to files from the most popular DTC genetic testing companies such as 23andMe or AncestryDNA, Genomapp supports genetic data files in VCF format and files with a specific scheme. Currently, VCF files from WES/WGS are not compatible with Genomapp.\r\n\r\nTry Genomapp now!",
+    "descriptionHTML": "Genomapp helps you discover the information in your DNA by connecting it to reliable scientific sources. Our app analyzes direct-to-consumer genetic tests and presents the findings in a simple way.<br><br><br>Have you taken a DNA test? Did you know your genome has a lot to say? Want to learn more about your DNA? It is easier than you think.<br><br><br>If you had your DNA tested by a DTC genetic testing provider such as 23andMe, AncestryDNA, FamilyTreeDNA (FTDNA), MyHeritage, Genes for Good, Living DNA, or Geno 2.0, you will have access to a file containing your genetic data (raw data file). When you process this file with Genomapp, our app matches the DNA you entered to a categorized list of conditions.<br><br><br>*** Ready to start?<br><br>Genomapp has a Demo mode. If you want to try the app or learn how it works you can access it and test a fully functional version of the app.<br><br><br>*** What does Genomapp offer?  <br><br>Genomapp offers 3 reports for free and 3 reports will be provided after payment.<br><br><br>* Complex Diseases (Markers associated to multifactorial conditions that are the result of multiple genetic and environmental factors interacting.)<br><br><br>* Inherited Conditions (Markers related to diseases that are caused by mutations in one gene)<br><br><br>* Pharmacological response (Drug-Marker associations)<br><br><br>* Traits (Characteristics or attributes expressed by genes and/or influenced by the environment)<br><br><br>* Observable signs (Markers related to physical problems or signs that a person experiences)<br><br><br>* Blood Groups (Markers related to antigenic diversity of human blood group systems)<br><br><br>*** Not Diagnostic<br><br>Please note that Genomapp is NOT for diagnostic use, it does not provide medical advice and is not a substitute for it. Consult your health care professional if you have any questions.<br><br><br>*** Privacy<br><br>Protecting your privacy is Genomapp&#39;s primary concern.<br>At Genomapp we work for the people, we do not share genetic data with third parties and We do not trade on what is unique to each person.<br>Your data remains in your device and is not stored or uploaded to our servers.<br><br>*** Certification<br><br>The app has been reviewed by mHealth.cat Office (TIC Salut Social Fundation). This means that the quality of the content and the usefulness of the functions it incorporates have been evaluated and that it meets the quality and reliability requirements.<br><br>*** Our Database<br><br>Genomapp&#39;s search engine allows you to search our database of more than 9500 conditions, 12400 genes and 180000 markers. We have the most comprehensive list of diseases from official scientific sources, including breast cancer, Alzheimer&#39;s and Parkinson&#39;s. We also have markers for tumor suppressor genes such as BRCA1/2, PTEN and P53.<br><br><br>*** Easy to understand<br><br>Genomapp displays information of your DNA markers in a friendly and easy to understand way. Export your personalized genetic reports to PDF and take them everywhere.<br><br><br>*** Your DNA test provider is not on our list?<br><br>We are constantly adding support for new DNA test providers. In addition to files from the most popular DTC genetic testing companies such as 23andMe or AncestryDNA, Genomapp supports genetic data files in VCF format and files with a specific scheme. Currently, VCF files from WES/WGS are not compatible with Genomapp.<br><br>Try Genomapp now!",
+    "summary": "Reveal your genome. Analyze DNA raw data from 23andMe, Ancestry and many others.",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "realInstalls": 110540,
+    "score": 4.67,
+    "ratings": 863,
+    "reviews": 145,
+    "histogram": [
+        25,
+        15,
+        25,
+        77,
+        715
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": true,
+    "inAppProductPrice": "$0.99 - $19.99 per item",
+    "developer": "RF Developments",
+    "developerId": "RF+Developments",
+    "developerEmail": "ruben@rfdevelopments.com",
+    "developerWebsite": "http://rfdevelopments.com",
+    "developerAddress": "C/Fuencarral 156\nMadrid",
+    "privacyPolicy": "http://genomapp.com/privacy/",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "categories": [
+        {
+            "name": "Health & Fitness",
+            "id": "HEALTH_AND_FITNESS"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/cgPQ65GwYUJgJNewMDFqTbE8-NBPw4uw_D3mt_GpNjfVBigFrIIKXtCRvvaj9-vjr78",
+    "headerImage": "https://play-lh.googleusercontent.com/Xy9cANmq6TfmfabgZiV1LNjITKBN0si2QcL_ShufzKDBKI8zrj3fcNXupmtBCsfuZwE",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/4N7c-Rrle6bv8BlsnM5vH7z82oaQG0o1RpokM2rCCn2EQL2b1uw98F17SRBGlRbpEaCG",
+        "https://play-lh.googleusercontent.com/511C79MWpEPLS74a_U9ZqL7BDD3EMbpP4_-fAwoNiKB9CKt_NnQ6A-2AkX7Jxt57PA",
+        "https://play-lh.googleusercontent.com/07sw5BfVFUP_xJVvs4KjV7LpnTPPy86-DbBVoK_wlD1h-BsAiA2B3yAlKjU41net2G0",
+        "https://play-lh.googleusercontent.com/ToYRa3Ikrqig2JvdxcLgBeI1-vIDldduIP9obgbvCSWRW7rLltY5xf6XvhfB62ubc9A"
+    ],
+    "video": "https://www.youtube.com/embed/BrwHzABTYmo?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/Xy9cANmq6TfmfabgZiV1LNjITKBN0si2QcL_ShufzKDBKI8zrj3fcNXupmtBCsfuZwE",
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Nov 1, 2015",
+    "lastUpdatedOn": "Oct 26, 2024",
+    "updated": 1729948621,
+    "version": "8.271",
+    "comments": [],
+    "appId": "com.rfdevelopments.genomapp",
+    "url": "https://play.google.com/store/apps/details?id=com.rfdevelopments.genomapp&hl=en&gl=us"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "PlushCare: Online Doctor",
+    "description": "About this app: \r\nConnect with an online doctor or virtual therapist with the PlushCare app. We offer access to top-quality, board-certified virtual primary care and mental health professionals across the U.S. in all 50 states. Our team of 100+ physicians and employees' mission is to help everyone live a longer, healthier, and happier life.\r\n \r\nExpertise and Achievements\r\nWe select doctors from the top 50 U.S. medical institutions to ensure patients get the best care possible. Every physician and therapist undergo an extensive interview process and is U.S. board-certified.\r\n\r\nHolistic patient-centered care\r\nOur app focuses on treating the whole patient with our staff of medical professionals, dietitians, nurses, coaches, and programs comprehensively addressing all aspects of your health. We can refer you to in-network providers and care facilities if in-person care is necessary. \r\n\r\nHealthcare Services\r\nOur care team is here for you and your family (ages 3+ for most services). We offer wellness visits, urgent care, chronic care management, and mental health services from COVID testing and UTI medication to cancer screening, A1C checks, online therapy, and mental health medication.\r\n\r\nAppointments are available daily with board-certified doctors for everyday issues, including:\r\nAllergies\r\nCold, strep, sinus infections, and flu symptoms\r\nCOVID-19 treatment\r\nEar infections \r\nPink eye\r\nSexually Transmitted Infections (STIs)\r\nDigestive issues\r\nUrinary tract and bladder infections\r\n\r\nChronic care management includes identifying and managing chronic health issues, including:\r\nDiabetes \r\nHigh Blood Pressure\r\nHeart Disease\r\nAsthma\r\nArthritis \r\nOsteoporosis\r\nMigraines\r\nIrritable Bowel Syndrome (IBS)\r\nCrohn's Disease\r\n\r\nOur online therapy and mental health support programs include the following:\r\nAnxiety\r\nDepression\r\nTrauma\r\nGrief\r\n\r\nMedical Weight loss programs are also available and will collect the following information: \r\nMedical history is taken\r\nBody mass index (BMI) is calculated\r\nBlood testing is done\r\n\r\nInsurance coverage\r\nWe work with most major insurance carriers to provide coverage when you need it most. Most patients with in-network insurance pay $30 or less.\r\n\r\nPrivacy and Security\r\nYour privacy and keeping your information secure is our top priority. To protect patients' sensitive health information, we conduct the following:\r\nHIPAA Compliance: includes implementing technical, administrative, and physical safeguards to protect patient information.\r\nSecure Data Transmission: We use secure communication platforms and encrypted methods to transmit sensitive patient data.\r\n\r\nAccess Control: We have implemented authentication and access control to ensure robust authentication methods to verify the identity of patients and medical professionals accessing the system. \r\nData Encryption: All patient data, whether at rest or in transit, is encrypted to prevent unauthorized access.\r\nProtected Data Storage: Patient data is stored in secure, protected environments, such as HIPAA-compliant cloud storage services, with access controls and audit trails in place.\r\n3rd Party Vendor Security Standards: 3rd party vendors also adhere to privacy and security standards. This includes signing agreements that outline how patient data will be handled and protected.\r\n\r\nVideo Consultation Permissions: We ask for camera and audio permissions (CAMERA and RECORD_AUDIO) to facilitate video and audio consultations when a patient arranges a telehealth appointment.\r\n\r\nFile Upload Permissions: We request file storage permissions (READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE) to enable uploading photos or files, allowing patients to share documents with their medical team or save important information.\r\n\r\nBluetooth Access: We ask for Bluetooth permissions (BLUETOOTH/BLUETOOTH_ADMIN) to enable the usage of external microphones or headphones for your appointment.\r\n\r\nCOVID-19 Data Usage: PlushCare only uses the personal data it acquires for COVID-19-related purposes in conjunction with its app\u2019s user-facing purpose.",
+    "descriptionHTML": "About this app: <br>Connect with an online doctor or virtual therapist with the PlushCare app. We offer access to top-quality, board-certified virtual primary care and mental health professionals across the U.S. in all 50 states. Our team of 100+ physicians and employees&#39; mission is to help everyone live a longer, healthier, and happier life.<br> <br>Expertise and Achievements<br>We select doctors from the top 50 U.S. medical institutions to ensure patients get the best care possible. Every physician and therapist undergo an extensive interview process and is U.S. board-certified.<br><br>Holistic patient-centered care<br>Our app focuses on treating the whole patient with our staff of medical professionals, dietitians, nurses, coaches, and programs comprehensively addressing all aspects of your health. We can refer you to in-network providers and care facilities if in-person care is necessary. <br><br>Healthcare Services<br>Our care team is here for you and your family (ages 3+ for most services). We offer wellness visits, urgent care, chronic care management, and mental health services from COVID testing and UTI medication to cancer screening, A1C checks, online therapy, and mental health medication.<br><br>Appointments are available daily with board-certified doctors for everyday issues, including:<br>Allergies<br>Cold, strep, sinus infections, and flu symptoms<br>COVID-19 treatment<br>Ear infections <br>Pink eye<br>Sexually Transmitted Infections (STIs)<br>Digestive issues<br>Urinary tract and bladder infections<br><br>Chronic care management includes identifying and managing chronic health issues, including:<br>Diabetes <br>High Blood Pressure<br>Heart Disease<br>Asthma<br>Arthritis <br>Osteoporosis<br>Migraines<br>Irritable Bowel Syndrome (IBS)<br>Crohn&#39;s Disease<br><br>Our online therapy and mental health support programs include the following:<br>Anxiety<br>Depression<br>Trauma<br>Grief<br><br>Medical Weight loss programs are also available and will collect the following information: <br>Medical history is taken<br>Body mass index (BMI) is calculated<br>Blood testing is done<br><br>Insurance coverage<br>We work with most major insurance carriers to provide coverage when you need it most. Most patients with in-network insurance pay $30 or less.<br><br>Privacy and Security<br>Your privacy and keeping your information secure is our top priority. To protect patients&#39; sensitive health information, we conduct the following:<br>HIPAA Compliance: includes implementing technical, administrative, and physical safeguards to protect patient information.<br>Secure Data Transmission: We use secure communication platforms and encrypted methods to transmit sensitive patient data.<br><br>Access Control: We have implemented authentication and access control to ensure robust authentication methods to verify the identity of patients and medical professionals accessing the system. <br>Data Encryption: All patient data, whether at rest or in transit, is encrypted to prevent unauthorized access.<br>Protected Data Storage: Patient data is stored in secure, protected environments, such as HIPAA-compliant cloud storage services, with access controls and audit trails in place.<br>3rd Party Vendor Security Standards: 3rd party vendors also adhere to privacy and security standards. This includes signing agreements that outline how patient data will be handled and protected.<br><br>Video Consultation Permissions: We ask for camera and audio permissions (CAMERA and RECORD_AUDIO) to facilitate video and audio consultations when a patient arranges a telehealth appointment.<br><br>File Upload Permissions: We request file storage permissions (READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE) to enable uploading photos or files, allowing patients to share documents with their medical team or save important information.<br><br>Bluetooth Access: We ask for Bluetooth permissions (BLUETOOTH/BLUETOOTH_ADMIN) to enable the usage of external microphones or headphones for your appointment.<br><br>COVID-19 Data Usage: PlushCare only uses the personal data it acquires for COVID-19-related purposes in conjunction with its app\u2019s user-facing purpose.",
+    "summary": "Doctor Visit via Video. Prescriptions, Testing & Labs. Appointments Every 15 min",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "realInstalls": 270088,
+    "score": 4.6916428,
+    "ratings": 6925,
+    "reviews": 3103,
+    "histogram": [
+        418,
+        39,
+        59,
+        219,
+        6186
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Accolade, Inc.",
+    "developerId": "Accolade,+Inc.",
+    "developerEmail": "info@plushcare.com",
+    "developerWebsite": "https://www.plushcare.com",
+    "developerAddress": null,
+    "privacyPolicy": "https://plushcare.com/privacy/",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/np0gVb05I7ma5jq0rJy0q_MCb8Lm9Xa8_tBRiCt0gnsrWJBESR0BDk364ufE07Uu6-Q",
+    "headerImage": "https://play-lh.googleusercontent.com/ge5jk_p3yJDNuYKPW8_bHz_XdhkCdmcHgt2_LULiR-v-_SaoByXf_bhQoWJac4dJ1w",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/GNydJpRm9qG9xFibihpCM8Z0yjdfINFwlfDpPoNB9Ix0QejI3ZNfL940SPSW6gzessM",
+        "https://play-lh.googleusercontent.com/iZnffc0j6-OE1ezWSBgbwBQLulv0IOdI9DewulB6P-fDVbnOwdyAA-7IPq7BO4pb7Bs",
+        "https://play-lh.googleusercontent.com/QDPlprWzx3XdegYGBxhTapesdTQ6Fgdt2M9bPn6ugNonkN_XGvjngWVMyB-dlTJkkQ",
+        "https://play-lh.googleusercontent.com/fBdRNt4S17GwKUbCsf8brGMyiVbR0ICUf4MG1nKQ9NbTCtZfXUkPo-C2LwTTcfWloBQS"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Apr 1, 2016",
+    "lastUpdatedOn": "Oct 29, 2024",
+    "updated": 1730229121,
+    "version": "6.51.0",
+    "comments": [],
+    "appId": "com.plushcare.plushcare.prod",
+    "url": "https://play.google.com/store/apps/details?id=com.plushcare.plushcare.prod&hl=en&gl=us"
+}

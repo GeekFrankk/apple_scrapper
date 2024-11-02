@@ -1,0 +1,62 @@
+{
+    "title": "Dr Wise: Ophthalmology",
+    "description": "Gear up for a cutting-edge learning experience with Dr. Wise AI Chatbot. This extraordinary tool is designed to make learning hassle-free by providing instant solutions to your doubts.\r\nDr. Wise AI Chatbot is conceptualised to be the learning compass that guides you through your medical journey. It enables you to:\r\nSearch for relevant information with Personalised Assistance - Tailored exclusively for your medical needs, it provides relevant information and assistance.\r\nGet apt explanations from trusted resources \u2013 It is integrated with reliable sources to offer apt explanations of concepts, treatment modes, and more.\r\nUnlock fast search and optimise your time with rapid retrievals \u2013 It provides instant assistance with fast search capabilities while optimizing your time.\r\nFind reference images for clarity with visual exploration \u2013 It enables you to search visuals related to important topics or diseases for quick reference.\r\nBesides, it also allows you to follow up on your questions for more clarity and refer to the chat history in order to recall important details. \r\nDr. Wise AI Chatbot is beyond a personalized mentor and beyond a doubt-solving companion.\r\nSo, what are you waiting for?\r\nGet Started Now!",
+    "descriptionHTML": "Gear up for a cutting-edge learning experience with Dr. Wise AI Chatbot. This extraordinary tool is designed to make learning hassle-free by providing instant solutions to your doubts.<br>Dr. Wise AI Chatbot is conceptualised to be the learning compass that guides you through your medical journey. It enables you to:<br>Search for relevant information with Personalised Assistance - Tailored exclusively for your medical needs, it provides relevant information and assistance.<br>Get apt explanations from trusted resources \u2013 It is integrated with reliable sources to offer apt explanations of concepts, treatment modes, and more.<br>Unlock fast search and optimise your time with rapid retrievals \u2013 It provides instant assistance with fast search capabilities while optimizing your time.<br>Find reference images for clarity with visual exploration \u2013 It enables you to search visuals related to important topics or diseases for quick reference.<br>Besides, it also allows you to follow up on your questions for more clarity and refer to the chat history in order to recall important details. <br>Dr. Wise AI Chatbot is beyond a personalized mentor and beyond a doubt-solving companion.<br>So, what are you waiting for?<br>Get Started Now!",
+    "summary": "Dr Wise AI Chatbot delivers trusted knowledge innovatively to medical students",
+    "installs": "10+",
+    "minInstalls": 10,
+    "realInstalls": 30,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Jaypee Brothers Medical Publishers",
+    "developerId": "Jaypee+Brothers+Medical+Publishers",
+    "developerEmail": "ms.mani@jaypeebrothers.com",
+    "developerWebsite": "https://www.jaypeebrothers.com/",
+    "developerAddress": "4838/24, Ansari Road, New Delhi 110002",
+    "privacyPolicy": "https://www.diginerve.com/privacy-policy/",
+    "genre": "Books & Reference",
+    "genreId": "BOOKS_AND_REFERENCE",
+    "categories": [
+        {
+            "name": "Books & Reference",
+            "id": "BOOKS_AND_REFERENCE"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/OEyztQB397xLP2KPmOYxOSbb5qBo5mR40Ov2kWYKp7cwswjNaR7QRiw0-luPP8WAhi4",
+    "headerImage": "https://play-lh.googleusercontent.com/acDmzKOC-RdMVb7I9zI0tD0Qy7PeQ3ZzWXQ7hquRzhJKnqDVMIuFC65xWsZd45S3xZQ",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/MpYpYbIBSXKWmQdXm3elt6FVEloRPkxm8Zx-vRbM9gligFuq-grRGeOuFIgcQny100A",
+        "https://play-lh.googleusercontent.com/WoxxvHjvJsFLftTNHO2cL4yT4Cuymd1AlDEtb7hKkocVZeBxoSMdNAuRJO9btcxJARFh",
+        "https://play-lh.googleusercontent.com/xWVYsqqM5REw8uFXOc8Gh_3Ow7hV202ZmRgZtnKsg87h_CFkgVePDwI0NfyeppuFHw"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Oct 8, 2024",
+    "lastUpdatedOn": "Oct 8, 2024",
+    "updated": 1728453161,
+    "version": "1.0.0",
+    "comments": [],
+    "appId": "com.drwise.ophthalmology",
+    "url": "https://play.google.com/store/apps/details?id=com.drwise.ophthalmology&hl=en&gl=us"
+}

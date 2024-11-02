@@ -85,6 +85,47 @@ scraped_apps_count = count_scraped_apps(scraped_data_path)
 print(f"Total apps scraped: {scraped_apps_count}")
 
 
+# Define the path to save the cleaned data
+output_file_path = os.path.join(scraper_folder, 'cleaned_app_data.json')
+
+# Function to clean the app data and extract relevant fields
+def clean_app_data(app_data):
+    cleaned_data = {
+        "App Name": app_data.get("title", "Unknown"),
+        "App URL": f"https://play.google.com/store/apps/details?id={app_data.get('appId', '')}",
+        "details": {
+            "title": app_data.get("title", "Unknown"),
+            "description": app_data.get("description", "No description available"),
+            "installs": app_data.get("installs", "Not specified"),
+            "score": app_data.get("score", "N/A"),
+            "free": app_data.get("free", "Unknown"),
+            "developer": app_data.get("developer", "Unknown"),
+            "genre": app_data.get("genre", "Unknown"),
+            "appId": app_data.get("appId", "N/A")
+        }
+    }
+    return cleaned_data
+
+# Function to read and clean all app data JSON files in the directory
+def extract_cleaned_app_details(scraped_data_path):
+    cleaned_apps = []
+    for file_name in os.listdir(scraped_data_path):
+        if file_name.endswith('_data.json'):
+            file_path = os.path.join(scraped_data_path, file_name)
+            with open(file_path, 'r') as json_file:
+                app_data = json.load(json_file)
+                cleaned_data = clean_app_data(app_data)
+                cleaned_apps.append(cleaned_data)
+    return cleaned_apps
+
+# Extract cleaned data and save to a JSON file
+cleaned_app_details = extract_cleaned_app_details(scraped_data_path)
+with open(output_file_path, 'w') as output_file:
+    json.dump(cleaned_app_details, output_file, indent=4)
+
+print(f"Cleaned data saved to {output_file_path}")
+
+
 
 
 # from google_play_scraper import reviews, Sort

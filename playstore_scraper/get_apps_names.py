@@ -16,7 +16,7 @@ if not os.path.exists(scraper_folder):
 play_store_base_url = "https://play.google.com/store/apps/details?id="
 
 # Function to search for apps in the 'Medical' category
-def search_medical_apps(query='medical'):
+def search_medical_apps(query):
     results = search(
         query=query,  # Searching for apps with a custom query
         lang='en',    # Language
@@ -46,11 +46,18 @@ if os.path.exists(json_file_path):
 
 # Retrieve apps over multiple runs
 all_apps = existing_apps.copy()  # Start with existing apps
-  # Multiple related queries
-queries = ['medical', 'medicine', 'doctor', 'hospital', 'diagnosis', 'health', 'cancer', 'diabetes', 'treatment', 'disease']
+
+# Multiple related queries
+queries = ['medical', 'medicine', 'doctor', 'hospital', 'diagnosis', 'health', 'maternity',
+    'cancer', 'diabetes', 'treatment', 'disease', 'pharmacy', 'telemedicine',  'prenatal', 
+    'mental health', 'pediatric', 'nutrition', 'emergency care', 'chronic care', 
+    'cardiology', 'dermatology', 'orthopedics', 'gynecology', 'ophthalmology', 'postnatal', 
+    'ENT', 'urology', 'oncology', 'cardiovascular', 'physiotherapy', 'prescription',
+    'symptom checker', 'genetics', 'hormone therapy', 'epilepsy', 'radiology', 'immunization',
+    'therapy', 'emergency services', 'virtual care', 'telehealth', 'lab tests', 'drug information']
 
 for query in queries:
-    print(f"Searching for apps with query: {query}")
+    # print(f"Searching for apps with query: {query}")
     new_apps = search_medical_apps(query=query)
     all_apps.extend(new_apps)
 
