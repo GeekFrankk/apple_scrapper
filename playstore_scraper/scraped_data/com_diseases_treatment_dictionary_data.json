@@ -5,16 +5,16 @@
     "summary": "Get clear explanations of symptoms, causes, risks, tests & treatments of disease",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "realInstalls": 2839400,
+    "realInstalls": 2839901,
     "score": 4.428571,
-    "ratings": 20621,
+    "ratings": 20625,
     "reviews": 628,
     "histogram": [
         812,
         487,
         1787,
-        3428,
-        14072
+        3429,
+        14075
     ],
     "price": 0,
     "free": true,

@@ -1,0 +1,63 @@
+{
+    "title": "Radiology Group Doctor",
+    "description": "The Radiology Group Doctor App provides authorized medical staff with fast, secure access to Radiology Group patient reports and images through a browser on smartphones, tablets, laptops and desktops -  making it practical and convenient to view on the go and at different locations.   The viewer is fast to load and simple to use, displaying selected studies and reports via an intuitive user interface. \r\n\r\nIf you need assistance with the Radiology Group Doctor App please email support@radiologygroup.com.au with a description of the problem and we will contact you promptly.\r\n\r\nRadiology Group are experts in providing high quality diagnostic and interventional imaging services. Our practices are equipped with the latest in Ultrasound equipment, fully digitised X-Ray equipment, including leading Mammography and Bone Density services for safe, consistent diagnostic examinations for patients and referrers. We also use one of the most advanced Digital Wide Bore 3 Tesla MRI scanners as well as an ultra low dose and ultra fast 640 Slice CT Scanner.\r\n\r\nWith such a vast array of imaging options available for patients, it can sometimes be a challenging task for busy practitioners to be fully informed regarding Medical Imaging services. With this in mind, our philosophy is to always be readily available to address any concerns prior to or after imaging has been undertaken. We therefore urge our referrers not to hesitate in contacting us at any time to speak with one of our Radiologists.",
+    "descriptionHTML": "The Radiology Group Doctor App provides authorized medical staff with fast, secure access to Radiology Group patient reports and images through a browser on smartphones, tablets, laptops and desktops -  making it practical and convenient to view on the go and at different locations.   The viewer is fast to load and simple to use, displaying selected studies and reports via an intuitive user interface. <br><br>If you need assistance with the Radiology Group Doctor App please email support@radiologygroup.com.au with a description of the problem and we will contact you promptly.<br><br>Radiology Group are experts in providing high quality diagnostic and interventional imaging services. Our practices are equipped with the latest in Ultrasound equipment, fully digitised X-Ray equipment, including leading Mammography and Bone Density services for safe, consistent diagnostic examinations for patients and referrers. We also use one of the most advanced Digital Wide Bore 3 Tesla MRI scanners as well as an ultra low dose and ultra fast 640 Slice CT Scanner.<br><br>With such a vast array of imaging options available for patients, it can sometimes be a challenging task for busy practitioners to be fully informed regarding Medical Imaging services. With this in mind, our philosophy is to always be readily available to address any concerns prior to or after imaging has been undertaken. We therefore urge our referrers not to hesitate in contacting us at any time to speak with one of our Radiologists.",
+    "summary": "Fast, secure access to images & reports.",
+    "installs": "500+",
+    "minInstalls": 500,
+    "realInstalls": 713,
+    "score": 0,
+    "ratings": 0,
+    "reviews": 0,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Zed Technologies",
+    "developerId": "Zed+Technologies",
+    "developerEmail": "support@radiologygroup.com.au",
+    "developerWebsite": "https://radiologygroup.com.au/",
+    "developerAddress": null,
+    "privacyPolicy": "https://zedtechnologies.com.au/docs/privacy_policy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/nvYZv1zisNLHKM6qLPBwMGXZrPgRPtpjNBNC7880no0pORf54BrGFZD24b3yi0JeXGAi",
+    "headerImage": "https://play-lh.googleusercontent.com/7Qt9azGGDfYADqGbxTL_7W6Kr_Zn805UBzxAhSLGbgeweBMyke6MN4Ap8EK46DVhrPc",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/Dpax2hZ3gjewSmg04X1iqtYQtf0vGn_vTdN2IDCgax8_LHzZgu8ntv0GHs-PPK98rYw",
+        "https://play-lh.googleusercontent.com/ZdeBw3JOzqMqTaG1XNKiadZoYiWigqm8lUm9GxtGAQsShxjAeNl9390mlK3jPf-dQBc",
+        "https://play-lh.googleusercontent.com/0LF8IjzLkgclhnSQFaZliTsfqfFhPapj6M8qz-jhtO2XD_m9O6sA9_gQbKP1rrFnYZkJ",
+        "https://play-lh.googleusercontent.com/TQGIBAhi_YrdEipadlJRRDIzi7AmtrPP35HUtniYuowfq1HX3k-2d5JSS1sl5Wb0QEK0"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Mar 1, 2020",
+    "lastUpdatedOn": "Oct 21, 2024",
+    "updated": 1729554977,
+    "version": "61.3.3900",
+    "comments": [],
+    "appId": "com.zedtechnologies.radiologygroup.doctor.droid",
+    "url": "https://play.google.com/store/apps/details?id=com.zedtechnologies.radiologygroup.doctor.droid&hl=en&gl=us"
+}

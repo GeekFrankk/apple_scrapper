@@ -1,0 +1,63 @@
+{
+    "title": "Virtual Medical Care",
+    "description": "Virtual Medical Care provides you and your family with on demand access to a team of qualified doctors. You will receive rapid, direct access to a doctor who is well-versed in primary care. The doctor will help you to better understand your symptoms and how to get the best care available to you. Feel confident that your family is getting the best medical care.\r\n\r\nAvailable 24 hours a day 7 days a week. Two services are available:\r\n(1) Call Back: one of our doctors will call you back for a telephone consultation\r\n(2) Video Consultations: schedule a video appointment with a doctor.",
+    "descriptionHTML": "Virtual Medical Care provides you and your family with on demand access to a team of qualified doctors. You will receive rapid, direct access to a doctor who is well-versed in primary care. The doctor will help you to better understand your symptoms and how to get the best care available to you. Feel confident that your family is getting the best medical care.<br><br>Available 24 hours a day 7 days a week. Two services are available:<br>(1) Call Back: one of our doctors will call you back for a telephone consultation<br>(2) Video Consultations: schedule a video appointment with a doctor.",
+    "summary": "Virtual Medical Care provides on demand access to highly qualified doctors.",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "realInstalls": 4155,
+    "score": null,
+    "ratings": null,
+    "reviews": null,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Teladoc Health International",
+    "developerId": "Teladoc+Health+International",
+    "developerEmail": "advancemedicalweb@gmail.com",
+    "developerWebsite": "http://www.advance-medical.com",
+    "developerAddress": null,
+    "privacyPolicy": "https://teladochealth.com/legal/privacy-policy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/-3jjZQo6tx8twSDHxHj0On7iM8nNsiKl7MAxcGpBeyxXprZW2WzxsIj9y_D5D1Dt0Q",
+    "headerImage": "https://play-lh.googleusercontent.com/K8pfwcslysP4C4XOMB19BSFOYR9liqrZde7STOGMlJwV7IqbnGfFUOUx7vqjyqExLStO",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/CuBnXjA-1HTYuqhUZb-3dn3fvSFbrkIUPk370lnApHA1bzcjHgwF3qHbTPypzswyeEad",
+        "https://play-lh.googleusercontent.com/ThgNAnWJgA4NNtITHvBkf16iHKdjPx3i5UNMnyItKARPpQbok5dv07KnJSXQDgpJOw",
+        "https://play-lh.googleusercontent.com/U7F6uGGeVWX57E_fCW8FjM2bW2HfPZnzhoOJ0ya2fo60KMhP_0iSgvcK9Yt8I81fcg",
+        "https://play-lh.googleusercontent.com/FsVWB7E1JtbhO9TdgDXKb47Ck3LyUBeTua4s1gs2QkT0Va2h5JmfYQug79wRMqSYxRqj"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Dec 3, 2019",
+    "lastUpdatedOn": "Oct 14, 2022",
+    "updated": 1665774251,
+    "version": "1.4",
+    "comments": [],
+    "appId": "com.advancemedical.aigtravel",
+    "url": "https://play.google.com/store/apps/details?id=com.advancemedical.aigtravel&hl=en&gl=us"
+}

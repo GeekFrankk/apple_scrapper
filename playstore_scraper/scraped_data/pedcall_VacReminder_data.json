@@ -1,0 +1,63 @@
+{
+    "title": "Vaccine Reminder",
+    "description": "Your NEW Child Vaccine Manager!!!\r\n\r\n1 \u2013 Add child \u2013 Enter Name, Date of Birth & County.\r\n2 \u2013 Get the recommended vaccine schedule \u2013 Green, Red & Orange markers for the dose status\r\n3 \u2013 Manage children vaccinations and maintain vaccine history for each shot!\r\n\r\nIf your country\u2019s schedule is missing or requires an update, email us at feedback@pediatriconcall.com\r\n\r\nLogin will help save all your data on our cloud so that you can recover on any device. Also will help enable email notifications, child schedule sharing, ask doc & much more.\r\n\r\nAlso, there are separate sections to Vaccine Updates for Healthcare Professionals and Parents.\r\nFor Vaccine Reminder, registration is required on www.pediatriconcall.com to log in and use this app.",
+    "descriptionHTML": "Your NEW Child Vaccine Manager!!!<br><br>1 \u2013 Add child \u2013 Enter Name, Date of Birth &amp; County.<br>2 \u2013 Get the recommended vaccine schedule \u2013 Green, Red &amp; Orange markers for the dose status<br>3 \u2013 Manage children vaccinations and maintain vaccine history for each shot!<br><br>If your country\u2019s schedule is missing or requires an update, email us at feedback@pediatriconcall.com<br><br>Login will help save all your data on our cloud so that you can recover on any device. Also will help enable email notifications, child schedule sharing, ask doc &amp; much more.<br><br>Also, there are separate sections to Vaccine Updates for Healthcare Professionals and Parents.<br>For Vaccine Reminder, registration is required on www.pediatriconcall.com to log in and use this app.",
+    "summary": "Track Vaccine Schedule! Never miss a shot! Manage Vaccine History! Get Reminders",
+    "installs": "50,000+",
+    "minInstalls": 50000,
+    "realInstalls": 96289,
+    "score": 2.75,
+    "ratings": 293,
+    "reviews": 11,
+    "histogram": [
+        139,
+        0,
+        0,
+        69,
+        69
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Pediatric Oncall",
+    "developerId": "Pediatric+Oncall",
+    "developerEmail": "feedback@pediatriconcall.com",
+    "developerWebsite": "https://www.pediatriconcall.com",
+    "developerAddress": "1/B, Saguna Building,\nSt Francis Road,\nVile Parle - West,\nMumbai - 400056,\nMaharashtra, India.",
+    "privacyPolicy": "https://www.pediatriconcall.com/privacy-statement",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "categories": [
+        {
+            "name": "Health & Fitness",
+            "id": "HEALTH_AND_FITNESS"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/aTqSZZPv3GO7gbhOKaN0arb3q_EoH0sHBD_mAshbRrWqSeuPaxueXWWtDrFC4E-vrg4U",
+    "headerImage": "https://play-lh.googleusercontent.com/L8HMX9ED8gggJDJ7XhINrcnCfw_rSIoliKLRgsw6nSjcvt4oBtQ-ctVbPuNpQL9IPw",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/sKgKsjhAMcKWrsQWSBDqHphpIpfdaMW1_6HrFBKlntr3QbuAaBWEaw_SNyljPsSfQg",
+        "https://play-lh.googleusercontent.com/Dm1WvtgaKEPV4gUQiZ6oIfmIfuvitxTVMEyokg9vea03zt--WHv9mlOGPcrqZVOrTlk",
+        "https://play-lh.googleusercontent.com/JcVG_Qt_mdC8ERhL4PQkF38-9ErlN9im3yQ6Pk1DaqHU3T_hkMv8gtzELV8N3jGk0g",
+        "https://play-lh.googleusercontent.com/2PkCZMs1GRcJx1ZNthryhtTSl0i8WA-w0oy2BhJC4rrZif3k8XOaEGl6Us-fsJOCNkjB"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Dec 28, 2012",
+    "lastUpdatedOn": "Dec 22, 2023",
+    "updated": 1703246055,
+    "version": "6.5.2",
+    "comments": [],
+    "appId": "pedcall.VacReminder",
+    "url": "https://play.google.com/store/apps/details?id=pedcall.VacReminder&hl=en&gl=us"
+}

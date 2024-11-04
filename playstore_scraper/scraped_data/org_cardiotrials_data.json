@@ -1,0 +1,62 @@
+{
+    "title": "CardioTrials - Cardiology",
+    "description": "CardioTrials offers a comprehensive library of expertly synthesized scientific articles in cardiology, featuring the key, most important, and iconic studies in the field.\r\n\r\nStay Updated with the Latest Research\r\nKeeping up with the latest advancements in cardiology is crucial, yet challenging amidst a busy schedule. CardioTrials simplifies this process by curating and synthesizing recent studies from major journals. Our concise and independent analyses save you time, providing you with the latest findings and their implications.\r\n\r\nAccess Landmark Studies for Evidence-Based Practice\r\nIn addition to new studies, CardioTrials provides access to historic and paradigm-shifting studies that have shaped the field of cardiology. These iconic papers have defined guidelines and continue to influence modern practice. Our service allows you to consult these pivotal studies, reinforcing your knowledge with the foundational evidence that underpins evidence-based medicine.\r\n\r\nOur mission is to provide high-quality information enabling you to stay informed, deepen your understanding and explore what scientific evidence has to say. Join a community of over 10,000 doctors who trust CardioTrials to keep them at the forefront of cardiology.",
+    "descriptionHTML": "CardioTrials offers a comprehensive library of expertly synthesized scientific articles in cardiology, featuring the key, most important, and iconic studies in the field.<br><br>Stay Updated with the Latest Research<br>Keeping up with the latest advancements in cardiology is crucial, yet challenging amidst a busy schedule. CardioTrials simplifies this process by curating and synthesizing recent studies from major journals. Our concise and independent analyses save you time, providing you with the latest findings and their implications.<br><br>Access Landmark Studies for Evidence-Based Practice<br>In addition to new studies, CardioTrials provides access to historic and paradigm-shifting studies that have shaped the field of cardiology. These iconic papers have defined guidelines and continue to influence modern practice. Our service allows you to consult these pivotal studies, reinforcing your knowledge with the foundational evidence that underpins evidence-based medicine.<br><br>Our mission is to provide high-quality information enabling you to stay informed, deepen your understanding and explore what scientific evidence has to say. Join a community of over 10,000 doctors who trust CardioTrials to keep them at the forefront of cardiology.",
+    "summary": "Comprehensive library of synthesized scientific articles in cardiology",
+    "installs": "5,000+",
+    "minInstalls": 5000,
+    "realInstalls": 8115,
+    "score": 0,
+    "ratings": 0,
+    "reviews": 0,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": true,
+    "inAppProductPrice": "$6.40 - $74.99 per item",
+    "developer": "P\u00e1gina Viva",
+    "developerId": "P%C3%A1gina+Viva",
+    "developerEmail": "theo.mr.correa@gmail.com",
+    "developerWebsite": "http://cardiotrials.com.br",
+    "developerAddress": null,
+    "privacyPolicy": "https://www.cardiotrials.com.br/termos-de-uso",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/phVPDmJaJELeOq711eKVO5aTElcV4VjMSsyUXAv1X766H9k2gRmuowwzG09IqzuFbSk",
+    "headerImage": "https://play-lh.googleusercontent.com/qPYLWBBtw6U7WRK7_r0SRsJdi7pLZiLaWKnGokRzbNkSbyetepHlB9CQjytFwiFSqNM",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/R-GcT_qaMcQbQsU9qwYrWLbhLcjNsEg1KAD5vacuD57ENtpPHWyTesLa_erkCM1vr_U",
+        "https://play-lh.googleusercontent.com/Q5k9_7s7LoThaPzlZ_HyQJbEoBmLOfZHQPlDunTHnN_YZFXdgL6SFNmyDyerF9LFIg",
+        "https://play-lh.googleusercontent.com/c8J2d3U1jhhW9RVzcpBx4Im9KzYCkxtK1R7Tm7XsUz6pnEPgB2XrZz5t6IOoqLSKGMs"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Apr 27, 2023",
+    "lastUpdatedOn": "Oct 25, 2024",
+    "updated": 1729884044,
+    "version": "1.2.9",
+    "comments": [],
+    "appId": "org.cardiotrials",
+    "url": "https://play.google.com/store/apps/details?id=org.cardiotrials&hl=en&gl=us"
+}

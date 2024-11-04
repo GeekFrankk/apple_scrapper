@@ -1,0 +1,62 @@
+{
+    "title": "RxLocal",
+    "description": "RxLocal is an easy-to-use app that allows pharmacy customers to manage their entire family\u2019s prescriptions, communicate with the pharmacy via secure messages, order refills, set medication reminders, and find pharmacy location information.\r\n\r\nCreating an account is easy. Just enter your last name and date of birth, along with any existing prescription number. Then, simply add all of your family members to your account for quick and easy access to all of their prescriptions.\r\n\r\nRxLocal is a free app for Android users. There is no charge to download or use the app.",
+    "descriptionHTML": "RxLocal is an easy-to-use app that allows pharmacy customers to manage their entire family\u2019s prescriptions, communicate with the pharmacy via secure messages, order refills, set medication reminders, and find pharmacy location information.<br><br>Creating an account is easy. Just enter your last name and date of birth, along with any existing prescription number. Then, simply add all of your family members to your account for quick and easy access to all of their prescriptions.<br><br>RxLocal is a free app for Android users. There is no charge to download or use the app.",
+    "summary": "Easy-to-use refill application!",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "realInstalls": 417922,
+    "score": 1.4169279,
+    "ratings": 3144,
+    "reviews": 2345,
+    "histogram": [
+        2630,
+        137,
+        137,
+        49,
+        187
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "PioneerRx, LLC",
+    "developerId": "PioneerRx,+LLC",
+    "developerEmail": "support@pioneerrx.com",
+    "developerWebsite": "http://www.rxlocal.com",
+    "developerAddress": null,
+    "privacyPolicy": "https://patient.rxlocal.com/PrivacyPolicy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/R_n9BRBJXj6Vt1T82igxXBJzZ1IKldhK3-4fSlzEPX52A18kiCRqCcgh-UzPeMGYvSKU",
+    "headerImage": "https://play-lh.googleusercontent.com/cFhvzJqg8-Fq8hKBGLWPY9UrpfC_dSLAlOavTgr9XjnQHp643-p2mWcv42twE5SGOuM",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/QAS7iUM8hKSkgrrm-z-B8DHaySQvS-Z2r9B8wvYjYP9j0DPd_QiD34wPDpqJWuFWJrCS",
+        "https://play-lh.googleusercontent.com/hCnXK484Icu3Q9yVM-Xoh1GPOzJnpvMLtXn5S6R5U8aNqoqaapATjr8n9RsvgBRLdsE",
+        "https://play-lh.googleusercontent.com/mWQ4j7P5N968-Womo8va1Eo7W1uB15GHbeuTrasyUGTyBwxOXqrgGDMGcjvv0HV6vQ"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Aug 7, 2012",
+    "lastUpdatedOn": "Aug 1, 2024",
+    "updated": 1722541611,
+    "version": "5.4.30",
+    "comments": [],
+    "appId": "com.newtechsys.rxlocalmobile",
+    "url": "https://play.google.com/store/apps/details?id=com.newtechsys.rxlocalmobile&hl=en&gl=us"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "EpiCentr: Seizure Tracker App",
+    "description": "This is an auxiliary app for a service called EpiCentr. The service is made for people with seizure disorders such as epilepsy. It allows them to initiate prompt help alerts (automatic phone calls, text messages, push notifications, emails) in case of emergency. Such alerts will be addressed to other users added as Emergency Contacts. This app works only for the second user role - Emergency Contact. It allows to establish link with the first user in order to receive alerts, including push notifications with geolocation. At the moment the primary app with an entire feature set for the first user role (people with disorders) is available only on iOS platform.\r\n\r\nFor inquiries or assistance, please contact us at support@epicentr.app, or visit our website at www.epicentr.app.\r\n\r\nPrivacy Policy: https://epicentr.app/app/privacy_policy\r\nTerms of Use: https://epicentr.app/app/terms_of_use",
+    "descriptionHTML": "This is an auxiliary app for a service called EpiCentr. The service is made for people with seizure disorders such as epilepsy. It allows them to initiate prompt help alerts (automatic phone calls, text messages, push notifications, emails) in case of emergency. Such alerts will be addressed to other users added as Emergency Contacts. This app works only for the second user role - Emergency Contact. It allows to establish link with the first user in order to receive alerts, including push notifications with geolocation. At the moment the primary app with an entire feature set for the first user role (people with disorders) is available only on iOS platform.<br><br>For inquiries or assistance, please contact us at support@epicentr.app, or visit our website at www.epicentr.app.<br><br>Privacy Policy: https://epicentr.app/app/privacy_policy<br>Terms of Use: https://epicentr.app/app/terms_of_use",
+    "summary": "Receive help alerts as an Emergency Contact for a person with a seizure disorder",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "realInstalls": 2291,
+    "score": 0,
+    "ratings": 0,
+    "reviews": 0,
+    "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "AIHunters UAB",
+    "developerId": "AIHunters+UAB",
+    "developerEmail": "support@epicentr.app",
+    "developerWebsite": "https://www.epicentr.app",
+    "developerAddress": null,
+    "privacyPolicy": "https://epicentr.app/app/privacy_policy",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "categories": [
+        {
+            "name": "Health & Fitness",
+            "id": "HEALTH_AND_FITNESS"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/GgF4bE_RAwu-Nuw6rkp98CKt2NYezDiQEYSaUrK_891gee97ZIYfZCBgvbvC2UpNLLo",
+    "headerImage": "https://play-lh.googleusercontent.com/SGscop3EBTPO1sEfja5w5CHkIqqcx8xKfGSLR6yVzn4_nTzEYzecn9gv8Mlli6PeMXnI",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/oQPqRHyLhYvdqipLf79sZcYwFjOblRsS3nwW3rTMR4Tgv3Z-6km6rjkL4GYGcba_UAOK",
+        "https://play-lh.googleusercontent.com/RW3NTOGYE_0NZLejHpIOBJL5nT44YKQK2SmrQWLkU-yVXoEG7xqBOgNudcDJ4-JC5w",
+        "https://play-lh.googleusercontent.com/8jhQC6pNCs0qPIiGrSC-CbNX2NKCj9mjKvKFmQMpjEvdISTOKJ3SmpopasUfJmvvVA",
+        "https://play-lh.googleusercontent.com/kes2Q9Bz6feOFkBp2Hct8yN2rffjGN9fbYPqwgQAyWbO_o6lAEo8dLx35zRnN8d-Wzc"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Jul 3, 2023",
+    "lastUpdatedOn": "Aug 23, 2024",
+    "updated": 1724412654,
+    "version": "1.5.0",
+    "comments": [],
+    "appId": "com.seizure.detection.tracker.app",
+    "url": "https://play.google.com/store/apps/details?id=com.seizure.detection.tracker.app&hl=en&gl=us"
+}

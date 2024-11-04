@@ -1,0 +1,63 @@
+{
+    "title": "Dexcom G7",
+    "description": "Know your glucose number and where it\u2019s heading with the Dexcom G7 Continuous Glucose Monitoring (CGM) System. \r\n\r\nOnly use this app if you have the Dexcom G7 CGM System.* Before you start making treatment decisions with Dexcom G7, work with your healthcare professional to learn how.\r\n\r\nThe Dexcom G7 Continuous Glucose Monitoring (CGM) System supports more empowered and integrated diabetes management. Its low-profile, wearable sensor provides real-time glucose data to a user\u2019s compatible display device up to every 5 minutes, no fingersticks required.\u2020 \r\nDexcom G7 also offers customizable alerts that can help warn of high or low glucose levels, as well as remote monitoring and reporting options that help keep users connected to their loved ones and care teams anytime, anywhere.  \r\n\r\n*The Dexcom G7 Android app is compatible with select Android devices only. To view a list of compatible devices, visit dexcom.com/compatibility.\r\n\r\n\u2020If your glucose alerts and readings from Dexcom G7 do not match symptoms or expectations, use a blood glucose meter to make diabetes treatment decisions.\r\n\r\nIn addition to the accurate performance provided by the Dexcom Sensor, you\u2019ll receive other valuable features:\r\n\u2022\tShare your glucose data with up to 10 followers who can monitor your glucose data and trends on their compatible smart device with the Dexcom Follow app. Share and Follow functions require an internet connection\r\n\u2022\tDigital Health app integrations allow you to share your glucose data with third-party health apps and lifestyle devices\r\n\u2022\tNow you can see your health and activity data from connected apps and devices on your G7 trend graph\r\n\u2022\tDexcom Clarity summary insights are integrated into the G7 app, so that you can see both real-time and retrospective glucose insights from the same app\r\n\u2022\tQuick Glance allows you to view your glucose data on the lock screen of your smart device\r\n\r\nG7 app features and partner integrations may differ by region.  Refer to your user guide for more information.",
+    "descriptionHTML": "Know your glucose number and where it\u2019s heading with the Dexcom G7 Continuous Glucose Monitoring (CGM) System. <br><br>Only use this app if you have the Dexcom G7 CGM System.* Before you start making treatment decisions with Dexcom G7, work with your healthcare professional to learn how.<br><br>The Dexcom G7 Continuous Glucose Monitoring (CGM) System supports more empowered and integrated diabetes management. Its low-profile, wearable sensor provides real-time glucose data to a user\u2019s compatible display device up to every 5 minutes, no fingersticks required.\u2020 <br>Dexcom G7 also offers customizable alerts that can help warn of high or low glucose levels, as well as remote monitoring and reporting options that help keep users connected to their loved ones and care teams anytime, anywhere.  <br><br>*The Dexcom G7 Android app is compatible with select Android devices only. To view a list of compatible devices, visit dexcom.com/compatibility.<br><br>\u2020If your glucose alerts and readings from Dexcom G7 do not match symptoms or expectations, use a blood glucose meter to make diabetes treatment decisions.<br><br>In addition to the accurate performance provided by the Dexcom Sensor, you\u2019ll receive other valuable features:<br>\u2022\tShare your glucose data with up to 10 followers who can monitor your glucose data and trends on their compatible smart device with the Dexcom Follow app. Share and Follow functions require an internet connection<br>\u2022\tDigital Health app integrations allow you to share your glucose data with third-party health apps and lifestyle devices<br>\u2022\tNow you can see your health and activity data from connected apps and devices on your G7 trend graph<br>\u2022\tDexcom Clarity summary insights are integrated into the G7 app, so that you can see both real-time and retrospective glucose insights from the same app<br>\u2022\tQuick Glance allows you to view your glucose data on the lock screen of your smart device<br><br>G7 app features and partner integrations may differ by region.  Refer to your user guide for more information.",
+    "summary": "Dexcom G7 Continuous Glucose Monitoring",
+    "installs": "500,000+",
+    "minInstalls": 500000,
+    "realInstalls": 694730,
+    "score": 2.868035,
+    "ratings": 4450,
+    "reviews": 2461,
+    "histogram": [
+        1486,
+        625,
+        573,
+        508,
+        1252
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Dexcom",
+    "developerId": "Dexcom",
+    "developerEmail": "appsupport@dexcom.com",
+    "developerWebsite": "https://www.dexcom.com",
+    "developerAddress": null,
+    "privacyPolicy": "https://www.dexcom.com/privacy-policy-global",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "categories": [
+        {
+            "name": "Health & Fitness",
+            "id": "HEALTH_AND_FITNESS"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/tIo6sDnGOlJCX-PJvLcSC4kZnk22uBdKxDOqPptbaPeS1wWT6IKf7YhXz0CfE6Po4a0",
+    "headerImage": "https://play-lh.googleusercontent.com/KNJCS73oPjeWwqBKsHd2ptxhSmDZblKYois9AgeLks-VvogRgz3MZlCJ09VqSZeo_Kk",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/aLSwSaQ6xzbfxNbhPC1nMZsuDQC3rjc4CZ_8Z38cFJ56RdozfW3rVmGr9P_hokB82u4",
+        "https://play-lh.googleusercontent.com/HcZh_tmLUtPFSru1Q6T_3gd2PGng20eEY7oURSF5gGjkkTPnSSC0kJTfA6OTC5uSKQU",
+        "https://play-lh.googleusercontent.com/5P2xLqz3KZiZCTDWClHnjbap18jP-Fn42kgz-Sk93l-64RFIY9HQ_8yap56NYghj5bU",
+        "https://play-lh.googleusercontent.com/W7ONp7krnTF4dp_wYWrZgV3x4E-B_gS_g9llacHNWhOhTG6lZ65lshsI5mA-R6_Y2xU"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Feb 13, 2023",
+    "lastUpdatedOn": "Oct 3, 2024",
+    "updated": 1727970656,
+    "version": "2.5.0.8449",
+    "comments": [],
+    "appId": "com.dexcom.g7",
+    "url": "https://play.google.com/store/apps/details?id=com.dexcom.g7&hl=en&gl=us"
+}

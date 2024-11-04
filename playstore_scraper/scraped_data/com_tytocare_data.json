@@ -1,0 +1,63 @@
+{
+    "title": "TytoCare",
+    "description": "TytoCare is a telehealth solution that enables a comprehensive medical exam and telehealth visit, anytime and anywhere. \r\n \r\nIt includes the hand-held Tyto device for examining the heart, lungs, ears, throat, skin, heart rate and temperature, and the TytoCare App for storing exam data, sharing it with a physician, and conducting a live video telehealth exam. By enabling a comprehensive remote exam and visit, TytoCare is greatly expanding the range of conditions that can now be reliably diagnosed via telehealth.",
+    "descriptionHTML": "TytoCare is a telehealth solution that enables a comprehensive medical exam and telehealth visit, anytime and anywhere. <br> <br>It includes the hand-held Tyto device for examining the heart, lungs, ears, throat, skin, heart rate and temperature, and the TytoCare App for storing exam data, sharing it with a physician, and conducting a live video telehealth exam. By enabling a comprehensive remote exam and visit, TytoCare is greatly expanding the range of conditions that can now be reliably diagnosed via telehealth.",
+    "summary": "Tyto, your on demand medical exam.  Anytime. Anywhere",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "realInstalls": 150104,
+    "score": 4.81,
+    "ratings": 3063,
+    "reviews": 182,
+    "histogram": [
+        88,
+        24,
+        0,
+        121,
+        2812
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "TYTO CARE LTD",
+    "developerId": "TYTO+CARE+LTD",
+    "developerEmail": "tytocare.dev@gmail.com",
+    "developerWebsite": "https://www.tytocare.com",
+    "developerAddress": null,
+    "privacyPolicy": "https://static-cloud.tytocare.com/6_1/manuals/en-us/701-00006_C07_Tytocare_Privacy_Policy_EN.html",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/xricwvxrFMx8k8aRNWK_s1idI7aPMGEwSgQh65ac_ZhQ_oTp1p_iAEykvjXVofHBwPq4",
+    "headerImage": "https://play-lh.googleusercontent.com/Jwnvx7gjHgUrfjPKDmX8nega3PAGofeD0P2kV1VXOUbguNFl8MpSj5q_iHcRtnOPExI",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/vQmHBbSnwRcuwoMempl1Zp7GPm-iEME2N5IkLiwLYI21ALBZ2g0zYCgJFtOnX26Xqvg",
+        "https://play-lh.googleusercontent.com/OZU2boue6golI5TXcW7fR4WeVdT-pyyHsIdegf4ZuClzH7y4QgJOlhzYO389VsXg_g",
+        "https://play-lh.googleusercontent.com/N6lrS51VIGjLcv-kMDWdPCbGqMWnTNA1_2vet7kYeFARRuu3zouywX6kEF-2Ahwyoqjc",
+        "https://play-lh.googleusercontent.com/IGXiNDwJwVA24ZNc7nOBL3nSXx4aL0i3CzJYNAwjIAUe4U8rbSHk8sq44bScpT60C64"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Jul 1, 2018",
+    "lastUpdatedOn": "Oct 15, 2024",
+    "updated": 1729008688,
+    "version": "7.2.0.1109",
+    "comments": [],
+    "appId": "com.tytocare",
+    "url": "https://play.google.com/store/apps/details?id=com.tytocare&hl=en&gl=us"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "PhysiApp\u00ae",
+    "description": "***\r\nTo start using this app, ask your healthcare practitioner to design & assign your home exercise program for you in Physitrack.\r\n***\r\n\r\nThe PhysiApp\u00ae app lets you download your PhysiApp home exercise program to your Android phone.\r\n\r\nOnce you've installed this app on your Android phone, all you need to do is login to the app with the access code that you received from your healthcare provider.\r\n\r\nNext, you can download your custom-made home exercise program, consisting of high-definition, clearly narrated exercise videos. You can even use Chromecast to play the videos on your Chromecast device.\r\n\r\nFrom now, you will know exactly which exercises have been prescribed to you, and how you are supposed to perform them. \r\n\r\nWith PhysiApp, you can securely report back to your physiotherapist or chiropractor how much you completed of a given exercise, and if you felt any pain. \r\n\r\nPhysiApp lets your physiotherapist or chiropractor track your progress in detail, and intervene if necessary.",
+    "descriptionHTML": "***<br>To start using this app, ask your healthcare practitioner to design &amp; assign your home exercise program for you in Physitrack.<br>***<br><br>The PhysiApp\u00ae app lets you download your PhysiApp home exercise program to your Android phone.<br><br>Once you&#39;ve installed this app on your Android phone, all you need to do is login to the app with the access code that you received from your healthcare provider.<br><br>Next, you can download your custom-made home exercise program, consisting of high-definition, clearly narrated exercise videos. You can even use Chromecast to play the videos on your Chromecast device.<br><br>From now, you will know exactly which exercises have been prescribed to you, and how you are supposed to perform them. <br><br>With PhysiApp, you can securely report back to your physiotherapist or chiropractor how much you completed of a given exercise, and if you felt any pain. <br><br>PhysiApp lets your physiotherapist or chiropractor track your progress in detail, and intervene if necessary.",
+    "summary": "Download your PhysiApp home exercise program to your Android device.",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "realInstalls": 2184396,
+    "score": 4.8,
+    "ratings": 7344,
+    "reviews": 59,
+    "histogram": [
+        0,
+        136,
+        136,
+        734,
+        6310
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Physitrack PLC",
+    "developerId": "4987724709125175276",
+    "developerEmail": "support@physitrack.com",
+    "developerWebsite": "http://www.physiapp.com",
+    "developerAddress": "Bastion House, 6th Floor\n140 London Wall\nLondon EC2Y 5DN\nUnited Kingdom",
+    "privacyPolicy": "https://www.physitrack.com/privacy",
+    "genre": "Health & Fitness",
+    "genreId": "HEALTH_AND_FITNESS",
+    "categories": [
+        {
+            "name": "Health & Fitness",
+            "id": "HEALTH_AND_FITNESS"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Gk904LVyevmTcsGcblskdGji4EledGEdk1dVdSLPOVl80viyD3iBq3zrSU9Lyh7eVmeV",
+    "headerImage": "https://play-lh.googleusercontent.com/PPWPqVqhkbKCYHVhIjclDbIqdPV_vbHYWPeqZSb_7L58YJrgfHK7ZsbO9AcHDABB0oo",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/-4XZEKASN-lFdoxg04VfBVWBa5FNn49_r7fSPhKfeS1m-oO9GbcExypuYts035kkVjY",
+        "https://play-lh.googleusercontent.com/f54umGvBvB-p_E60gKNEMxkGwLICQ9gIrhRPyYvas8VYjwOBe8T8M6Y7bOg09H3B4GJ7",
+        "https://play-lh.googleusercontent.com/DWkkuqNHi2Cfrhsc77-3XjnaM-Vmik2c5YC9tTuCAZsSnfLESYMeOCor2kO8iKivtx5C",
+        "https://play-lh.googleusercontent.com/6aPmhYtvABqyG3T3kuwcjHQ8UE9Cmg2WpAGHofqK9u1DHS6Cabig5UxrkU4L-GVC9OVB"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Oct 30, 2018",
+    "lastUpdatedOn": "Oct 14, 2024",
+    "updated": 1728905408,
+    "version": "4.24.0",
+    "comments": [],
+    "appId": "com.physitrack.physiapp",
+    "url": "https://play.google.com/store/apps/details?id=com.physitrack.physiapp&hl=en&gl=us"
+}

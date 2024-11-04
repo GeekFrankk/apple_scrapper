@@ -1,0 +1,63 @@
+{
+    "title": "Virtual Visit",
+    "description": "From home or work, while on vacation, or for your child away at college, Orlando Health Virtual Visit is a new option for quick, convenient healthcare at a time and place of your choosing. Patients with nonemergency symptoms (e.g., sore throat, urinary tract infection, earache, pink eye, sinus infection, fever, cough, rash, etc.) now can access on-demand, high-quality care 24/7 using this app via a smartphone, tablet or computer. Connect with a physician in real time to receive a diagnosis and treatment plan, with any needed prescriptions sent to your preferred pharmacy.   \r\n\r\nApp features: \r\n\r\n\u2022 Convenient access from mobile devices, computers or by smart phone \r\n\u2022 Live video or phone visits for adults and children \r\n\u2022 Evaluation by board-certified physicians \r\n\u2022 Online credit card and benefit card payment \r\n\u2022 Ability to reserve your place in line \r\n\u2022 Secure, encrypted platform \r\n\r\nCurrently available to select Central Florida employers that offer the Orlando Health network plan to their employees.",
+    "descriptionHTML": "From home or work, while on vacation, or for your child away at college, Orlando Health Virtual Visit is a new option for quick, convenient healthcare at a time and place of your choosing. Patients with nonemergency symptoms (e.g., sore throat, urinary tract infection, earache, pink eye, sinus infection, fever, cough, rash, etc.) now can access on-demand, high-quality care 24/7 using this app via a smartphone, tablet or computer. Connect with a physician in real time to receive a diagnosis and treatment plan, with any needed prescriptions sent to your preferred pharmacy.   <br><br>App features: <br><br>\u2022 Convenient access from mobile devices, computers or by smart phone <br>\u2022 Live video or phone visits for adults and children <br>\u2022 Evaluation by board-certified physicians <br>\u2022 Online credit card and benefit card payment <br>\u2022 Ability to reserve your place in line <br>\u2022 Secure, encrypted platform <br><br>Currently available to select Central Florida employers that offer the Orlando Health network plan to their employees.",
+    "summary": "Use Orlando Health Virtual Visit for quick, quality healthcare 24/7.",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "realInstalls": 12170,
+    "score": 3.8076923,
+    "ratings": 26,
+    "reviews": 7,
+    "histogram": [
+        7,
+        0,
+        1,
+        1,
+        17
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "Orlando Health",
+    "developerId": "Orlando+Health",
+    "developerEmail": "R-VirtualVisit@orlandohealth.com",
+    "developerWebsite": "http://www.orlandohealth.com/",
+    "developerAddress": null,
+    "privacyPolicy": "https://www.orlandohealth.com/about-us/corporate-information/hipaa-privacy",
+    "genre": "Medical",
+    "genreId": "MEDICAL",
+    "categories": [
+        {
+            "name": "Medical",
+            "id": "MEDICAL"
+        }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/V7slfH69J1kMruEggABO1AQJs4cMd8b9qg7M4KhU1bTpHcSObEszFDAbMNeJBcB8WGge",
+    "headerImage": "https://play-lh.googleusercontent.com/fwf1-RMDKb-gevCsD1LyS5qdBbR95WVB2-SZn82Q3UY18_KvMiO__l6P0_m3vq71n6Pz",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/yW_Hznx3VeKJyibKajJ4D1khMIlL4iYcDxQGsfmKRZuA1uPtLWY5GMmquN7_HPGW1C4",
+        "https://play-lh.googleusercontent.com/WbTq8q0rit8x_zj_rnwkzPHOmENMlXRUqFkmIsg4EpWMqBWIU90a-HNc4HJ6VfDpdA",
+        "https://play-lh.googleusercontent.com/qWiqfuzwuTInM4sDZE4S3MTUd-BWpkFfHcdv2RyY1UEH0sKTVOpa7fH7T7zAIyoXiA",
+        "https://play-lh.googleusercontent.com/MQIP4ZDUVndagsZIDretm7eay5ccW2DSJAzbKJO-QryaCa_7EC5OhloebWWWoMM2wJ1t"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": false,
+    "containsAds": false,
+    "released": "Feb 26, 2018",
+    "lastUpdatedOn": "Apr 23, 2024",
+    "updated": 1713862594,
+    "version": "1.19.4",
+    "comments": [],
+    "appId": "com.OrlandoHealth.VirtualVisit",
+    "url": "https://play.google.com/store/apps/details?id=com.OrlandoHealth.VirtualVisit&hl=en&gl=us"
+}
